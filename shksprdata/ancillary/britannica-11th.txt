@@ -1,34 +1,20 @@
 ### START: ED4A800_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A800.TIF 
 
-7 7 2 SHAKE1
-Shirley), in weaving linen (at Alfred), and in knitting underwear they
-did better work.
-See john P. MacLean, A Bibliography of Shaker Literature. with an
-Introductory Study of the Writings and Publications Pertaining to
-Ohio Believers (Columbus, Ohio, 1905), and his Sketch ofthe Life and
-the Labors of Richard McNemar (Franklin, Ohio, I905)i Charles
-Edson Robinson, A Concise History of the United Society of Believers,
-called Shakers (East Canterbury, N.H., 1893); Anna White and
-Leila S. Taylor, Shakerisrn, Its Meaning and Message (Columbus, Ohio,
-1905); Frederick IN. Evans, Shakers: Compendium of the Origin,
-History, Principles, Rules and Regulations, Governments and Doctrines
-' of the United Society of Believers in Christ’s Second Appearing (Albany,
-1858; and often elsewhere under other titles); M. Catherine Allen,
-A Century of Communism (Pittsfield, 1902); and the works of
-Nordhofi, Noyes, Hinds, &c., on American communism.
-SHAKESPEARE, WILLIAM (1564*1616), English poet, player
-and playwright, was baptized in the parish church of Stratford-
-upon-Avon in Warwickshire on the 26th of April
-EL';" 1564. The exact date of his birth is not known. Two
-parentage_ 18th-century antiquaries, William Oldys and joseph
+p.772:0
+
+SHAKESPEARE, WILLIAM (1564--1616), English poet, player
+and playwright, was baptized in the parish church of Stratford-upon-Avon
+in Warwickshire on the 26th of April
+1564. The exact date of his birth is not known. Two 18th-century
+antiquaries, William Oldys and Joseph
 Greene, gave it as April 23, but without quoting
 authority for their statements, and the fact that April 23 was
-the day of Shakespeare’s death in 1616 suggests a possible
+the day of Shakespeare's death in 1616 suggests a possible
 source of error. In any case his birthday cannot have been
 later than April 23, since the inscription upon his monument
 is evidence that on April 23, 1616, he had already begun his
-fifty-third year. His father, ]ohn Shakespeare, was a burgess
+fifty-third year. His father, John Shakespeare, was a burgess
 of the recently constituted corporation of Stratford, and had
 already filled certain minor municipal offices. From 1561 to
 1563 he had been one of the two chamberlains to whom the
@@ -38,43 +24,43 @@ various kinds of agricultural produce, such as barley, timber
 and wool. Aubrey (Lives, 1680) spoke of him as a butcher, and
 it is quite possible that he bred and even killed the calves whose
 skins he manipulated. He is sometimes described in formal
-documents as a yeoman, and it is highly probable that he com-
-bined a certain amount of farming with the practice of his trade.
-He was living in Stratford as early as 1 552, in which year he was
+documents as a yeoman, and it is highly probable that he combined
+a certain amount of farming with the practice of his trade.
+He was living in Stratford as early as 1552, in which year he was
 fined for having a dunghill in Henley Street, but he does not
 appear to have been a native of the town, in whose records the
 name is not found before his time; and he may reasonably
 be identified with the John Shakespeare of Snitterfield, who
 administered the goods of his father, Richard Shakespeare,
-in 1 561. Snitterheld is a village in the immediate neighbourhood
+in 1561. Snitterheld is a village in the immediate neighbourhood
 of Stratford, and here Richard Shakespeare had been settled
-as a farmer since 1529. It is possible that john Shakespeare
-carried on the farm for some time after his father’s death, and
+as a farmer since 1529. It is possible that John Shakespeare
+carried on the farm for some time after his father's death, and
 that by 1570 he had also acquired a small holding called Ingon
 in Hampton Lucy, the next village to Snitterfield. But both
 of these seem to have passed subsequently to his brother Henry,
 who was buried at Snitterfield in 1596. There was also at
 Snitterfield a Thomas Shakespeare and an Anthony Shakespeare,
 who afterwards moved to Hampton Corley; and these may have
-been of the same family. A ]ohn Shakespeareywho dwelt at
-Cliiiord Chambers, another village close to Stratford, is clearly
-distinct. Strenuous efforts have been made to trace Shake-
-speare’s genealogy beyond Richard of Snitterfield, but so far
+been of the same family. A John Shakespeare who dwelt at
+Clifford Chambers, another village close to Stratford, is clearly
+distinct. Strenuous efforts have been made to trace Shakespeare's
+genealogy beyond Richard of Snitterfield, but so far
 without success. Certain drafts of heraldic exemplifications of
-the Shakespeare arms speak, in one case of ]ohn Shakespeare’s
+the Shakespeare arms speak, in one case of John Shakespeare's
 grandfather, in another of his great-grandfather, as having been
 rewarded with lands and tenements in Warwickshire for service
 to Henry VII. No such grants, however, have been traced, and
-even in the 16th-century statements as to " antiquity and service "
+even in the 16th-century statements as to "antiquity and service"
 in heraldic preambles were looked upon with suspicion.
+
 The name Shakespeare is extremely widespread, and is spelt
-in an astonishing variety of ways. That of ]ohn Shakespeare
+in an astonishing variety of ways. That of John Shakespeare
 occurs 166 times in the Council Book of the Stratford corporation,
 and appears to take 16 different forms. The verdict, not
 altogether unanimous, of competent palaeographers is to the
-efifect that Shakespeare himself, in the extant examples of his
-signature, always wrote “Shakspere." In the printed signa-
-tures to the dedications of his poems, on the title-pages of nearly
+effect that Shakespeare himself, in the extant examples of his signature, always wrote "Shakspere."
+In the printed signatures to the dedications of his poems, on the title-pages of nearly
 all the contemporary editions of his plays that bear his name,
 and in many formal documents it appears as Shakespeare.
 
@@ -83,23 +69,24 @@ and in many formal documents it appears as Shakespeare.
 ### START: ED4A800_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A800.TIF 
 
-SPEA RE
+p.772:1
+
 This may be in part due to the martial derivation which the
-poet’s literary contemporaries were fond of assigning to his
+poet's literary contemporaries were fond of assigning to his
 name, and which is acknowledged in the arms that he bore. The
 forms in use at Stratford, however, such as Shaxpeare, by far
 the commonest, suggest a short pronunciation of the first syllable,
-and thus tend to support Dr Henry Bradley’s derivation from the
+and thus tend to support Dr Henry Bradley's derivation from the
 Anglo-Saxon personal name, Seaxberht. It is interesting, and
 even amusing, to record that in 1487 Hugh Shakspere of Merton
 College, Oxford, changed his name to Sawndare, because his
-former name vile repuialum est. The earliest record of a Shake-
-speare that has yet been traced is in 1 248 at Clapton in Gloucester-
-shire, about seven miles from Stratford. The name also occurs
+former name vile reputatum est. The earliest record of a Shakespeare
+that has yet been traced is in 1248 at Clapton in Gloucestershire,
+about seven miles from Stratford. The name also occurs
 during the 13th century in Kent, Essex and Surrey, and during
 the 14th in Cumberland, Yorkshire, Nottinghamshire, Essex,
-Warwickshire and as far away as Youghal in Ireland. There-
-after it is found in London and most of the English counties,
+Warwickshire and as far away as Youghal in Ireland. Thereafter
+it is found in London and most of the English counties,
 particularly those of the midlands; and nowhere more freely
 than in Warwickshire. There were Shakespeares in Warwick
 and in Coventry, as well as around Stratford; and the clan
@@ -111,75 +98,82 @@ as a personal name, and Williams from more than one other
 family have from time to time been confounded with the
 dramatist. Many Shakespeares are upon the register of the
 gild of St Anne at Knowle from about 1457 to about 1526.
-Amongst these were Isabella Shakespeare, prioress of the Bene-
-dictine convent of Wroxall, and ]ane Shakespeare,'a nun of the
+Amongst these were Isabella Shakespeare, prioress of the
+Benedictine convent of Wroxall, and Jane Shakespeare, a nun of the
 same convent. Shakespeares are also found as tenants on the
-manors belonging to the convent, and at the time of the Dissolu-
-tion in 153,4 one Richard Shakespeare was its bailiff and collector
+manors belonging to the convent, and at the time of the Dissolution
+in 1534 one Richard Shakespeare was its bailiff and collector
 of rents. Conjectural attempts have been made on the one hand
-to connect the ancestors of this Richard Shakespeare with ·a
+to connect the ancestors of this Richard Shakespeare with a
 family of the same name who held land by military tenure at
 Baddesley Clinton in the 14th and 15th centuries, and on me
-other to ident ify him with the poet’s grandfather, Richard
+other to identify him with the poet's grandfather, Richard
 Shakespeare of Snitterfield. But Shakespeares are to be traced
 at Wroxall nearly as far back as at Baddesley Clinton, and there
 is no reason to suppose that Richard the bailiff, who was certainly
-still a tenant of Wroxall in 1 5 56, had also since 1529 been farming
-land ten miles off at Snitteriield.
+still a tenant of Wroxall in 1556, had also since 1529 been farming
+land ten miles off at Snitterfield.
+
 With the breaking of this link, the hope of giving Shakespeare
-anything more than a grandfather on the father’s side must be
-laid aside for the present. On the mother’s side he was connected
+anything more than a grandfather on the father's side must be
+laid aside for the present. On the mother's side he was connected
 with a family of some distinction. Part at least of Richard
-Shakespeare’s land at Snitterfield was held from Robert Arden
+Shakespeare's land at Snitterfield was held from Robert Arden
 of Wilmcote in the adjoining parish of Aston Cantlow, a cadet of
 the Ardens of Parkhall, who counted amongst the leading
 gentry of Warwickshire. Robert Arden married his second wife,
 Agnes Hill, formerly Webbe, in 1548, and had then no less
 than eight daughters by his first wife. To the youngest of these,
-Mary Arden, he left in 1 5 56 a freehold in Aston Cantlow consisting
+Mary Arden, he left in 1556 a freehold in Aston Cantlow consisting
 of a farm of about fifty or sixty acres in extent, known as Asbies.
 At some date later than November 1556, and probably before
-the end of 1 5 57, Mary Arden became the wife of ]ohn Shakespeare.
-In October 1556 ]ohn Shakespeare had bought two freehold
+the end of 1557, Mary Arden became the wife of John Shakespeare.
+In October 1556 John Shakespeare had bought two freehold
 houses, one in Greenhill Street, the other in Henley Street.
 The latter, known as the wool shop, was the easternmost of
-the two tenements now combined in the so-called Shakespeare’s
+the two tenements now combined in the so-called Shakespeare's
 birthplace. The western tenement, the birthplace proper, was
-probably already in ]ohn Shakespeare’s hands, as he seems to
+probably already in John Shakespeare's hands, as he seems to
 have been living in Henley Street in 1552. It has sometimes
 been thought to have been one of two houses which formed a
 later purchase in 1575, but there is no evidence that these were
 in Henley Street at all.
-William Shakespeare was not the first child. A ]`oan was
+
+William Shakespeare was not the first child. A Joan was
 baptized in 1558 and a Margaret in 1562. The latter was buried
 in 1563 and the former must also have died young, although
-her burial is not recorded, as a second ]oan was baptized in 156o.
+her burial is not recorded, as a second Joan was baptized in 156o.
 A Gilbert was baptized in 1566, an Anne in 1571, a Richard in
-[574 and an Edmund in ISSO. Anne died in *.579; Edmund,
+1574 and an Edmund in 1580. Anne died in 1579; Edmund,
 
 ### END: ED4A800_1.tif.txt ###
 
 ### START: ED4A801_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A801.TIF 
 
-SHAKEE
+p.773:0
+
 who like his brother became an actor, in 1607; Richard in 1613.
-Tradition has it that one of Shakespeare’s brothers used to visit
+Tradition has it that one of Shakespeare's brothers used to visit
 London in the 17th century as quite an old man. If so, this can
 only have been Gilbert.
-During the years that followed his marriage, ]ohn Shakespeare
+
+During the years that followed his marriage, John Shakespeare
 became prominent in Stratford life. In 1565 he was chosen
 as an alderman, and in 1568 he held the chief municipal office,
 that of high bailiif. This carried with it the dignity of justice
-of the peace. ]ohn Shakespeare seems to have assumed arms,
+of the peace. John Shakespeare seems to have assumed arms,
 and thenceforward was always entered in corporation documents
-as " Mr " Shakespeare, whereby he may be distinguished from
-another john Shakespeare, a " corviser " or shoemaker, who
+as "Mr" Shakespeare, whereby he may be distinguished from
+another John Shakespeare, a "corviser" or shoemaker, who
 dwelt in Stratford about 1584-1592. In 1571 as an ex-bailiff he
-began another year of ofhce as chief alderman.
+began another year of office as chief alderman.
+
+[Youth]
+
 One may think, therefore, of Shakespeare in his boyhood as
 the son of one of the leading citizens of a not unimportant
-youth- provincial market-town, with a vigorous life of its
+provincial market-town, with a vigorous life of its
 own, which in spite of the dunghills was probably not
 much unlike the life of a similar town to-day, and with constant
 reminders of its past in the shape of the stately buildings formerly
@@ -191,68 +185,74 @@ fields for tillage, and not far from the wilder and wooded district
 known as the Forest of Arden. The middle ages had left it
 an heritage in the shape of a free grammar-school, and here it
 is natural to suppose that William Shakespeare obtained a sound
-enough education} with a working knowledge of " Mantuan"’
+enough education[^1] with a working knowledge of  Mantuan"[^2]
 and Ovid in the original, even though to such a thorough scholar
-as Ben jonson it might seem no more than " small Latin and
+as Ben Jonson it might seem no more than "small Latin and
 less Greek." In 1577, when Shakespeare was about thirteen,
-his father’s fortunes began to take a turn for the worse. He
+his father's fortunes began to take a turn for the worse. He
 became irregular in his contributions to town levies, and had to
-give a mortgage on his wife’s property of Asbies as security
+give a mortgage on his wife's property of Asbies as security
 for a loan from her brother-in-law, Edmund Lambert. Money
 was raised to pay this off, partly by the sale of a small interest
 in land at Snitterfield which had come to Mary Shakespeare
 from her sisters, partly perhaps by that of the Greenhill Street
 house and other property in Stratford outside Henley Street,
-none of which seems to have ever come into William Shake-
-speare’s hands. Lambert, however, refused to surrender the
+none of which seems to have ever come into William Shakespeare's
+hands. Lambert, however, refused to surrender the
 mortgage on the plea of older debts, and an attempt to recover
-Asbies by litigation proved ineffectual. john Shakespeare’s
-dimculties increased. An action for debt was sustained against
+Asbies by litigation proved ineffectual. John Shakespeare's
+difficulties increased. An action for debt was sustained against
 him in the local court, but no personal property could be found
 on which to distrain. He had long ceased to attend the meetings
 of the corporation, and as a consequence he was removed in
-1 586 from the list of aldermen. In this state of domestic affairs it
-is not likely that Shakespeare’s school life was unduly prolonged.
+1586 from the list of aldermen. In this state of domestic affairs it
+is not likely that Shakespeare's school life was unduly prolonged.
 The chances are that he was apprenticed to some local trade.
-Aubrey says that he killed calves for his father, and " would do
+Aubrey says that he killed calves for his father, and "would do
 it in a high style, and make a speech."
+
+[^1]: It is worth noting that Walter Roche, who in 1558 became
+fellow of Corpus Christi College, Oxford, was master of the school in
+1570-1572, so that its standard must have been good.
+
+[^2]: Baptista Mantuanus (1448-1516), whose Latin Eclogues were
+translated by Turberville in 1567.
+
+[Marriage]
+
 Whatever his circumstances, they did not deter him at the
 early age of eighteen from the adventure of marriage. Rowe
-Marriage' recorded the name of Shakespeare’s wife as Hathaway,
+recorded the name of Shakespeare's wife as Hathaway,
 and Joseph Greene succeeded in tracing her to a family
 of that name dwelling in Shottery, one of the hamlets of Stratford.
 Her monument gives her first name as Anne, and her age as
-sixty-seven in 162 3. She must, therefore, have been about eight
+sixty-seven in 1623. She must, therefore, have been about eight
 years older than Shakespeare. Various small trains of evidence
 point to her identification with the daughter Agnes mentioned
 in the will of a Richard Hathaway of Shottery, who died in
-1581, being then_ in possession of the farm-house now known
-as " Anne Hathaway’s Cottage." Agnes was legallya distinct
+1581, being then in possession of the farm-house now known
+as "Anne Hathaway's Cottage." Agnes was legally distinct
 name from Anne, but there can be no doubt that ordinary
 custom treated them as identical. The principal record of the
-‘ It is worth noting that Walter Roche, who in 1558 became
-fellow of Corpus Christi College, Oxford, was master of the school in
-1570-1572, so that its standard must have been good.
-’ Baptista Mantuanus (1448-1516), whose Latin Eclogues were
-translated by Turberville in 1567.
 
 ### END: ED4A801_0.tif.txt ###
 
 ### START: ED4A801_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A801.TIF 
 
-SPEARE 7 7 3
+p.773:1
+
 marriage is a bond dated on November 28, 1582, and executed
-by Fulk Sandells and john Richardson, two yeomen of Stratford
-who also figure in Richard Hathaway’s will, as a security to the
+by Fulk Sandells and John Richardson, two yeomen of Stratford
+who also figure in Richard Hathaway's will, as a security to the
 bishop for the issue of a licence for the marriage of William
-Shakespeare and " Anne Hathwey of Stratford," upon the
+Shakespeare and "Anne Hathwey of Stratford," upon the
 consent of her friends, with one asking of the banns. There
 is no reason to suppose, as has been suggested, that the procedure
-adopted was due to dislike of the marriage on the part of john
+adopted was due to dislike of the marriage on the part of John
 Shakespeare, since, the bridegroom being a minor, it would not
-have been in accordance with the practice of the bishop’s officials
-to issue the licence without evidence of the father’s consent.
+have been in accordance with the practice of the bishop's officials
+to issue the licence without evidence of the father's consent.
 The explanation probably lies in the fact that Anne was already
 with child, and in the near neighbourhood of Advent within
 which marriages were prohibited, so that the ordinary procedure
@@ -261,38 +261,41 @@ A kindly sentiment has suggested that some form of civil
 marriage, or at least contract of espousals, had already taken
 place, so that a canonical marriage was really only required in
 order to enable Anne to secure the legacy left her by her father
-" at the day of her marriage." But such a theory is not rigidly
+"at the day of her marriage." But such a theory is not rigidly
 required by the facts. It is singular that, upon the day before
 that on which the bond was executed, an entry was made in
-the bishop’s register of the issue of a licence for a marriage
-between William Shakespeare and " Annam Whateley de Temple
+the bishop's register of the issue of a licence for a marriage
+between William Shakespeare and "Annam Whateley de Temple
 Grafton." Of this it can only be said that the bond, as an
 original document, is infinitely the better authority, and that
-a scribal error of " Whateley " for " Hathaway "vis quite a
+a scribal error of "Whateley" for "Hathaway" is quite a
 possible solution. Temple Grafton may have been the nominal
 place of marriage indicated in the licence, which was not always
 the actual place of residence of either bride or bridegroom.
 There are no contemporary registers for Temple Grafton, and
 there is no entry of the marriage in those for Stratford-upon-
 Avon. There is a tradition that such a record was seen during
-the 1oth century in the registers for Luddington, a chapelry
-within the parish, which are now destroyed. Shakespeare’s
+the 19th century in the registers for Luddington, a chapelry
+within the parish, which are now destroyed. Shakespeare's
 first child, Susanna, was baptized on the 26th of May 1583,
 and was followed on the 2nd of February 1585 by twins,
-Hamnet and ]udith.·
-In or after 1584 Shakespeare’s career in Stratford seems to
+Hamnet and Judith.
+
+[Obscure years, 1584-1592]
+
+In or after 1584 Shakespeare's career in Stratford seems to
 have come to a tempestuous close. An 18th-century story of a
 drinking-bout in a neighbouring village is of no Obscure
-importance, except as indicating a local impression years,
-that a distinguished citizen had had a wildish youth. $84*
-But there is a tradition which comes from a double 159 z'
+importance, except as indicating a local impression
+that a distinguished citizen had had a wildish youth.
+But there is a tradition which comes from a double
 source and which there is no reason to reject in substance, to
 the effect that Shakespeare got into trouble through poaching
 on the estates of a considerable Warwickshire magnate, Sir
 Thomas Lucy, and found it necessary to leave Stratford in order
 to escape the results of his misdemeanour. It is added that he
 afterwards took his revenge on Lucy by satirizing him as the
-_Tustice Shallow, with the dozen white louses in his old coat,
+Justice Shallow, with the dozen white louses in his old coat,
 of The Merry Wives of Windsor. From this event until he
 emerges as an actor and rising playwright in 1592 his history is
 a blank, and it is impossible to say what experience may not
@@ -301,18 +304,16 @@ of crowded Elizabethan life. Conjecture has not been idle, and
 has assigned him in turns during this or some other period to
 the occupations of a scrivener, an apothecary, a dyer, a printer,
 a soldier, and the like. The suggestion that he saw military
-service rests largely on a confusion with another William Shake-
-‘ speare of Rowington. Aubrey had heard that " he had been
+service rests largely on a confusion with another William Shakespeare of Rowington. Aubrey had heard that "he had been
 in his younger years a schoolmaster in the country." The
 mention in Henry IV. of certain obscure yeomen families,
 Visor of Woncote and Perkes of Stinchcombe Hill, near Dursley
 in Gloucestershire, has been thought to suggest a sojourn in
-‘ that district, where indeed Shakespeares were to be found from
-¤ an early date. Ultimately, of course, he drifted to London
+that district, where indeed Shakespeares were to be found from
+Â¤ an early date. Ultimately, of course, he drifted to London
 and the theatre, where, according to the stage tradition, he
-’ found employment in a menial capacity, perhaps even as a
-[ holder of horses at the doors, before he was admitted into a
-, company as an actor and so found his way to his true vocation
+found employment in a menial capacity, perhaps even as a
+holder of horses at the doors, before he was admitted into a company as an actor and so found his way to his true vocation
 as a writer of plays. Malone thought that he might have left
 
 ### END: ED4A801_1.tif.txt ###
@@ -320,48 +321,52 @@ as a writer of plays. Malone thought that he might have left
 ### START: ED4A802_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A802.TIF 
 
-7 74- SHAKEf
+p.774:0
+
 Stratford with one of the travelling companies of players which
 from time to time visited the town. Later biographers have
-fixed upon Leicester’s men, who were at Stratford in 1587,
+fixed upon Leicester's men, who were at Stratford in 1587,
 and have held that Shakespeare remained to the end in the same
-company, passing with it on Leiceste1"s death in 1588 under the
+company, passing with it on Leicester's death in 1588 under the
 patronage of Ferdinando, Lord Strange and afterwards earl of
-Derby, and on Derby’s death in 1594 under that of the lord
+Derby, and on Derby's death in 1594 under that of the lord
 chamberlain, Henry Carey, Lord Hunsdon. This theory perhaps
 hardly takes sufficient account of the shifting combinations
 and recombinations of actors, especially during the disastrous
-plague years of 1592 to 1594. The continuity of Strange’s
-company with Leicester’s is very disputable, and while the names
-of many members of Strange’s company in and about 1593
-are on record, Shakespeare’s is not amongst them. It is at least
+plague years of 1592 to 1594. The continuity of Strange's
+company with Leicester's is very disputable, and while the names
+of many members of Strange's company in and about 1593
+are on record, Shakespeare's is not amongst them. It is at least
 possible, as will be seen later, that he had about this time
-relations with the earl of Pembroke’s men, or with the earl of
-Sussex’s men, or with both of these organizations.
+relations with the earl of Pembroke's men, or with the earl of
+Sussex's men, or with both of these organizations.
+
+[Playwright and poet]
+
 What is clear is that by the summer of 1592, when he was
 twenty-eight, he had begun to emerge as a playwright, and had
 evoked the jealousy of one at least of the group of
-C':]-V;" scholar poets who in recent years had claimed a
-mdgpoet monopoly of the stage. This was Robert Qreene,
+scholar poets who in recent years had claimed a
+monopoly of the stage. This was Robert Greene,
 who, in an invective on behalf of the play-makers
 against the play-actors which forms part of his Groats-worth
-of Wit, speaks of " an upstart Crow, beautiiied with our feathers,
-that with his Tygers heart wrap! in a Players hide, supposes he
+of Wit, speaks of "an upstart Crow, beautiiied with our feathers,
+that with his *Tygers heart wrap! in a Players hide,* supposes he
 is as well able to bumbast out a blanke verse as the best of you:
-and being an absolute Johannes fac iotum, is in his owne conceit
-the onely Shake-scene in a countrie." The play upon Shake-
-speare’s name and the parody of a line from Henry VI. make
-the reference unmistakable} The London theatres were closed,
+and being an absolute *Johannes fac iotum*, is in his owne conceit
+the onely Shake-scene in a countrie." The play upon Shakespeare's
+name and the parody of a line from Henry VI. make
+the reference unmistakable.[^1] The London theatres were closed,
 first through riots and then through plague, from June 1592
-‘ to April 1594, with the exception of about a month at each
+to April 1594, with the exception of about a month at each
 Christmas during that period; and the companies were dissolved
 or driven to the provinces. Even if Shakespeare had been
-connected with ‘Strange's men during their London seasons of
+connected with Strange's men during their London seasons of
 1592 and 1593, it does not seem that he travelled with them.
-Other activities may have been sufficient to occupy the interval..
+Other activities may have been sufficient to occupy the interval.
 The most important of these was probably an attempt to win
-a reputation in the world of non-dramatic poetry. Venus and
-Adonis was published about April 1593, and Lucrece about May
+a reputation in the world of non-dramatic poetry. *Venus and
+Adonis* was published about April 1593, and *Lucrece* about May
 1594. The poems were printed by Richard Field, in whom
 Shakespeare would have found an old Stratford acquaintance;
 and each has a dedication to Henry Wriothesley, earl of South-
@@ -372,59 +377,64 @@ supposed to argue a marked growth of intimacy. The fact of
 this intimacy is vouched for by the story handed down from
 Sir William Davenant to Rowe (who published in 1709 the first
 regular biography of Shakespeare) that Southampton gave
-Shakespeare a thousand pounds " to enable him to go through
-with a purchase which heheard he had a mind to." The date of
-this generosity is not specihed, and there is no known purchase by
+Shakespeare a thousand pounds "to enable him to go through
+with a purchase which he heard he had a mind to." The date of
+this generosity is not specified, and there is no known purchase by
 Shakespeare which can have cost anything like the sum named.
 The mention of Southampton leads naturally to the most
-· difficult problem which a biographer has to handle, that of the
-Sonnets. But this will be more conveniently taken up at a
+difficult problem which a biographer has to handle, that of the
+*Sonnets*. But this will be more conveniently taken up at a
 later point, and it is only necessary here to put on record the
 probability that the earliest of the sonnets belong to the period
 now under discussion. There is a surmise, which is not in itself
 other than plausible, and which has certainly been supported with
-a good deal of ingenious argument, that Shakespeare’s enforced
-leisure enabled him to make of 1593 a Wanderjahr, and in
+a good deal of ingenious argument, that Shakespeare's enforced
+leisure enabled him to make of 1593 a *Wanderjahr*, and in
 particular that the traces of a visit to northern Italy may clearly
-be seen in the local colouring of Lucrece as compared with Venus
-and Adonis, and in that of the group of plays which may be dated
-in or about 1594 and 1 595 as compared with those that preceded.
+be seen in the local colouring of *Lucrece* as compared with *Venus
+and Adonis*, and in that of the group of plays which may be dated
+in or about 1594 and 1595 as compared with those that preceded.
 It must, however, be borne in mind that, while Shakespeare
 may perfectly well, at this or at some earlier time, have voyaged
-l It is most improbable, however, that the apologetic reference in
-Chettle's Kind-hart's Dream (December 1592) refers to Shakespeare,
+
+[^1]: It is most improbable, however, that the apologetic reference in
+Chettle's *Kind-hart's Dream* (December 1592) refers to Shakespeare.
 
 ### END: ED4A802_0.tif.txt ###
 
 ### START: ED4A802_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A802.TIF 
 
-SPEARE
+p.774:1
+
 to Italy, and possibly Denmark and even Germany as well,
 there is no direct evidence to rely upon, and that inference from
-internal evidence is a dangerous guide when a writer of so assimila-
-tive a temperament as that of Shakespeare is concerned.
+internal evidence is a dangerous guide when a writer of so assimilative
+a temperament as that of Shakespeare is concerned.
+
+[Connexion with the Chamberlain's company of actors]
+
 From the reopening of the theatres in the summer of 1594
-onwards Shakespeare’s status is in many ways clearer. He had
-certainly become a leading member of the Chamber-
-lain’s company by the following winter, when his fvzlqflflou
-name appears for the first and only time in the treasurer chamber.
-of the chamber’s accounts as one of the recipients of '¤i¤’¤
-payment for their performances at court; and there is ggfggg
-·every reason to suppose that he continued to act with I
+onwards Shakespeare's status is in many ways clearer. He had
+certainly become a leading member of the Chamberlain's
+company by the following winter, when his
+name appears for the first and only time in the treasurer
+of the chamber's accounts as one of the recipients of 
+payment for their performances at court; and there is
+every reason to suppose that he continued to act with
 and write for the same associates to the close of his career. The
 history of the company may be briefly told. At the death of the
-lord chamberlain on the 22nd of ]uly 1596, it passed under the
+lord chamberlain on the 22nd of July 1596, it passed under the
 protection of his successor, George, 2nd Lord Hunsdon, and
-once more became " the Lord Chamberlain’s men" when he
+once more became "the Lord Chamberlain's men" when he
 was appointed to that office on the 17th of March 1597. James I.
 on his accession took this company under his patronage as grooms
-of the chamber, and during the remainder of Shakespeare’s
-connexion with the stage they were " the King’s men/’ The
+of the chamber, and during the remainder of Shakespeare's
+connexion with the stage they were "the King's men." The
 records of performances at court show that they were by far the
 most favoured of the companies, their nearest rivals being the
-company known during the reign of Elizabeth as " the Admiral’s,"
-and afterwards as " Prince Henry’s men." From the summer
+company known during the reign of Elizabeth as "the Admiral's,"
+and afterwards as "Prince Henry's men." From the summer
 of 1594 to March I603 they appear to have played almost
 continuously in London, as the only provincial performances by
 them which are upon record were during the autumn of 1597,
@@ -436,75 +446,80 @@ thereafter. In 1594 they were playing at Newington Butts, and
 probably also at the Rose on Bankside, and at the Cross Keys
 in the city. It is natural to suppose that in later years they
 used the Theatre in Shoreditch, since this was the property of
-james Burbage, the father of their principal actor, Richard
-Burbage. *The Theatre was pulled down in 1598, and, after _a
+James Burbage, the father of their principal actor, Richard
+Burbage. The Theatre was pulled down in 1598, and, after a
 short interval during which the company may have played at the
 Curtain, also in Shoreditch, Richard Burbage and his brother
 Cuthbert rehoused them in the Globe on Bankside, built in part
 out of the materials of the Theatre. Here the profits of the
 enterprise were divided between the members of the company
-as such and the owners of the building as " housekeepers,"
-and shares in the " house " were held in joint tenancy by Shake-
-speare and some of his leading " fellows." About 1608 another
-playhouse became available for the company in the " private "
+as such and the owners of the building as "housekeepers,"
+and shares in the "house" were held in joint tenancy by Shake-
+speare and some of his leading "fellows." About 1608 another
+playhouse became available for the company in the "private "
 or winter house of the Black Friars. This was also the property
 of the Burbages, but had previously been leased to a company
 of boy players. A somewhat similar arrangement as to profits
 was made.
+
 Shakespeare is reported by Aubrey to have been a good actor,
-but Adam in As You Like It, and the Ghost in H amlel indicate
+but Adam in *As You Like It*, and the Ghost in *Hamlet* indicate
 the type of part which he played. As a dramatist, however,
 he was the mainstay of the company for at least some fifteen years,
-during which Ben jonson, Dekker, Beaumont and Fletcher, and
+during which Ben Jonson, Dekker, Beaumont and Fletcher, and
 Tourneur also contributed to their repertory. On an average
 he must have written for them about two plays a year, although
 his rapidity of production seems to have been greatest during
 the opening years of the period. There was also no doubt a good
 deal of rewriting of his own earlier work, and also perhaps, at
-. the beginning, of that of others. Occasionally he may have
+the beginning, of that of others. Occasionally he may have
 . entered into collaboration, as, for example, at the end of his
 career, with Fletcher.
+
+[Stratford Affairs]
+
 In a worldly sense he clearly flourished, and about 1596, if
-· not earlier, he was able to resume relations as a moneyed
-, man with Stratford-on-Avon. There is no evidence to show
-. whether he had visited the town in the interval, or whether
-z he had brought his wife and family to London. His son Hamnet
-l died and was buried at Stratford in 1596. During the last ten
-l years John Shakespeare’s affairs had remained unprosperous.
-, He incurred fresh debt, partly through becoming surety for
+not earlier, he was able to resume relations as a moneyed
+man with Stratford-on-Avon. There is no evidence to show
+whether he had visited the town in the interval, or whether
+he had brought his wife and family to London. His son Hamnet
+died and was buried at Stratford in 1596. During the last ten
+years John Shakespeare's affairs had remained unprosperous.
+He incurred fresh debt, partly through becoming surety for
 
 ### END: ED4A802_1.tif.txt ###
 
 ### START: ED4A803_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A803.TIF 
 
-SHA KEE
+p.775:0
+
 his brother Henry; and in 1592 his name was included in a list
-of recusants dwelling at or near Stratford-on-Avon,with a note
+of recusants dwelling at or near Stratford-on-Avon, with a note
 by the commissioners that in his case the cause was believed to
 be the fear of process for debt. There is no reason to doubt
-Stratford this explanation, or to seek a religious motive in
-alfalfa_ john Shakespeare’s abstinence from church. William
-Shakespeare’s purse must have made a considerable
+this explanation, or to seek a religious motive in
+John Shakespeare's abstinence from church. William
+Shakespeare's purse must have made a considerable
 difference. The prosecutions for debt ceased, and in 1597 a
 fresh action was brought in Chancery for the recovery of Asbies
 from the Lamberts. Like the last, it seems to have been
 without result. Another step was taken to secure the dignity
 of the family by an application in the course of 1596 to the
 heralds for the confirmation of a coat of arms said to have been
-granted to john Shakespeare while he was bailiff of Stratford.
-The bearings were ar on a bend sable a spear or steeled argent,
-the crest a falcon his wings displayed argent supporting a spear
-or steeled argent, and the motto N on sanz droiet. The grant
+granted to John Shakespeare while he was bailiff of Stratford.
+The bearings were *or* on a bend *sable* a spear *or* steeled *argent*,
+the crest a falcon his wings displayed *argent* supporting a spear
+*or* steeled *argent*, and the motto *Non sanz droict*. The grant
 was duly made, and in 1599 there was a further application for
-leave to impale the arms of Arden, in right of Shakespeare’s
-mother. No use, however, of the Arden arms by the Shake-
-speares can be traced. In 1597 Shakespeare made an important
-purchase for {60 of the house and gardens of New Place in Chapel
+leave to impale the arms of Arden, in right of Shakespeare's
+mother. No use, however, of the Arden arms by the Shakespeares
+can be traced. In 1597 Shakespeare made an important
+purchase for £60 of the house and gardens of New Place in Chapel
 Street. This was one of the largest houses in Stratford, and
-its acquisition an obvious triumph for the ex-poacher. Presum-
-ably john Shakespeare ended his days in peace. A visitor to
-his shop remembered him as " a merry-cheekt old man " always
+its acquisition an obvious triumph for the ex-poacher. Presumably
+John Shakespeare ended his days in peace. A visitor to
+his shop remembered him as "a merry-cheekt old man" always
 ready to crack a jest with his son. He died in 1601, and his wife
 in 1608, and the Henley Street houses passed to Shakespeare.
 Aubrey records that he paid annual visits to Stratford, and there
@@ -515,120 +530,131 @@ to London, and a discussion of possible investments for him
 in the neighbourhood of Stratford. In 1602 he took, at a rent
 of 2s. 6d. a year, a copyhold cottage in Chapel Lane, perhaps
 for the use of his gardener. In the same year he invested
-{520 in the purchase of an estate consisting of 107 acres in the
+£320 in the purchase of an estate consisting of 107 acres in the
 open fields of Old Stratford, together with a farm-house, garden
-and orchard, zo acres of pasture and common rights; and in
-1605 he spent another {440 in the outstanding term of a lease
+and orchard, 20 acres of pasture and common rights; and in
+1605 he spent another £440 in the outstanding term of a lease
 of certain great tithes in Stratford parish, which brought in an
-income of about {60 a year.
+income of about £60 a year.
+
+[London Associations]
+
 Meanwhile London remained his headquarters. Here Malone
 thought that he had evidence, now lost, of his residence in South-
 Lmdon wark as early as 1596, and as late as 1608. It is
-““c,¤_ known that payments of subsidy were due from him
-go.", for 1597 and 1598 in the parish of St Helen’s, Bishops-
-gate, and that an arrear was ultimately collected
+known that payments of subsidy were due from him
+for 1597 and 1598 in the parish of St Helen's, Bishopsgate,
+and that an arrear was ultimately collected
 in the liberty of the Clink. He had no doubt migrated from
 Bishopsgate when the Globe upon Bankside was opened by the
-Chamberlain’s men. There is evidence that in 1604 he " lay,"
+Chamberlain's men. There is evidence that in 1604 he "lay,"
 temporarily or permanently, in the house of Christopher
-Mountjoy, a tire—maker of French extraction, at the corner of
+Mountjoy, a tire-maker of French extraction, at the corner of
 Silver Street and Monkwell Street in Cripplegate. A recently
 recovered note by Aubrey, if it really refers to Shakespeare
 (which is not quite certain), is of value as throwing light not
 only upon his abode, but upon his personality. Aubrey seems to
 have derived it from William Beeston the actor, and through
-him from john Lacy, an actor of the king’s company. It is
-as follows: " The more to be admired q[uod] he was not a
-company·keeper, lived in Shoreditch, would not be debauched,
+him from John Lacy, an actor of the king's company. It is
+as follows: "The more to be admired q[uod] he was not a
+company-keeper, lived in Shoreditch, would not be debauched,
 & if invited to court, he was in paine." Against this testimony
-to the correctness of Shakespeare’s morals are to be placed an
-anecdote of a green—room amour picked up by a Middle Temple
+to the correctness of Shakespeare's morals are to be placed an
+anecdote of a green-room amour picked up by a Middle Temple
 student in 1602 and a Restoration scandal which made him the
 father by the hostess of the Crown Inn at Oxford, where he
 baited on his visits to Stratford, of Sir William Davenant, who
 was born in February 1606. His credit at court is implied by
-Ben jonson’s references to his flights " that so did take Eliza
-and our james," and by stories of the courtesies which passed
-between him and Elizabeth while he was playing a kingly partin
-her presence, of the origin of The Merry Wives of Windsor in
+Ben Jonson's references to his flights "that so did take Eliza
+and our James," and by stories of the courtesies which passed
+between him and Elizabeth while he was playing a kingly part in
+her presence, of the origin of *The Merry Wives of Windsor* in
 
 ### END: ED4A803_0.tif.txt ###
 
 ### START: ED4A803_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A803.TIF 
 
-SPE ARE 7 7 5
+p.775:1
+
 her desire to see Falstaff in love, and of an autograph letter
-written to honour him by King james. It was noticed with
-some surprise by Henry Chettle that his “ honied muse " dropped
-no " sable tear " to celebrate the death of the queen. South-
-ampton’s patronage may have introduced him to the brilliant
+written to honour him by King James. It was noticed with
+some surprise by Henry Chettle that his "honied muse" dropped
+no "sable tear" to celebrate the death of the queen. Southampton's
+patronage may have introduced him to the brilliant
 circle that gathered round the earl of Essex, but there is no
 reason to suppose that he or his company were held personally
-responsible for the performance of Richard I I . at the command
+responsible for the performance of Richard II. at the command
 of some of the followers of Essex as a prelude to the disastrous
 rising of February 1601. The editors of the First Folio speak
 also of favours received by the author in his lifetime from
-William Herbert, earl of Pembroke, ·and his brother Philip
+William Herbert, earl of Pembroke, and his brother Philip
 Herbert, earl of Montgomery.
+
+[Friends]
+
 He appears to have been on cordial terms with his fellows
 of the stage. One of them, Augustine Phillips, left him a
-small legacy in I60S, and in his own will he paid a Fr,mds_
-similar compliment to Richard Burbage, and to john
+small legacy in 1605, and in his own will he paid a
+similar compliment to Richard Burbage, and to John
 Heminge and Henry Condell, who afterwards edited his plays.
-His relations with Ben ]onson, whom he is said by Rowe to have
+His relations with Ben Jonson, whom he is said by Rowe to have
 introduced to the world as a playwright, have been much
 canvassed. Jests are preserved which, even if apocryphal,
-indicate considerable intimacy between ·the two. This is not
+indicate considerable intimacy between the two. This is not
 inconsistent with occasional passages of arms. The anonymous
-author of The Return from Parnassus (2nd part; 1602), for
-example, makes Kempe, the actor, allude to a " purge " which
-Shakespeare gave ]onson, in return for his attack on some of
-his rivals in The Poetaster.1 It has been conjectured that this
+author of *The Return from Parnassus* (2nd part; 1602), for
+example, makes Kempe, the actor, allude to a "purge "which
+Shakespeare gave Jonson, in return for his attack on some of
+his rivals in *The Poetaster*.[^1] It has been conjectured that this
 purge was the description of Ajax and his humours in Troilus
-and Cressida. ]onson, on the other hand, who was criticism
+and Cressida. Jonson, on the other hand, who was criticism
 incarnate, did not spare Shakespeare either in his prologues or
 in his private conversation. He told Drummond of Hawthornden
-that " Shakspeer wanted arte." But the verses which he con—
-tributed to the First Folio are generous enough to make all
-amends, and in his Discoveries (pub. 1641; written c. 1624 and
-later), while regretting Shakespeare’s excessive facility and the
-fact that he often " fell into those things, could not escape
-laughter," he declares him to have been " honest and of an
-open and free nature," and says that, for his own part, " I lov’d
+that "Shakspeer wanted arte." But the verses which he contributed
+to the First Folio are generous enough to make all
+amends, and in his *Discoveries* (pub. 1641; written c. 1624 and
+later), while regretting Shakespeare's excessive facility and the
+fact that he often "fell into those things, could not escape
+laughter," he declares him to have been "honest and of an
+open and free nature," and says that, for his own part, "I lov'd
 the man and do honour his memory (on this side idolatry) as
 much as any." According to the memoranda-book (1661-1663)
-of the Rev. ]ohn Ward (who became vicar of Stratford in 1662),
-jonson and Michael Drayton, himself a Warwickshire poet, had
+of the Rev. John Ward (who became vicar of Stratford in 1662),
+Jonson and Michael Drayton, himself a Warwickshire poet, had
 been drinking with Shakespeare when he caught the fever of
-which he died; and Thomas Fuller (1608-1661), whose Worthies
+which he died; and Thomas Fuller (1608-1661), whose *Worthies*
 was published in 1662, gives an imaginative description of the
 wit combats, of which many took place between the two
-mighty contemporaries. ,
-Of Shakespeare’s literary reputation during his lifetime there
-is ample evidence. He is probably neither the " Willy " of
-Spenser’s Tears of the Muses, nor the " Action " of comm,.
-his Colin Clout’s Came Home Again. But from the Pvflry
-time of the publication of Venus and Adonis and ;`fP"“"
-Lucrece honorihc allusions to his work both as poet M`
-anddramatist, and often to himself by name, come thick and
+mighty contemporaries.
+
+[Contemporary Reputation]
+
+Of Shakespeare's literary reputation during his lifetime there
+is ample evidence. He is probably neither the "Willy" of
+Spenser's *Tears of the Muses*, nor the "Aetion" of
+his *Colin Clout's Came Home Again*. But from the
+time of the publication of *Venus and Adonis* and
+*Lucrece* honorific allusions to his work both as poet 
+and dramatist, and often to himself by name, come thick and
 fast from writers of every kind and degree. Perhaps the most
 interesting of these from the biographical point of view are those
-contained in the Palladis T arnia, a kind of literary handbook
-published by Francis Meres in 1508; for Meres not only extols
-him as " the most excellent in both kinds [i.e. comedy and
-tragedy] for the stage," and one of " the most passionate among
+contained in the *Palladis Tamia*, a kind of literary handbook
+published by Francis Meres in 1598; for Meres not only extols
+him as "the most excellent in both kinds [i.e. comedy and
+tragedy] for the stage," and one of "the most passionate among
 us to bewaile and bemoane the perplexities of Love," but also
 takes the trouble to give a list of twelve plays already written,
 which serves as a starting-point for all modern attempts at a
 chronological arrangement of his work. It is moreover from
-Meres that we first hear of “ his sugred Sonnets among his
-private friends/’ Two of these sonnets were printed in 1599
-I Kempe (speaking to Burbage), " Few of the university pen plays
+Meres that we first hear of "his sugred Sonnets among his
+private friends." Two of these sonnets were printed in 1599
+
+[^1]: Kempe (speaking to Burbage), "Few of the university pen plays
 well. They smell too much of that writer Ovid and that writer (sic)
 Metamorphosis, and talk too much of Proserpina and jupiter.
 Why here`s our fellow Shakespeare puts them all down; aye, and
-Ben jonson too. O that Ben jonson is a pestilent fellow. He brought
+Ben Jonson too. O that Ben Jonson is a pestilent fellow. He brought
 up Horace giving the Poets a pill, but ourfellow Shakespeare hath
 given him a purge that made him beray his credit."
 
@@ -637,172 +663,202 @@ given him a purge that made him beray his credit."
 ### START: ED4A804_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A804.TIF 
 
-7 7 6 SHAKEf
+p.776:0
+
 in a volume of miscellaneous verse called The Passionate Pilgrim.
 This was ascribed upon the title-page to Shakespeare, but pro- `
 bably, so far as most of its contents were concerned, without
-justification. The bulk of Shakespeare’s sonnets remained
+justification. The bulk of Shakespeare's sonnets remained
 unpublished until 1609.
+
+[Last Years]
+
 About 1610 Shakespeare seems to have left London, and
 entered upon the definite occupation of his house at New
 Place, Stratford. Here he lived the life of a retired
-jfs5S_ gentleman, on friendly if satirical terms with the
+gentleman, on friendly if satirical terms with the
 richest of his neighbours, the Combes, and interested
 in local affairs, such as a bill for the improvement of the highways
 in 1611, or a proposed enclosure of the open fields at Welcombe
 in 1614, which might affect his income or his comfort. He had
 his garden with its mulberry-tree, and his farm in the immediate
 neighbourhood. His brothers Gilbert and Richard were still
-alive; the latter died in 1613. His sister ]oan had married
+alive; the latter died in 1613. His sister Joan had married
 William Hart, a batter, and in 1616 was dwelling in one of his
 houses in Henley Street. Of his daughters, the eldest, Susanna,
-had married in 1607 ]ohn Hall (d. 1635), a physician of some re-
-putation. They dwelt in Stratford, and had one child, Elizabeth,
-afterwards Lady Barnard (1608-1670). The younger, ]udith,
+had married in 1607 John Hall (d. 1635), a physician of some reputation.
+They dwelt in Stratford, and had one child, Elizabeth,
+afterwards Lady Barnard (1608-1670). The younger, Judith,
 married Thomas Quiney, a vintner, also of Stratford, two months
-before her father’s death. At Stratford the last few of the plays
+before her father's death. At Stratford the last few of the plays
 may have been written, but it is reasonable to suppose that Shake-
-speare’s connexion with the King’s company ended when the
+speare's connexion with the King's company ended when the
 Globe was burnt down during a performance of Henry VIII. on
-the zgth of ]une 1613. Certainly his retirement did not imply
+the 29th of June 1613. Certainly his retirement did not imply
 an absolute break with London life. In 1613 he devised an
 impresa, or emblem, to be painted by Richard Burbage, and worn
 in the tilt on Accession day by the earl of Rutland, who had
 been one of the old circle of Southampton and Essex. In the
-same year he purchased for {140 a freehold house in the Black-
+same year he purchased for £140 a freehold house in the Black-
 friars, near the Wardrobe. This was conveyed to trustees,
 apparently in order to bar the right which his widow would
 otherwise have had to dower. In 1615 this purchase involved
 Shakespeare in a lawsuit for the surrender of the title-deeds.
 Richard Davies, a Gloucestershire clergyman of the end of the
-17th century, reports that the poet " died a papist," and the
+17th century, reports that the poet "died a papist," and the
 statement deserves more attention than it has received from
 biographers. There is indeed little to corroborate it; for an
-alleged " spiritual testament " of ]ohn Shakespeare is of suspected
-origin, and Davies’s own words suggest a late conversion rather
+alleged "spiritual testament" of John Shakespeare is of suspected
+origin, and Davies's own words suggest a late conversion rather
 than an hereditary faith. On the other hand, there is little to
 refute it beyond an entry in the accounts of Stratford corporation
-for drink given in 1614 to “ a preacher at the Newe Place."
-Shakespeare made his will on the 25th of March 1616, appar-
-ently in some haste, as the executed deed is a draft with many
-Wm erasures and interlineations. There were legacies to
-' his daughter judith Quiney and his sister ]oan Hart,
+for drink given in 1614 to "a preacher at the Newe Place."
+
+[Will]
+
+Shakespeare made his will on the 25th of March 1616, apparently
+in some haste, as the executed deed is a draft with many
+erasures and interlineations. There were legacies to
+his daughter Judith Quiney and his sister Joan Hart,
 and remembrances to friends both in Warwickshire and in
 London; but the real estate was left to his sister Susanna Hall
-under a strict entail which points to a desire on _the part of the
-testator to found a family. Shakespeare’s wife, for whom other
+under a strict entail which points to a desire on the part of the
+testator to found a family. Shakespeare's wife, for whom other
 provision must have been made, is only mentioned in an inter-
-lineation, by which the " second best bed with the furniture "
+lineation, by which the "second best bed with the furniture"
 was bequeathed to her. Much nonsense has been written about
 this, but it seems quite natural. The best bed was an important
 chattel, which would go with the house. The estate was after all
-not a large one. Aubrey’s estimate of its annual value as {200
-or {300 a year sounds reasonable enough, and ]ohn Ward’s state-
-ment that Shakespeare spent {1000 a year must surely be an
+not a large one. Aubrey's estimate of its annual value as £200
+or £300 a year sounds reasonable enough, and John Ward's statement that Shakespeare spent £1000 a year must surely be an
 exaggeration. The sum-total of his known investments amounts
-to {060. Mr Sidney Lee calculates that his theatrical income
-must have reached {600 a year; but it may be doubted whether
+to £960. Mr Sidney Lee calculates that his theatrical income
+must have reached £600 a year; but it may be doubted whether
 this also is not a considerable overestimate. It must be
 remembered that the purchasing value of money in the 17th
 century is generally regarded as having been about eight times
-its present value. Shakespeare’s interest in the " houses " of the
+its present value. Shakespeare's interest in the "houses "of the
 Globe and Blackfriars probably determined on his death.
-A month after his will was signed, on the 23rd of April I6I6,
-Shakespeare died, and as a tithe-owner was buried in the chance]
-of the parish church., Some doggerel upon the stone that covers
+
+A month after his will was signed, on the 23rd of April 1616,
+Shakespeare died, and as a tithe-owner was buried in the chance
+of the parish church. Some doggerel upon the stone that covers
 
 ### END: ED4A804_0.tif.txt ###
 
 ### START: ED4A804_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A804.TIF 
 
-SPEARE `
+p.776:1
+
 the grave has been assigned by local tradition to his own pen. A
 more elaborate monument, with a bust by the sculptor Gerard
-johnson, was in due course set up on the chancel wall. D th
-Anne Shakespeare followed her husband on the 6th ea '
+Johnson, was in due course set up on the chancel wall.
+
+[Death]
+
+Anne Shakespeare followed her husband on the 6th
 of August 1623. The family was never founded. Shake-
-speare’s grand-daughter, Elizabeth Hall, made two childless
+speare's grand-daughter, Elizabeth Hall, made two childless
 marriages, the first with Thomas Nash of Stratford, the second
-with john, afterwards Sir john, Barnard of Abington Manor,
-Northants. His daughter judith Quiney had three sons, all
+with John, afterwards Sir John, Barnard of Abington Manor,
+Northants. His daughter Judith Quiney had three sons, all
 of whom had died unmarried by 1639. There were, therefore,
 no direct descendants of Shakespeare in existence after Lady
-Barnard’s death in 1670. Those of his sister, joan Hart, could
-however still be traced in 1864. `On Lady Barnard’s death the
+Barnard's death in 1670. Those of his sister, Joan Hart, could
+however still be traced in 1864. On Lady Barnard's death the
 Henley Street houses passed to the Harts, in whose family they
 remained until 1806. They were then sold, and in 1846 were
-bought for the public. They are now held with Anne Hathaway’s
+bought for the public. They are now held with Anne Hathaway's
 Cottage at Shottery as the Birthplace Trust. Lady Barnard
 had disposed of the Blackfriars house. The rest of the property
 was sold under the terms of her will, and New Place passed,
-hrst to the Cloptons who rebuilt it, and then to the Rev. Francis
-Gastrell, who pulled it down in 1 7 59. The site now forms a public ,
+first to the Cloptons who rebuilt it, and then to the Rev. Francis
+Gastrell, who pulled it down in 1759. The site now forms a public
 recreation-ground, and hard by is a memorial building with a
-theatre in which performances of Shakespeare’s plays are given
+theatre in which performances of Shakespeare's plays are given
 annually in April. Both the Memorial and the Birthplace contain
 museums, in which books, documents and portraits of
 Shakespearian interest, together with relics of greater or less
 authenticity, are stored.
-No letter or other writing in Shakespeare’s hand can be proved
+
+No letter or other writing in Shakespeare's hand can be proved
 to exist, with the exception of three signatures upon his will,
 one upon a deposition (May 11, 1612) in a lawsuit with which
-he was remotely concerned, and two upon deeds (March IO and
-II, 1613) in connexion with the purchase of his Blackfriars house.
-A copy of Florio’s translation of Montaigne (1603) in the British
-Museum,a copy of the Aldine edition of Ovid’s Metamorphoses
+he was remotely concerned, and two upon deeds (March 10 and
+11, 1613) in connexion with the purchase of his Blackfriars house.
+A copy of Florio's translation of Montaigne (1603) in the British
+Museum,a copy of the Aldine edition of Ovid's *Metamorphoses*
 (1502) in the Bodleian, and a copy of the 1612 edition of Sir
-Thomas North’s translation of Plutarch’s Lives of the Noble
-Grecians and Romaines in the Greenock Library, have all been
+Thomas North's translation of Plutarch's *Lives of the Noble
+Grecians and Romaines* in the Greenock Library, have all been
 put forward with some plausibility as bearing his autograph
 name or initials, and, in the third case, a marginal note by him.
-A passage in the manuscript of the play of Sir Thomas More has
-been ascribed to him (vide infra), and, if the play is his, might
-be in his handwriting. Aubrey records that he was “ a hand- ,
-some, well-shap’t man," and the lameness attributed to him
+A passage in the manuscript of the play of *Sir Thomas More* has
+been ascribed to him (*vide infra*), and, if the play is his, might
+be in his handwriting. Aubrey records that he was "a handsome,
+well-shap't man," and the lameness attributed to him
 by some writers has its origin only in a too literal interpretation
-of certain references to spiritual disabilities in the Sonnets.
-A collection of Mr William Shakespeards Comedies, Histories
-and Tragedies was printed at the press of William and Isaac
-jaggard, and issued by a group of booksellers in 1623. Dumas
-This volume is known as the First Folio. It has °
+of certain references to spiritual disabilities in the *Sonnets.*
+
+[Dramas]
+
+A collection of *Mr William Shakespeards Comedies, Histories
+and Tragedies* was printed at the press of William and Isaac
+jaggard, and issued by a group of booksellers in 1623.
+This volume is known as the First Folio. It has
 dedications to the earls of Pembroke and Montgomery, and to
-" the great Variety of Readers," both of which are signed by
-two of Shakespeare’s "fellows " at the Globe, john Heminge
-and Henry Condell, and commendatory verses by Ben jonson,
+"the great Variety of Readers," both of which are signed by
+two of Shakespeare's "fellows "at the Globe, John Heminge
+and Henry Condell, and commendatory verses by Ben Jonson,
 Hugh Holland, Leonard Digges and an unidentified I. M.
 The Droeshout engraving forms part of the title-page. The
-contents include, with the exception of Pericles, all of the thirty-
-seven plays now ordinarily printed in editions of Shakespeare’s
+contents include, with the exception of *Pericles*, all of the thirty-seven
+plays now ordinarily printed in editions of Shakespeare's
 works. Of these eighteen were here published for the first time.
 The other eighteen had already appeared in one or more separate
-editions, known as the Quartos. ~
+editions, known as the Quartos.
+
 The following list gives the date of the First Quarto of each
-~ such play, and also that of any later Quarto which differs
-i materially from the First.
-The Quarto Editions.
-; Titus Andronicus (1594). A Midsummer Night’s Dream
-2 Henry VI. (1594). (1600). V
-' 3 Henry VI. (1595). The Merchant of Venice (1600).
-‘ Richard II. (1597, 1608). Much Ado About Nothing (1600).
-= Richard III. (1597). The Merry Wives of Windsor
-Romeo and Juliet (15 7, 1599). (1602). ~
-Looe's Labour’s Lost 21598). Hamlet (1603, 1604). _
-’ 1 Henry IV. 1598). King Lear (1608).
-l 2 Henry I V. (1600). i Troilus and Cressida (1609).
-s Henry V. (1600). Othello (1622).
+such play, and also that of any later Quarto which differs
+materially from the First.
+
+[[ed: reformatted from the original]]
+
+        The Quarto Editions.
+
+  * Titus Andronicus (1594).
+  * 2 Henry VI. (1594).
+  * 3 Henry VI. (1595).
+  * Richard II. (1597, 1608).
+  * Richard III. (1597).
+  * Romeo and Juliet (1597, 1599).
+  * Love's Labour's Lost (1598).
+  * 1 Henry IV. (1598).
+  * King Lear (1608).
+  * 2 Henry IV. (1600).
+  * Henry V. (1600).
+  * A Midsummer Night's Dream (1600)
+  * The Merchant of Venice (1600)
+  * Much Ado About Nothing (1600).
+  * The Merry Wives of Windsor (1602)
+  * Hamlet (1603, 1604).
+  * Troilus and Cressida (1609).
+  * Othello (1622).
 
 ### END: ED4A804_1.tif.txt ###
 
 ### START: ED4A805_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A805.TIF 
 
-SI-IAKES
-Entries in the Register ofvcopyrights kept by the Company;
-of Stationers indicate that editions of As You Like It and
-Anthony and Cleopatra were contemplated but not published in
+p.777:0 [[ed: TODO italicising]]
+
+Entries in the Register of copyrights kept by the Company
+of Stationers indicate that editions of *As You Like It* and
+*Anthony and Cleopatra were* contemplated but not published in
 1600 and 1608 respectively.
-'1`he Quartos differ very much in character. Some of them
+
+The Quartos differ very much in character. Some of them
 contain texts which are practically identical with those of
 the First Folio; others show variations so material as to suggest
 that some revision, either by rewriting or by shortening for stage
@@ -812,7 +868,7 @@ Hamlet and King Lear. Many scholars doubt whether the
 Quarto versions of 2, 3 Henry VI., which appeared under the titles
 of The First Part of the Contention betwixt the two famous Houses
 of York and Lancaster and The True Tragedy of Richard Duke
-of York, are Shakespeare’s work at all. It seems clear that the
+of York, are Shakespeare's work at all. It seems clear that the
 Quartos of The Troublesome Reign of John King of England (1591)
 and The Taming of A Shrew (1594), although treated for copyright
 purposes as identical with the plays of King John and The Taming
@@ -822,7 +878,7 @@ Windsor, and Hamlet seem to be mainly based, not upon written
 texts of the plays, but upon versions largely made up out of
 shorthand notes taken at the theatre by the agents of a piratical
 bookseller. A similar desire to exploit the commercial value
-of Shakespeare’s reputation probably led to the appearance of
+of Shakespeare's reputation probably led to the appearance of
 his name or initials upon the title-pages of Locrine (1595),
 Sir John Oldcastle (1600), Thomas Lord Cromwell (1602), The
 London Prodigal (1605), The Puritan (1607), A Yorkshire
@@ -833,65 +889,69 @@ company. They were not included in the First Folio of 1623, nor
 in a reprint of it in 1632, known as the Second Folio; but all
 seven were appended to the second issue (1664) of the Third
 Folio (1663), and to the Fourth Folio of 1685. Shakespeare is
-named as joint author with john Fletcher on the title-page of
+named as joint author with John Fletcher on the title-page of
 The Two Noble Kinsmen (1634), and with William Rowley on that
 of The Birth of Merlin (1662); there is no reason for rejecting
 the former ascription or for accepting the latter. Late entries
-in the Stationers’ Register assign to him Cardenio (with Fletcher),
-Henry I . and Henry II. (both with Robert Davenport), King
+in the Stationers' Register assign to him Cardenio (with Fletcher),
+Henry I. and Henry II. (both with Robert Davenport), King
 Stephen, Duke Humphrey, and Iphis and Ianthe; but none of
 these plays is now extant. Modern conjecture has attempted
 to trace his hand in other plays, of which Arden of Feversham
 (1592), Edward III. (1596), Mucedorus (1598), and The Merry
 Devil of Edmonton (1608) are the most important; it is quite
 possible that he may have had a share in Edward III. A play
-on Sir Thomas More, which has been handed down in manu-
-script, contains a number of passages, interpolated in various
+on Sir Thomas More, which has been handed down in manuscript,
+contains a number of passages, interpolated in various
 handwritings, to meet requirements of the censor; and there
 are those who assign one of these (ii. 4, 1-172) to Shakespeare.
+
+[Dates]
+
 Unfortunately the First Folio does not give the dates at which
-the plays contained in it were written or produced; and the ,
+the plays contained in it were written or produced; and the
 endeavour to supply this deficiency has been one of the
-Dams' main preoccupations of more than a century of Shake-
-spearian scholarship, since the pioneer essay of Edmund Malone
+main preoccupations of more than a century of Shakespearian
+scholarship, since the pioneer essay of Edmund Malone
 in his An Attempt to Ascertain the Order in which the Plays of
 Shakespeare were Written (1778). The investigation is not a
 mere piece of barren antiquarianism, for on it depends the
-possibility of appreciating the work of the world’s greatest poet,
+possibility of appreciating the work of the world's greatest poet,
 not as if it were an articulated whole like a philosophical system,
 but in its true aspect as the reflex of a vital and constantly
-developing personality. A starting-point is afiorded by the
-dates of the Quartos and the entries in the Stationers’ Register
+developing personality. A starting-point is afforded by the
+dates of the Quartos and the entries in the Stationers' Register
 which refer to them, and by the list of plays already in existence
 in 1598 which is inserted by Francis Meres in his Palladis Tamia
 of that year, and which, while not necessarily exhaustive of
-Shakespcare's pre-1598 writing, includes The Two Gentlemen of
-Verona, The Comedy of Errors, Love’s Labour’s Lost, A Mid-
-summer Night’s Dream, The Merchant of Venice, Richard II.,
+Shakespeare's pre-1598 writing, includes The Two Gentlemen of
+Verona, The Comedy of Errors, Love's Labour's Lost, A Mid-
+summer Night's Dream, The Merchant of Venice, Richard II.,
 Richard III., Henry IV., King John, Titus Andronicus and
-Romeo and Juliet, as well as a mysterious L0ve’s Labour’s Won,
+Romeo and Juliet, as well as a mysterious Love's Labour's Won,
 
 ### END: ED4A805_0.tif.txt ###
 
 ### START: ED4A805_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A805.TIF 
 
-I
-»PEAR E 7 7 7
+p.777:1 [[ed: TODO italicising]]
+
 which has been conjecturally identified with several plays,
 but most plausibly with The Taming of the Shrew. There is a
 mass of supplementary evidence, drawn partly from definite
-notices in other writings or in diaries, letters, account·books, and
+notices in other writings or in diaries, letters, account books, and
 similar records, partly from allusions to contemporary persons
 and events in the plays themselves, partly from parallels of
 thought and expression between each play and those near to it
 in point of time, and partly from considerations of style, includ-
 ing the so-called metrical tests, which depend upon an analysis
-of Shakespeare’s varying feeling for rhythm at different stages
+of Shakespeare's varying feeling for rhythm at different stages
 of his career. The total result is certainly not a demonstration,
 but in the logical sense an hypothesis which serves to colligate
 the facts and is consistent with itself and with the known events
-of Shakespeare’s external life.
+of Shakespeare's external life.
+
 The following table, which is an attempt to arrange the original
 dates of production of the plays without regard to possible
 revisions, may be taken as fairly representing the common
@@ -901,60 +961,54 @@ ordinarily wrote two plays a year; but it will be understood
 that neither the order in which the plays are given nor the
 distribution of them over the years lays claim to more than
 approximate accuracy.
-i Chronology of the Plays.
-1591. 16oo.
-(I, 2) The Contention of York and (21) The Merry Wives of Windsor.
-Lancaster (2, 3 Henry VI.), (22) As You Like It.
-I592- 1601.
-(3) 1 Henry V1- _ (23) Hamlet.
-(The theatres were closed for r10t (g4) Twejfth Njghr
-and plague from june to the end ,60,
-Of D€°°mb°r‘)I593 (25) Troilus and Cressida.
-(4) Richard I I 1. · (26) All s Welléhzgt Ends Well.
-  Tziwggmiég ,§]l)2?,,?,r;ly)` E1(The theatres were closed on
-(The theatres were closed for lmlleth S death m March' and
-plague from the be inning Of remamed closed for plague
-February tothe end of lgecember.) {hl-°°gh°“t the year')
-I594_ 1604.
-(7) Titus A,,d,0,,,Cus_ (27) Measure for Measure.
-(The theatres were closed for (28) Olll€llo·
-plague during February and 1605.
-March.) (29) Macbeth.
-(8) Taming of the Shrew. (30) King Lear.
-(9) Love`s Labourlv Lost. I606_
-, (ro) Romeo (md Juliet (31) Anthony and Cleopatra.
-‘ _ I59S- _ (32) Coriolanus.
-\ (11) AD Midsummer Night’s I6O7_
-ream. ·
-(12) TheTwo Gentlemenof Verona. (33) gzglglggd) Of Athens (un-
-(13) King John. `I6é8·
-(I4) Richani ;R96` (34) Pericles (part only).
-(15) The Merchant of Venice. _ i609-
-1597 (35) Cymbeline.
-(The theatres were closed for _ l6}O·
-misdemeanour from the end of (36) The Wmlo'$ Tolo·
-july to October.) I6! I-
-(16) r Henry IV. (37) The Tempest.
-{598, 1612.
-(17) 2 Henry IV. ..
-(18) Muah Ado About Nothing. I6I3.
-1599. (38) The Two Noble Kinsmen
-(19) Henry V. (part only)._
-(zo) Julius Caesar. (39) Henry VU]- (PMT <>¤lY)·
+
+[[ed: reformated into a single list]]
+
+      Chronology of the Plays.
+
+|| 1591 || (1, 2) The Contention of York and Lancaster (2, 3 Henry VI.) || ||
+|| 1592 || (3) 1 Henry V1 || The theatres were closed for riot and plague from June to the end of December ||
+|| 1593 || (4) Richard III, (5) Edward III (part only) (6) The Comedy of Errors || (The theatres were closed for plague during February and March ||
+|| 1594 || (7) Titus Andronicus, (8) Taming of the Shrew, (9) Love's Labour's Lost, (10) Romeo and Juliet || The theatres were closed for plague during February and March ||
+|| 1595 || (11) A Midsummer Night's Dream, (12) The Two Gentlemen of Verona, (13) King John ||  
+|| 1596 || (14) Richard II, (15) The Merchant of Venice ||
+|| 1597 || (16) 1 Henry IV || The theatres were closed for misdemeanour from the end of July to October ||
+|| 1598 || (17) 2 Henry IV, (18) Much Ado About Nothing ||
+|| 1599 || (19) Henry V, (20) Julius Caesar ||
+|| 1600 || (21) The Merry Wives of Windsor, (22) As You Like It ||
+|| 1601 || (23) Hamlet, (24) Twelfth Night ||
+|| 1602 || (25) Troilus and Cressida, (26) All's Well that End's Well ||
+|| 1603 || - || The theatres were closed on Elizabeth's death in March, and remained closed for the plague throughout the year ||
+|| 1604 || (27) Measure for Measure, (28) Othello ||
+|| 1605 || (29) Macbeth, (30) King Lear ||
+|| 1606 || (31) Antony and Cleopatra, (32) Coriolanus ||
+|| 1607 || (33) Timon of Athens (unfinished) ||
+|| 1608 || (34) Pericles (part only) ||
+|| 1609 || (35) Cymbeline ||
+|| 1610 || (36) The Winter's Tale ||
+|| 1611 || (37) The Tempest ||
+|| 1612 || - ||
+|| 1613 || (38) The Two Noble Kinsmen (part only) ||
+|| 1614 || (39) Henry VIII (part only) ||
+
 A more detailed account of the individual plays may now
 be attempted. The figures here prefixed correspond to those
 in the table above.
+
+[Composition]
+
 1, 2. The relation of The Contention of York and Lancaster
-to 2, 3 Henry VI. and the extent of Shakespeare’s responsibility
-for either or both works have long been subjects of com 0d_
-controversy. The extremes of critical opinion are to ,,,,,,_p
+to 2, 3 Henry VI. and the extent of Shakespeare's responsibility
+for either or both works have long been subjects of
+controversy. The extremes of critical opinion are to
 be found in a theory which regards Shakespeare as the
-sole author of 2, 3 Henry VI. and The C ontention as a shortened
+sole author of 2, 3 Henry VI. and *The Contention* as a shortened
 and piratical version of the original plays, and in a theory which
-regards The Contention as written in collaboration by Marlowe,
+regards *The Contention* as written in collaboration by Marlowe,
 Greene and possibly Peele, and 2, 3 Henry VI. as a revision of
 
 ### END: ED4A805_1.tif.txt ###
+
 
 ### START: ED4A806_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A806.TIF 
