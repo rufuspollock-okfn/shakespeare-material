@@ -1,0 +1,539 @@
+[lear_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3310.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Lear
+
+[timon_of_athens_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3710.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3710.txt). 
+format = txt
+creator = Shakespeare, William
+title = Timon of Athens
+
+[alls_well_that_ends_well_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3010.txt). 
+format = txt
+creator = Shakespeare, William
+title = All's Well That Ends Well
+
+[tragedy_of_titus_andronicus_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0910.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Tragedy of Titus Andronicus
+
+[macbeth_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3410.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Macbeth
+
+[two_gentlemen_of_verona_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1110.txt). 
+format = txt
+creator = Shakespeare, William
+title = Two Gentlemen of Verona
+
+[henry_iv_part_2_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2110.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry IV, Part 2
+
+[romeo_and_juliet_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1610.txt). 
+format = txt
+creator = Shakespeare, William
+title = Romeo and Juliet
+
+[measure_for_measure_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3110.txt). 
+format = txt
+creator = Shakespeare, William
+title = Measure for Measure
+
+[richard_iii_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0410.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Richard III
+
+[julius_caesar_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2410.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Julius Caesar
+
+[lovers_complaint_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws4410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws4410.txt). 
+format = txt
+creator = Shakespeare, William
+title = A Lover's Complaint
+
+[midsummer_nights_dreame_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1710.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1710.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Midsummer Nights Dreame
+
+[julius_caesar_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2410.txt). 
+format = txt
+creator = Shakespeare, William
+title = Julius Caesar
+
+[comedy_of_errors_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0610.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Comedy of Errors
+
+[henry_vi_part_3_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0310.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry VI Part 3
+
+[cymbeline_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3910.txt). 
+format = txt
+creator = Shakespeare, William
+title = Cymbeline
+
+[tempest_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws4110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws4110.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Tempest
+
+[henry_iv_part_1_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1910.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry IV, Part 1
+
+[titus_andronicus_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0910.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Titus Andronicus
+
+[othello_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3210.txt). 
+format = txt
+creator = Shakespeare, William
+title = Othello
+
+[hamlet_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2610.txt). 
+format = txt
+creator = Shakespeare, William
+title = Hamlet
+
+[two_gentlemen_of_verona_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1110.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Two Gentlemen of Verona
+
+[winters_tale_gut]
+url = http://www.gutenberg.org/files/1539/1539.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/files/1539/1539.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Winter's Tale
+
+[henry_viii_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws4210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws4210.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry VIII
+
+[antony_and_cleopatra_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3510.txt). 
+format = txt
+creator = Shakespeare, William
+title = Antony and Cleopatra
+
+[henry_vi_part_1_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0110.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry VI Part 1
+
+[henry_viii_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws4210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws4210.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry VIII
+
+[twelfth_night_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2810.txt). 
+format = txt
+creator = Shakespeare, William
+title = Twelfth Night
+
+[all_is_well_that_ends_well_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3010.txt). folio
+format = txt
+creator = Shakespeare, William
+title = All is well, that Ends well
+
+[as_you_like_it_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2510.txt). folio
+format = txt
+creator = Shakespeare, William
+title = As you Like it
+
+[taming_of_the_shrew_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1010.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Taming of the Shrew
+
+[macbeth_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3410.txt). 
+format = txt
+creator = Shakespeare, William
+title = Macbeth
+
+[henry_iv_part_2_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2110.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry IV Part 2
+
+[merchant_of_venice_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1810.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Merchant of Venice
+
+[john_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1410.txt). folio
+format = txt
+creator = Shakespeare, William
+title = King John
+
+[richard_ii_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1510.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Richard II
+
+[coriolanus_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3610.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Coriolanus
+
+[taming_of_the_shrew_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1010.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Taming of the Shrew
+
+[sonnets_gut]
+url = http://www.gutenberg.org/dirs/etext97/wssnt10.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext97/wssnt10.txt). 
+format = txt
+creator = Shakespeare, William
+title = Sonnets
+
+[romeo_and_juliet_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1610.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Romeo and Juliet
+
+[merry_wives_of_windsor_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2010.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Merry Wives of Windsor
+
+[passionate_pilgrim_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws4510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws4510.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Passionate Pilgrim
+
+[measure_for_measure_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3110.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Measure for Measure
+
+[comedy_of_errours_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0610.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Comedy of Errours
+
+[othello_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3210.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Othello
+
+[henry_v_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2310.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry V
+
+[much_ado_about_nothing_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2210.txt). 
+format = txt
+creator = Shakespeare, William
+title = Much Ado About Nothing
+
+[twelfe-night_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2810.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Twelfe-Night
+
+[loves_labours_lost_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1210.txt). 
+format = txt
+creator = Shakespeare, William
+title = Love's Labour's Lost
+
+[henry_vi_part_1_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0110.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry VI, Part 1
+
+[loves_labour_lost_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1210.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Loves Labour Lost
+
+[timon_of_athens_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3710.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3710.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Timon of Athens
+
+[henry_v_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2310.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry V
+
+[troilus_and_cressida_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2910.txt). 
+format = txt
+creator = Shakespeare, William
+title = Troilus and Cressida
+
+[tempest_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws4110.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws4110.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Tempest
+
+[henry_iv_part_1_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1910.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry IV Part 1
+
+[john_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1410.txt). 
+format = txt
+creator = Shakespeare, William
+title = King John
+
+[hamlet_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2610.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Hamlet
+
+[lear_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3310.txt). folio
+format = txt
+creator = Shakespeare, William
+title = King Lear
+
+[merry_wives_of_windsor_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2010.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Merry Wives of Windsor
+
+[midsummer_nights_dream_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1710.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1710.txt). 
+format = txt
+creator = Shakespeare, William
+title = A Midsummer Night's Dream
+
+[richard_ii_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws1510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws1510.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Richard II
+
+[pericles_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3810.txt). 
+format = txt
+creator = Shakespeare, William
+title = Pericles
+
+[as_you_like_it_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2510.txt). 
+format = txt
+creator = Shakespeare, William
+title = As You Like It
+
+[anthonie_and_cleopatra_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3510.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3510.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Anthonie and Cleopatra
+
+[cymbeline_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws3910.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws3910.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Cymbeline
+
+[rape_of_lucrece_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0810.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Rape of Lucrece
+
+[winters_tale_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws4010.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws4010.txt). folio
+format = txt
+creator = Shakespeare, William
+title = The Winters Tale
+
+[merchant_of_venice_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws1810.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws1810.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Merchant of Venice
+
+[much_ado_about_nothing_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws2210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws2210.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Much ado about Nothing
+
+[phoenix_and_the_turtle_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws2710.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws2710.txt). 
+format = txt
+creator = Shakespeare, William
+title = The Phoenix and the Turtle
+
+[henry_vi_part_3_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0310.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0310.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry VI, Part 3
+
+[richard_iii_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0410.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0410.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Richard III
+
+[henry_vi_part_2_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws0210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws0210.txt). 
+format = txt
+creator = Shakespeare, William
+title = King Henry VI, Part 2
+
+[coriolanus_gut]
+url = http://www.gutenberg.org/dirs/etext98/2ws3610.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext98/2ws3610.txt). 
+format = txt
+creator = Shakespeare, William
+title = Coriolanus
+
+[henry_vi_part_2_gut_f]
+url = http://www.gutenberg.org/dirs/etext00/0ws0210.txt
+notes = Sourced from Project Gutenberg (url=http://www.gutenberg.org/dirs/etext00/0ws0210.txt). folio
+format = txt
+creator = Shakespeare, William
+title = Henry VI Part 2
+
