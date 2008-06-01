@@ -1,3 +1,5 @@
+## Shakespeare's Entry in the Encyclopaedia Britannica 11th Edition (1911)
+
 ### START: ED4A800_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A800.TIF 
 
@@ -963,34 +965,34 @@ that neither the order in which the plays are given nor the
 distribution of them over the years lays claim to more than
 approximate accuracy.
 
-[[ed: reformated into a single list]]
+[[ed: TODO reformat?]]
 
 **Chronology of the Plays**
 
-|| 1591 || (1, 2) The Contention of York and Lancaster (2, 3 Henry VI.) || ||
-|| 1592 || (3) 1 Henry V1 || The theatres were closed for riot and plague from June to the end of December ||
-|| 1593 || (4) Richard III, (5) Edward III (part only) (6) The Comedy of Errors || (The theatres were closed for plague during February and March ||
-|| 1594 || (7) Titus Andronicus, (8) Taming of the Shrew, (9) Love's Labour's Lost, (10) Romeo and Juliet || The theatres were closed for plague during February and March ||
-|| 1595 || (11) A Midsummer Night's Dream, (12) The Two Gentlemen of Verona, (13) King John ||  
-|| 1596 || (14) Richard II, (15) The Merchant of Venice ||
-|| 1597 || (16) 1 Henry IV || The theatres were closed for misdemeanour from the end of July to October ||
-|| 1598 || (17) 2 Henry IV, (18) Much Ado About Nothing ||
-|| 1599 || (19) Henry V, (20) Julius Caesar ||
-|| 1600 || (21) The Merry Wives of Windsor, (22) As You Like It ||
-|| 1601 || (23) Hamlet, (24) Twelfth Night ||
-|| 1602 || (25) Troilus and Cressida, (26) All's Well that End's Well ||
-|| 1603 || - || The theatres were closed on Elizabeth's death in March, and remained closed for the plague throughout the year ||
-|| 1604 || (27) Measure for Measure, (28) Othello ||
-|| 1605 || (29) Macbeth, (30) King Lear ||
-|| 1606 || (31) Antony and Cleopatra, (32) Coriolanus ||
-|| 1607 || (33) Timon of Athens (unfinished) ||
-|| 1608 || (34) Pericles (part only) ||
-|| 1609 || (35) Cymbeline ||
-|| 1610 || (36) The Winter's Tale ||
-|| 1611 || (37) The Tempest ||
-|| 1612 || - ||
-|| 1613 || (38) The Two Noble Kinsmen (part only) ||
-|| 1614 || (39) Henry VIII (part only) ||
+    || 1591 || (1, 2) The Contention of York and Lancaster (2, 3 Henry VI.) || ||
+    || 1592 || (3) 1 Henry V1 || The theatres were closed for riot and plague from June to the end of December ||
+    || 1593 || (4) Richard III, (5) Edward III (part only) (6) The Comedy of Errors || (The theatres were closed for plague during February and March ||
+    || 1594 || (7) Titus Andronicus, (8) Taming of the Shrew, (9) Love's Labour's Lost, (10) Romeo and Juliet || The theatres were closed for plague during February and March ||
+    || 1595 || (11) A Midsummer Night's Dream, (12) The Two Gentlemen of Verona, (13) King John ||  
+    || 1596 || (14) Richard II, (15) The Merchant of Venice ||
+    || 1597 || (16) 1 Henry IV || The theatres were closed for misdemeanour from the end of July to October ||
+    || 1598 || (17) 2 Henry IV, (18) Much Ado About Nothing ||
+    || 1599 || (19) Henry V, (20) Julius Caesar ||
+    || 1600 || (21) The Merry Wives of Windsor, (22) As You Like It ||
+    || 1601 || (23) Hamlet, (24) Twelfth Night ||
+    || 1602 || (25) Troilus and Cressida, (26) All's Well that End's Well ||
+    || 1603 || - || The theatres were closed on Elizabeth's death in March, and remained closed for the plague throughout the year ||
+    || 1604 || (27) Measure for Measure, (28) Othello ||
+    || 1605 || (29) Macbeth, (30) King Lear ||
+    || 1606 || (31) Antony and Cleopatra, (32) Coriolanus ||
+    || 1607 || (33) Timon of Athens (unfinished) ||
+    || 1608 || (34) Pericles (part only) ||
+    || 1609 || (35) Cymbeline ||
+    || 1610 || (36) The Winter's Tale ||
+    || 1611 || (37) The Tempest ||
+    || 1612 || - ||
+    || 1613 || (38) The Two Noble Kinsmen (part only) ||
+    || 1614 || (39) Henry VIII (part only) ||
 
 A more detailed account of the individual plays may now
 be attempted. The figures here prefixed correspond to those
@@ -1124,7 +1126,7 @@ and common fellows " (including Shakespeare?) is recorded in
 the *Gesta Grayarum* as taking place in Gray's Inn hall on
 December 28, 1594.
 
-7. *Titus Andronicus* is another play in which many scholars
+7\. *Titus Andronicus* is another play in which many scholars
 have refused to see the hand of Shakespeare, but the double
 testimony of its inclusion in Meres's list and in the First Folio
 makes it unreasonable to deny him some part in it. This may,
@@ -1423,7 +1425,7 @@ The plot is based upon Thomas Lodge's romance of Rosalynde
 Gamelyn.
 
 23\. A play of Hamlet was performed, probably by the Chamberlain's
-men, for Henslowe at Newington Butts on the 9th of June
+men, for Henslowe at Newington Butts on the 9th of June 1594
 
 ### END: ED4A808_0.tif.txt ###
 
@@ -1432,7 +1434,7 @@ men, for Henslowe at Newington Butts on the 9th of June
 
 p.780:1
 
-1594. There are other references to it as a revenge-play, and it
+There are other references to it as a revenge-play, and it
 seems to have been in existence in some shape as early as 1589.
 . It was doubtless on the basis of this that Shakespeare constructed
 his tragedy. Some features of the so-called *Ur-Hamlet* may
