@@ -935,7 +935,8 @@ Romeo and Juliet, as well as a mysterious Love's Labour's Won,
 ### START: ED4A805_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A805.TIF 
 
-p.777:1 [[ed: TODO italicising]]
+p.777:1
+[[ed: TODO italicising]]
 
 which has been conjecturally identified with several plays,
 but most plausibly with The Taming of the Shrew. There is a
@@ -964,7 +965,7 @@ approximate accuracy.
 
 [[ed: reformated into a single list]]
 
-      Chronology of the Plays.
+**Chronology of the Plays**
 
 || 1591 || (1, 2) The Contention of York and Lancaster (2, 3 Henry VI.) || ||
 || 1592 || (3) 1 Henry V1 || The theatres were closed for riot and plague from June to the end of December ||
@@ -1009,173 +1010,179 @@ Greene and possibly Peele, and 2, 3 Henry VI. as a revision of
 
 ### END: ED4A805_1.tif.txt ###
 
-
 ### START: ED4A806_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A806.TIF 
 
-778 SHAKEE
-The Contention written, also in collaboration, by Marlowe and l
+p.778:0
+
+*The Contention* written, also in collaboration, by Marlowe and
 Shakespeare. A comparison of the two texts leaves it hardly
 possible to doubt that the differences between them are to be
 explained by revision rather than by piracy; but the question
-of authorship is more difhcult. Greene’s parody, in the " Shake-
-scene " passage of his Groats-worth of Wit (1592), of a line which
-occurs both in The Contention and in 5 Henry VI., while it clearly
-suggests Sha.kespeare’s connexion with the plays, is evidence
+of authorship is more difficult. Greene's parody, in the " Shake-
+scene" passage of his *Groats-worth of Wit* (1592), of a line which
+occurs both in *The Contention* and in 3 *Henry VI.*, while it clearly
+suggests Shakespeare's connexion with the plays, is evidence
 neither for nor against the participation of other men, and no
-sufhcient criterion exists for distinguishing between Shakespeare’s
+sufficient criterion exists for distinguishing between Shakespeare's
 earliest writing and that of possible collaborators on grounds of
-style. But there is nothing inconsistent between the reviser’s
-work in 2, 3 Henry VI. and on the one hand Richard III. or
-on the other the original matter of The Contention, which the
+style. But there is nothing inconsistent between the reviser's
+work in 2, 3 *Henry VI.* and on the one hand *Richard III.* or
+on the other the original matter of *The Contention*, which the
 reviser follows and elaborates scene by scene. It is difficult to
-assign to any one except Shakespeare the humour of the ]ack
-Cade scenes, the whole substance of which is in The Contention
-as well as in Henry VI. Views which exclude Shakespeare alto-
-gether may be left out of account. Henry VI. is not in Meres’s
+assign to any one except Shakespeare the humour of the Jack
+Cade scenes, the whole substance of which is in *The Contention*
+as well as in *Henry VI*. Views which exclude Shakespeare alto-
+gether may be left out of account. *Henry VI.* is not in Meres's
 list of his plays, but its inclusion in the First Folio is an almost
 certain ground for assigning to him some share, if only as reviser,
 in the completed work.
-3. A very similar problem is afforded by 1 Henry VI., and here
+
+3\. A very similar problem is afforded by 1 *Henry VI.*, and here
 also it is natural, in the absence of tangible evidence to the
-contrary, to hold by Shakespeare’s substantial responsibility
+contrary, to hold by Shakespeare's substantial responsibility
 for the play as it stands. It is quite possible that it also may be
 a revised version, although in this case no earlier version exists;
 and if so the Talbot scenes (iv. 2-7) and perhaps also the Temple
 Gardens scene (ii. 4), which are distinguished by certain qualities
 of style from the rest of the play, may date from the period of
 revision. Thomas Nash refers to the representation of Talbot
-on the stage in his Pierce Penilesse, his Snpplicalion to the Divell
-(1592), and it is probable that 1 Henry VI. is to be identified
-with the " Harey the vj." recorded in Henslowe’s Diary to have
-been acted as a new play by Lord Strange’s men, probably at
+on the stage in his *Pierce Penilesse, his Supplicalion to the Divell*
+(1592), and it is probable that 1 *Henry VI.* is to be identified
+with the "Harey the vj." recorded in Henslowe's *Diary* to have
+been acted as a new play by Lord Strange's men, probably at
 the Rose, on the grd of March 1592. If so, it is a reasonable
-conjecture that the two parts of The Contenlion were originally
-written at some date before the beginning of Henslowe’s record
+conjecture that the two parts of *The Contention* were originally
+written at some date before the beginning of Henslowe's record
 in the previous February, and were revised so as to fall into a
-series with 1 Henry VI. in the latter end of 1592.
-4. The series as revised can only be intended to lead directly
-up to Richard I II ., and this relationship, together with its style
+series with 1 *Henry VI.* in the latter end of 1592.
+
+4\. The series as revised can only be intended to lead directly
+up to *Richard III .*, and this relationship, together with its style
 as compared with that of the plays belonging to the autumn
-of 1594, suggest the short winter season of 1592-1 593 as the most
-likely time for the production of Richard III. There is a diihculty
-in that it is not included in Henslowe’s list of the plays acted by
-Lord Strange’s men during that season. But it may quite well
+of 1594, suggest the short winter season of 1592-1593 as the most
+likely time for the production of *Richard III.* There is a difficulty
+in that it is not included in Henslowe's list of the plays acted by
+Lord Strange's men during that season. But it may quite well
 have been produced by the only other company which appeared
-at court during the Christmas festivities, Lord Pembroke’s.
+at court during the Christmas festivities, Lord Pembroke's.
 The mere fact that Shakespeare wrote a play, or more than one
-play, for Lord Strange’s men during I5Q2—I5Q4 does not prove
+play, for Lord Strange's men during 1592-1594 does not prove
 that he never wrote for any other company during the same
 period; and indeed there is plenty of room for guess-work as to
-the relations between Strange’s and Pembroke’s men. The latter
+the relations between Strange's and Pembroke's men. The latter
 are not known to have existed before 1592, and many difhculties
 would be solved by the assumption that they originated out of
-a division of Strange’s, whose numbers, since their amalgamation
-with the Admiral’s, may have been too much inflated to enable
+a division of Strange's, whose numbers, since their amalgamation
+with the Admiral's, may have been too much inflated to enable
 them to undertake as a whole the summer tour of that year.
-If so, Pembroke’s probably took over the Henry VI. series of
-plays, since The Contention, or at least the True Tragedy, was
-published as performed by them, and completed it with Richard
-I I I . on their return to London at Christmas. It will be necessary
+If so, Pembroke's probably took over the *Henry VI.* series of
+plays, since *The Contention*, or at least the *True Tragedy*, was
+published as performed by them, and completed it with *Richard
+III.* on their return to London at Christmas. It will be necessary
 to return to this theory in connexion with the discussion of
-Titus Andronicus and The Taming of the Shrew. The principal
-historical source for Henry VI. was Edward Hall’s The Union of
-the Noble and I llnstre Families of Lancaster and York (1542), and
-for Richard III., -as for all Shakespeare’s later historical plays,
-the second edition (1587) of Raphael Ho]inshed’s Chronicles of
-England, Scotland and Ireland (1577). An earlier play, The True
-Tragedy of Richard the Third (1594), seems to have contributed
-little if anything to Richard III.
+*Titus Andronicus* and *The Taming of the Shrew*. The principal
+historical source for *Henry VI.* was Edward Hall's *The Union of
+the Noble and Illustre Families of Lancaster and York* (1542), and
+for *Richard III.*, as for all Shakespeare's later historical plays,
+the second edition (1587) of Raphael Holinshed's *Chronicles of
+England, Scotland and Ireland* (1577). An earlier play, *The True
+Tragedy of Richard the Third* (1594), seems to have contributed
+little if anything to *Richard III*.
 
 ### END: ED4A806_0.tif.txt ###
 
 ### START: ED4A806_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A806.TIF 
 
-SPEARE
-5. Many scholars think that at any rate the greater part of the
-first two acts of Edward III., containing the story of Edward’s
+p.778:1
+
+5\. Many scholars think that at any rate the greater part of the
+first two acts of *Edward III.*, containing the story of Edward's
 wooing of the countess of Salisbury, are by Shakespeare; and,
-if so, it is to about the time of Richard III . that the style of
+if so, it is to about the time of *Richard III.* that the style of
 his contribution seems to belong. The play was entered in the
-Stationers’ Register on December 1, 1595. The Shakespearian
-scenes are based on the 46th Novel in William Paynter’s Palace
-of Pleasure (1566). The line, " Lilies that fester smell far worse
+Stationers' *Register* on December 1, 1595. The Shakespearian
+scenes are based on the 46th Novel in William Paynter's *Palace
+of Pleasure* (1566). The line, " Lilies that fester smell far worse
 than weeds " (ii. 1. 451), is repeated verbatim in the 94th sonnet.
-6. To the winter season of 1592—1593 may also be assigned
-with fair probability Shakespeare’s first experimental comedy,
-The Comedy of Errors, and if his writing at one and the same
-time for Pembroke’s and for another company is not regarded as
-‘ beyond the bounds of conjecture, it becomes tempting to identify
-this with " the gelyous comodey " produced, probably by
-Strange’s men, for Henslowe as a new play on January 5, 1593.
+
+6\. To the winter season of 1592-1593 may also be assigned
+with fair probability Shakespeare's first experimental comedy,
+*The Comedy of Errors*, and if his writing at one and the same
+time for Pembroke's and for another company is not regarded as
+beyond the bounds of conjecture, it becomes tempting to identify
+this with "the gelyous comodey" produced, probably by
+Strange's men, for Henslowe as a new play on January 5, 1593.
 The play contains a reference to the wars of succession in France
 which would fit any date from 1589 to 1594. The plot is taken
-from the M euaechmi, and to a smaller extent from the Amphitruv
-of Plautus. William Warner’s translation of the M euaechmi
-was entered in the Stationers' Register on june ro, 1594. A
-performance of The Comedy of Errors by "a company of base
+from the *Menaechmi*, and to a smaller extent from the *Amphitruo*
+of Plautus. William Warner's translation of the *Menaechmi*
+was entered in the Stationers' *Register* on June 10, 1594. A
+performance of *The Comedy of Errors* by "a company of base
 and common fellows " (including Shakespeare?) is recorded in
-the Gesta Grayarum as taking place in Gray’s Inn hall on
+the *Gesta Grayarum* as taking place in Gray's Inn hall on
 December 28, 1594.
-7. Titus Andronicus is another play in which many scholars
+
+7. *Titus Andronicus* is another play in which many scholars
 have refused to see the hand of Shakespeare, but the double
-testimony of its inclusion in Meres’s list and in the First Folio
+testimony of its inclusion in Meres's list and in the First Folio
 makes it unreasonable to deny him some part in it. This may,
 however, only have been the part of a reviser, working, like the
-reviser of The Coritentiorz, upon the dialogue rather than the
+reviser of *The Contention*, upon the dialogue rather than the
 structure of a crude tragedy of the school of Kyd. In fact a
 stage tradition is reported by Edward Ravenscroft, a late
 17th-century adapter of the play, to the effect that Shakespeare
-did no more than give a few " master-touches " to the work of a
-" private author." The play was entered in the Stationers’
-Register on February 6, 1594, and was published in the same
+did no more than give a few "master-touches" to the work of a
+"private author." The play was entered in the Stationers'
+*Register* on February 6, 1594, and was published in the same
 year with a title-page setting out that it had been acted by the
 companies of Lords Derby (i.e. Strange, who had succeeded to
-his father’s title on September 25, 1593), Pembroke and Sussex.
+his father's title on September 25, 1593), Pembroke and Sussex.
 It is natural to take this list as indicating the order in which the
 three companies named had to do with it, but it is probable that
-only Sussex’s`had played Shakespeare’s version. Henslowe re-
-cords the production by this company of Titus and Andrvnicus
+only Sussex's had played Shakespeare's version. Henslowe re-
+cords the production by this company of *Titus and Andronicus*
 as a new play on January 23, 1594, only a few days before
-the theatres were closed by plague. For the purposes of Hen-
-slowe’s financial arrangements with the company a rewritten
+the theatres were closed by plague. For the purposes of Henslowe's
+financial arrangements with the company a rewritten
 play may have been classed as new. Two years earlier he had
-appended the same description to a play of T ittus arid Vespacia,
-produced by Strange’s men on April II, 1592. At first sight the
+appended the same description to a play of *Tittus and Vespacia*,
+produced by Strange's men on April 11, 1592. At first sight the
 title suggests a piece founded on the lives of the emperor Titus
 and Vespasian, but the identification of the play with an early
-version of Titus Arldrauicus is justified by the existence of a rough
-German adaptation, which follows the general outlines of Shake-
-speare’s play, but in which one of the sons of Titus is named
-Vespasian instead of. Lucius. The ultimate source of the plot is
+version of *Titus Andronicus* is justified by the existence of a rough
+German adaptation, which follows the general outlines of Shakespeare's
+play, but in which one of the sons of Titus is named
+Vespasian instead of Lucius. The ultimate source of the plot is
 unknown. It cannot be traced in any of the Byzantine chroniclers.
-Strange’s men seem to have been still playing Titus in January
-1593, and it was probably not transferred to Pembroke’s until the
-companies were driven from London byithe plague of that year.
-Pembroke’s are known from a letter of Henslowe’s to have been
-ruined by August, and it is to be suspected that Sussex’s, who
+Strange's men seem to have been still playing *Titus* in January
+1593, and it was probably not transferred to Pembroke's until the
+companies were driven from London by the plague of that year.
+Pembroke's are known from a letter of Henslowe's to have been
+ruined by August, and it is to be suspected that Sussex's, who
 appeared in London for the first time at the Christmas of 1593,
 acquired their stock of plays and transferred these to the Chamber-
-lain’s men, when the companies were again reconstituted in the
-` summer of 1594. The revision of Titus and Vespasiari into
-Titus Andrvnicus by Shakespeare may have been accomplished
+lain's men, when the companies were again reconstituted in the
+summer of 1594. The revision of *Titus and Vespasian* into
+*Titus Andronicus* by Shakespeare may have been accomplished
 in the interval between these two transactions. The Chamber-
-` lain’s men were apparently playing Aridronicus in june. The
-stock of Pembroke’s men probably included, as well as Titus
-and Vespasian, both Henry VI. and Richard III., which also
-thus passed to the Chamberlain’s company. _
+lain's men were apparently playing *Andronicus* in june. The
+stock of Pembroke's men probably included, as well as *Titus
+and Vespasian*, both *Henry VI.* and *Richard III.*, which also
+thus passed to the Chamberlain's company.
 
 ### END: ED4A806_1.tif.txt ###
 
 ### START: ED4A807_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A807.TIF 
 
-SHAKEE
-8. In the same way was probably also acquired an old play of p
-The Taming of A Shrew. This, which can be traced back as far
-as 1589, was published as acted by Pembroke’s men in 1594.
-In ]une of that year it was being acted by the Chamberlain’s,
+p.779:0
+
+8\. In the same way was probably also acquired an old play of
+*The Taming of A Shrew*. This, which can be traced back as far
+as 1589, was published as acted by Pembroke's men in 1594.
+In June of that year it was being acted by the Chamberlain's,
 but more probably in the revised version by Shakespeare, which
 bears the slightly altered title of The Taming of The Shrew.
 This is a much more free adaptation of its original than had been
@@ -1186,61 +1193,64 @@ and others have assigned him a share in A Shrew, but neither
 theory has any very substantial foundation. The origins of
 the play, which is to be classed as a farce rather than a comedy,
 are to be found ultimately in widely distributed folk-tales, and
-more immediately in Ariosto’s I Suppasiti (1509) as translated
-in George Gascoigne’s The Supposes (1566). It may have been
-Shakespeare’s first task for the newly established Chamberlain’s
+more immediately in Ariosto's *I Suppositi* (1509) as translated
+in George Gascoigne's *The Supposes* (1566). It may have been
+Shakespeare's first task for the newly established Chamberlain's
 company of 1594 to furbish up the old farce. Thenceforward
 there is no reason to think that he ever wrote for any other
 company.
-9. L0·ve’s Lab0ur’s Lost has often been regarded as the first
-of Shakespeare’s plays, and has sometimes been placed as early
+
+9\. Love's Labour's Lost has often been regarded as the first
+of Shakespeare's plays, and has sometimes been placed as early
 as 1589. There is, however, no proof that Shakespeare was
-writing before 1592 or thereabouts. The characters of L0ve’s
-Lab0ur’s Lost are evidently suggested by Henry of Navarre,
+writing before 1592 or thereabouts. The characters of Love's
+Labour's Lost are evidently suggested by Henry of Navarre,
 his followers Biron and Longaville, and the Catholic League
 leader, the duc de Maine. These personages would have been
 familiar at any time from 1585 onwards. The absence of the
-play from the lists in Henslowe’s Diary does not leave it impossible
-that it should have preceded the formation of the Chamberlain’s
+play from the lists in Henslowe's Diary does not leave it impossible
+that it should have preceded the formation of the Chamberlain's
 company, but certainly renders this less likely; and its lyric
 character perhaps justifies its being grouped with the series of
 plays that began in the autumn of 1594. No entry of the play
-is found in the Stat»ioners’Reg11ster, and it is quite possible that
+is found in the Stationers' Register, and it is quite possible that
 the present First Quarto of 1598 was not really the first edition.
-The title-page professes to give the play as it was " corrected and
-augmented " for the Christmas either of 1597 or of 1598. It
-was again revived for that of 1604. N0 literary source is known
+The title-page professes to give the play as it was "corrected and
+augmented" for the Christmas either of 1597 or of 1598. It
+was again revived for that of 1604. No literary source is known
 for its incidents.
-10. Romeo and Juliet, which was published in 1597 as played
-by Lord Hunsdon’s men, was probably produced somewhat
-before A Midsummer Nighfs Dream, as its incidents seem to
+
+10\. Romeo and Juliet, which was published in 1597 as played
+by Lord Hunsdon's men, was probably produced somewhat
+before A Midsummer Night's Dream, as its incidents seem to
 have suggested the parody of the Pyramus and Thisbe interlude.
-An attempt to date it in 1591 is hardly justified by the Nurse’s
+An attempt to date it in 1591 is hardly justified by the Nurse's
 references to an earthquake eleven years before and the fact
 that there was a real earthquake in London in 1580. The text
 seems to have been partly revised before the issue of the Second
 Quarto in 1599. There had been an earlier play on the subject,
-but the immediate source ·used by Shakespeare was Arthur
-B1ooke’s narrative poem Romeus and Juliet (1562).
-11. A Midsummer N ight’s Dream, with its masque-like scenes
+but the immediate source used by Shakespeare was Arthur
+Brooke's narrative poem Romeus and Juliet (1562).
+
+11\. A Midsummer Night's Dream, with its masque-like scenes
 of fairydom and the epithalamium at its close, has all the air
 of having been written less for the public stage than for some
 courtly wedding; and the compliment paid by Oberon to the
-“fair vestal throned by the west " makes it probable that it
+"fair vestal throned by the west" makes it probable that it
 was a wedding at which Elizabeth was present. Two fairly
 plausible occasions have been suggested. The wedding of Mary
 countess of Southampton with Sir Thomas Heneage on the
 2nd of May 1594 would at the May-day setting of the plot;
-but a widowed countess hardly answers to the " little western
-Bower " of the allegory, and there are allusions to events later
-in 1594 and in particular to the rainy weather of ]une and ]uly,
+but a widowed countess hardly answers to the "little western
+flower" of the allegory, and there are allusions to events later
+in 1594 and in particular to the rainy weather of June and July,
 which indicate a somewhat later date. The wedding of William
 Stanley, earl of Derby, brother of the lord Strange for whose
 players Shakespeare had written, and Elizabeth Vere, daughter
 of the earl of Oxford, which took place at Greenwich on the 26th
-of ]anuary 1595, perhaps fits the conditions best. It has been
-fmicied that Shakespeare was present when " certain stars shot
-madly from their spheres " in the Kenilworth fireworks of 1575,
+of January 1595, perhaps fits the conditions best. It has been
+fancied that Shakespeare was present when "certain stars shot
+madly from their spheres" in the Kenilworth fireworks of 1575,
 but if he had any such entertainment in mind it is more likely
 to have been the more recent one given to Elizabeth by the earl
 of Hertford at Elvetham in 1591. There appears to be no special
@@ -1250,77 +1260,82 @@ of Hertford at Elvetham in 1591. There appears to be no special
 ### START: ED4A807_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A807.TIF 
 
-SPEARE 7 7 9
-' source for the play beyond Chaucer’s Knighfs Tale and the wide-
-spread fairy lore of western Europe.
-12. No very definite evidence exists for the date of The Two
+p.779:1
+
+source for the play beyond Chaucer's Knight's Tale and the
+widespread fairy lore of western Europe.
+
+12\. No very definite evidence exists for the date of The Two
 Gentlemen of Verona, other than the mention of it in Palladis
 Tamia. It is evidently a more rudimentary essay in the genre
 of romantic comedy than The Merchant of Venice, with which
 it has other affinities in its Italian colouring and its use of the
-inter—relations— of love and friendship as a theme; and it may
+inter-relations of love and friendship as a theme; and it may
 therefore be roughly assigned to the neighbourhood of 1595.
 The plot is drawn from various examples of contemporary fiction,
-especially from the story of the shepherdess Filismena in ]orge
-de M0ntemayor’s Diana (1559). A play of Felix and Philiomena
-had already been given at court in 1585. I
-13. King John is another play for which 1595 seems a likely
-date, partly on account of its style, and partly from the impro-
-bability of a play on an independent subject drawn from English
+especially from the story of the shepherdess Filismena in Jorge
+de Montemayor's *Diana* (1559). A play of *Felix and Philiomena*
+had already been given at court in 1585.
+
+13\. King John is another play for which 1595 seems a likely
+date, partly on account of its style, and partly from the
+improbability of a play on an independent subject drawn from English
 history being interpolated in the middle either of the Yorkist
 or of the Lancastrian series. It would seem that Shakespeare
-had before him an old play of the Queen’s men, called The
-T roublesome Reign of King John. This was published in 1591,
-and again, with " W. Sh." on the title-page, in 1611. For copy-
-right purposes King John appears to have been regarded as a
-revision of The Tronblesorne Reign, and in fact the succession of
-incidents in the two plays is much the same. Shakespea1e’s
-dialogue, however, owes little or nothing to that of his pre-
-decessor.
-14. Richard II. can be dated with some accuracy by a com-
-parison of the two editions of Samuel Daniel’s narrative poem on
-The Civil Wars Between the Two Houses of Lancaster and York,
+had before him an old play of the Queen's men, called *The
+Troublesome Reign of King John*. This was published in 1591,
+and again, with "W. Sh." on the title-page, in 1611. For copyright
+purposes King John appears to have been regarded as a
+revision of *The Troublesome Reign*, and in fact the succession of
+incidents in the two plays is much the same. Shakespeare's
+dialogue, however, owes little or nothing to that of his predecessor.
+
+14\. Richard II. can be dated with some accuracy by a comparison
+of the two editions of Samuel Daniel's narrative poem on
+*The Civil Wars Between the Two Houses of Lancaster and York*,
 both of which bear the date of 1595 and were therefore issued
 between March 25, 1595 and March 24, 1596 of the modern
 reckoning. The second of these editions, but not the first,
 contains some close parallels to the play. From the first two
-quartos of Richard I I ., published in 1597 and 1598, the deposition
+quartos of Richard II., published in 1597 and 1598, the deposition
 scene was omitted, although it was clearly part of the original
-structure of the play, and its removal leaves an obvious mutila-
-tion in the text. There is some reason to suppose that this was
+structure of the play, and its removal leaves an obvious mutilation
+in the text. There is some reason to suppose that this was
 due to a popular tendency to draw seditious parallels between
 Richard and Elizabeth; and it became one of the charges
 against the earl of Essex and his fellow-conspirators in the
-_abortive érneute of February 1601, that they had procured a
-performance of a play on Richard’s fate in order to stimulate
-their followers. As the actors were the Lord Chamberlain’s men,
-this play can hardly have been any other than Shakespeare’s.
-The deposition scene was not printed until after Elizabeth’s
-death, in the Third Quarto of I608.
-15. The Merchant of Venice, certainly earlier than ]uly 22,
-1598, on which date it was entered in the Stationers’ Register,
-and possibly inspired by the machinations of the jew poisoner
-Roderigo Lopez, (who was executed in june 1594, shows a con-
-siderable advance in comic and melodramatic power over any-
+abortive emeute of February 1601, that they had procured a
+performance of a play on Richard's fate in order to stimulate
+their followers. As the actors were the Lord Chamberlain's men,
+this play can hardly have been any other than Shakespeare's.
+The deposition scene was not printed until after Elizabeth's
+death, in the Third Quarto of 1608.
+
+15\. The Merchant of Venice, certainly earlier than July 22,
+1598, on which date it was entered in the Stationers' Register,
+and possibly inspired by the machinations of the Jew poisoner
+Roderigo Lopez, (who was executed in june 1594, shows a considerable
+advance in comic and melodramatic power over any
 of the earlier plays, and is assigned by a majority of scholars
-to about 1 596. The various stories of which its plot is compounded
-are based upon common themes of folk-tales and Italian novelle.
+to about 1596. The various stories of which its plot is compounded
+are based upon common themes of folk-tales and Italian *novelle*.
 It is possible that Shakespeare may have had before him a
 play called The Jew, of which there are traces as early as 1579,
-and in which motives illustrating " the greedinesse of worldly
-chusers " and the " bloody mindes of usurers " appear to have
+and in which motives illustrating "the greedinesse of worldly
+chusers" and the "bloody mindes of usurers" appear to have
 been already combined. Something may also be owing to
-Marlowe’s play of The Jew of Malta. V
+Marlowe's play of The Jew of Malta.
+
 16, 17. The existence of Richard II. is assumed throughout
-in Henry I V., which probably therefore followed it after no long
+in Henry IV., which probably therefore followed it after no long
 interval. The first part was published in 1598, the second not
 until 1600, but both parts must have been in existence before
-the entry of the first part in the Stationers’ Register on February
-25th 1598, since Falstaif is named in this entry, and a slip in a
-speech—preiix of the second part, which was not entered in the
+the entry of the first part in the Stationers' Register on February
+25th 1598, since Falstaff is named in this entry, and a slip in a
+speech-prefix of the second part, which was not entered in the
 Register until August 23rd 1600, betrays that it was written
-when the character still bore the name of Sir ]0hn Oldcastle.
-Richard ]ames, in his dedication to The Legend of Sir John
+when the character still bore the name of Sir John Oldcastle.
+Richard James, in his dedication to The Legend of Sir John
 Oldcastle about 1625, and Rowe in 1709 both bear witness to the
 substitution of the one personage for the other, which Rowe
 
@@ -1329,158 +1344,168 @@ substitution of the one personage for the other, which Rowe
 ### START: ED4A808_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A808.TIF 
 
-7 8 0 SHAKE
-ascribes to the intervention of Elizabeth, and james to that
+p.780:0
+
+ascribes to the intervention of Elizabeth, and James to that
 of some descendants of Oldcastle, one of whom was probably
 Lord Cobham. There is an allusion to the incident and an
 acknowledgment of the wrong done to the famous Lollard
-martyr in the epilogue to 2 Henry I V. itself. Probably Shake-
-speare found Oldcastle, with very little else that was of service to
-him, in an old play called The Famous Victories of Henry the Fifth,
-which had been acted by Tarlton and the Queen’s men at least
+martyr in the epilogue to 2 Henry IV. itself. Probably Shakespeare
+found Oldcastle, with very little else that was of service to
+him, in an old play called *The Famous Victories of Henry the Fifth*,
+which had been acted by Tarlton and the Queen's men at least
 as far back as 1588, and of which an edition was printed in 1598.
 Falstaff himself is a somewhat libellous presentment of the 15th
-century leader, Sr ]ohn Fastolf, who had already figured in
+century leader, Sr John Fastolf, who had already figured in
 Henry VI.; but presumably Fastolf has no titled descendants
 alive in 1598.
-18. An entry in the Stationers' Register during I6OO shows
+
+18\. An entry in the Stationers' Register during 1600 shows
 that Much Ado About Nothing was in existence, although its
-publication was then directed to be “ stayed." It may plausibly
-be regarded as the earliest play not included in Meres’s list. In
-1613 it was revived before ]ames I. under the alternative titlc
-of Benedick and Beatrice. Dogberry is said by Aubrey to have
+publication was then directed to be "stayed." It may plausibly
+be regarded as the earliest play not included in Meres's list. In
+1613 it was revived before James I. under the alternative title
+of *Benedick and Beatrice*. Dogberry is said by Aubrey to have
 been taken from a constable at Grendon in Buckinghamshire.
-There is no very definite literary source for the play, althouglt
-some of its incidents are to be found in Ariosto’s Orlando F uriost
-and Bandello’s novelle, and attempts have been made to establislt
-relationships between it and two early German plays, jacolt
-Ayrer’s Die Schone Phaenicia and the Vincentius Ladiszlau:
-of Duke Henry julius of Brunswick.
-19. The completion of the Lancastrian series of histories by
+There is no very definite literary source for the play, although
+some of its incidents are to be found in Ariosto's *Orlando Furioso*
+and Bandello's *novelle*, and attempts have been made to establish
+relationships between it and two early German plays, Jacob
+Ayrer's *Die Schone Phaenicia* and the *Vincentius Ladiszlau*
+of Duke Henry Julius of Brunswick.
+
+19\. The completion of the Lancastrian series of histories by
 Henry V. can be safely placed in or about 1599, since there is
-an allusion in one of the choruses to the military operations ir
-Ireland of the earl of Essex,who crossed on March 27 and returnec
+an allusion in one of the choruses to the military operations in
+Ireland of the earl of Essex,who crossed on March 27 and returned
 on September 28, 1599. The First Quarto, which was first
-" stayed " with Much Ado About Nothing and then publishec
+"stayed" with Much Ado About Nothing and then published
 in 1600, is a piratical text, and does not include the choruses
-A geniune and perhaps slightly revised version was first published
+A genuine and perhaps slightly revised version was first published
 in the First Folio.
-20. That Julius Caesar also belongs to 1599 is shown, not only
-by its links with Henry V. but also by an allusion to it in ]ohr
-Weever’s Mirror of Martyrs, a work written two years before it:
-publication in 1601, and by a notice of a performance or
+
+20\. That Julius Caesar also belongs to 1599 is shown, not only
+by its links with Henry V. but also by an allusion to it in Johr
+Weever's *Mirror of Martyrs*, a work written two years before its
+publication in 1601, and by a notice of a performance on
 September 21st, 1599 by Thomas Platter of Basel in an account
-of a visit to London. This was the first of Shakespeare’s Romar
-plays, and, like those that followed, was based upon Plutarch’:
-Lives as translated from the French of jacques Amyot and pub-
-lished by Sir Thomas North in 1580. It was also Shakespeare?
+of a visit to London. This was the first of Shakespeare's Roman
+plays, and, like those that followed, was based upon Plutarch's
+*Lives* as translated from the French of Jacques Amyot and published
+by Sir Thomas North in 1580. It was also Shakespeare's
 first tragedy since Romeo and Juliet.
-21. It is reported by ]ohn Dennis, in the preface to The
-Comical Gallant (1702), that The Merry Wives of Windsor was
-written at the express desire of Elizabeth, who wished to ses
-Falstatf in love, and was finished by Shakespeare in the space
-of a fortnight. A date at the end of 1599 or the beginning o.
-16_o0, shortly after the completion of the historical Falstaff plays
-would be the most natural one for this enterprise, and witl
-such a date the evidence of style agrees. The play was enterec
-in the Stationers' Register on january 18th, 1602. The First
-Quarto of the same year appears to contain an earlier versior
-of the text than that of the First Folio. Among the passage:
+
+21\. It is reported by John Dennis, in the preface to *The
+Comical Gallant* (1702), that The Merry Wives of Windsor was
+written at the express desire of Elizabeth, who wished to see
+Falstaff in love, and was finished by Shakespeare in the space
+of a fortnight. A date at the end of 1599 or the beginning of
+1600, shortly after the completion of the historical Falstaff plays
+would be the most natural one for this enterprise, and with
+such a date the evidence of style agrees. The play was entered
+in the Stationers' Register on January 18th, 1602. The First
+Quarto of the same year appears to contain an earlier version
+of the text than that of the First Folio. Among the passages
 omitted in the revision was an allusion to the adventures of the
-duke of Wurttemberg and count of Mompelgard, whose attempt:
-to secure the Garter had brought him into notice. The Windsoi
-setting makes it possible that The Merry Wives was producer
-at a Garter feast, and perhaps with the assistance of the childrer
+duke of Wurttemberg and count of Mompelgard, whose attempts
+to secure the Garter had brought him into notice. The Windsor
+setting makes it possible that The Merry Wives was produced
+at a Garter feast, and perhaps with the assistance of the children
 of Windsor Chapel in the fairy parts. The plot has its analogies
-to various incidents in Italian novelle and in English adaptation:
-of these. 7
-22. As You Like It was one of the plays " stayed " from publica·
-tion in 1600, and cannot therefore be later than that year. Some
+to various incidents in Italian *novelle* and in English adaptations
+of these.
+
+22\. As You Like It was one of the plays "stayed" from publication
+in 1600, and cannot therefore be later than that year. Some
 trifling bits of evidence suggest that it is not earlier than 1599
-The plot is based upon Thomas Lodge’s romance of Rosalyndt
-(1590), and this in part upon the pseudo-Chaucerian Tale 0)
+The plot is based upon Thomas Lodge's romance of Rosalynde
+(1590), and this in part upon the pseudo-Chaucerian Tale of
 Gamelyn.
-23. A play of Hamlet was performed, probably by the Chamber
-lain’s men, for Henslowe at Newington Butts on the 9th of june
+
+23\. A play of Hamlet was performed, probably by the Chamberlain's
+men, for Henslowe at Newington Butts on the 9th of June
 
 ### END: ED4A808_0.tif.txt ###
 
 ### START: ED4A808_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A808.TIF 
 
-SPEARE
-1594. There are other references to it as a revenge—play, and it
+p.780:1
+
+1594. There are other references to it as a revenge-play, and it
 seems to have been in existence in some shape as early as 1589.
 . It was doubtless on the basis of this that Shakespeare constructed
-. his tragedy. Some features of the so-called U r-H amlet may
-» perhaps be traceable in the German play of Der bestrafte Brnder-
-· mord. There is an allusion in Hamlet to the rivalry between
+his tragedy. Some features of the so-called *Ur-Hamlet* may
+perhaps be traceable in the German play of *Der bestrafte Brudermord*.
+There is an allusion in Hamlet to the rivalry between
 the ordinary stages and the private plays given by boy actors,
-, which points to a date during the vogue of the children of the
-1 Chapel, whose performance began late in 1600, and another to
-1 an inhibition of plays on account of a " late innovation, " by
-1 which the Essex rising of February 1601 may be meant. The
-x play was entered in the Stationers’ Register on ]uly 26, 1602.
+which points to a date during the vogue of the children of the
+Chapel, whose performance began late in 1600, and another to
+an inhibition of plays on account of a "late innovation," by
+which the Essex rising of February 1601 may be meant. The
+play was entered in the Stationers' Register on July 26, 1602.
 The First Quarto was printed in 1603 and the Second Quarto
-; in 1604. These editions contain texts whose differences from
-s each other and from that of the First Folio are so considerable
-* as to suggest, even when allowance has been made for the fact
-1 that the First Quarto is probably a piratical venture, that the
-z play underwent an exceptional amount of rewriting at Shake-
-: speare’s hands. The title-page of the First Quarto indicates
-. that the earliest version was acted in the universities of Oxford
-1 and Cambridge and elsewhere, as well as in London. The
-> ultimate source of the plot is to be found in Scandinavian legends
-1 preserved in the Historia Danica of Saxo Grammaticus, and
-1 transmitted to Shakespeare or his predecessor through the
-: `Histoires tragiqnes (1 570) of Francois de Belleforest (see HAML1:1).
-24-. Twenfth Night may be fairly placed in 1601-1602, since it
-1 quotes part of a song included in Robert ]ones’s First Book
-s of Songs and Airs (1600), and is recorded by ]ohn Manningham
-1 to have been seen by him at a feast in the Middle Templehall
-l on February 2nd, 1602. The principal source of the plot was
-; Barnabe Riche’s " History of Apolonius and Silla " in his Fare- `
-l well to Military Profession (1581).
-. 25. Few of the plays present so many difficulties as Troilus and
-l Cressida, and it cannot be said that its literary history has as yet
-been thoroughly worked out. A play of the name, " as yt is acted
-1 by my Lord Chamberlens men " was entered in the Stationers’
-1 Register on February 7th, 1603, with a note that " sufficient
-s authority " must be got by the publisher, ]ames Roberts,
-1 before he printed it. This can hardly be any other than Shake-
-t speare’s play; but it must have been " stayed, " for the First
-1 Quarto did not appear until 1609, and on the 28th of january
-s of that year a fresh entry had been made in the Register by
-- another publisher. The text of the Quarto differs in certain
-s respects from that of the Folio, but not to a greater extent than
-the use of different copies of the original manuscript might ex-
-2 plain. Two alternative title-pages are found in copies of the
-s Quarto. On one, probably the earliest, is a statement thatthe
-a play was printed " as it was acted by the Kings Maiesties seruants
-: at the Globe "; from the other these words are omitted, and a
-f preface is appended which hints that the " grand possessors" of
-, the play had made difhculties about its publication, and describes
-1 it as " never staled with the stage." Attempts have been made,
-l mainly on grounds of style, to hnd another hand than Shake-
-L speare’s in the closing scenes and in the prologue, and even to
-1 assign widely different dates to various parts of what is ascribed
-s to Shakespeare. But the evidence does not really bear out these
-2 theories, and the style of the whole must be regarded as quite
-s consistent with a date in 1601 or 1602. The more probable year
-r is 1602, if, as seems not unlikely, the description of Ajax and his
-l humours in the second scene of the first act is Shakespeare’s
-1 " purge " to JOILSOII in reply to the Poetaster (1601), alluded to,
-s as already mentioned, in the Return from Parnassns, a Cambridge
-s play acted probably at the Christmas of 1602-1603 (rather than,
+in 1604. These editions contain texts whose differences from
+each other and from that of the First Folio are so considerable
+as to suggest, even when allowance has been made for the fact
+that the First Quarto is probably a piratical venture, that the
+play underwent an exceptional amount of rewriting at Shakespeare's
+hands. The title-page of the First Quarto indicates
+that the earliest version was acted in the universities of Oxford
+and Cambridge and elsewhere, as well as in London. The
+ultimate source of the plot is to be found in Scandinavian legends
+preserved in the *Historia Danica* of Saxo Grammaticus, and
+transmitted to Shakespeare or his predecessor through the
+*Histoires tragiques* (1570) of Francois de Belleforest (see HAMLET).
+
+24\. Twelfth Night may be fairly placed in 1601-1602, since it
+quotes part of a song included in Robert Jones's *First Book
+of Songs and Airs* (1600), and is recorded by John Manningham
+to have been seen by him at a feast in the Middle Temple hall
+on February 2nd, 1602. The principal source of the plot was
+Barnabe Riche's "History of Apolonius and Silla" in his *Farewell
+well to Military Profession* (1581).
+
+25\. Few of the plays present so many difficulties as Troilus and
+Cressida, and it cannot be said that its literary history has as yet
+been thoroughly worked out. A play of the name, "as yt is acted
+by my Lord Chamberlens men" was entered in the Stationers'
+Register on February 7th, 1603, with a note that "sufficient
+authority" must be got by the publisher, James Roberts,
+before he printed it. This can hardly be any other than Shakespeare's
+play; but it must have been "stayed," for the First
+Quarto did not appear until 1609, and on the 28th of January
+of that year a fresh entry had been made in the Register by
+another publisher. The text of the Quarto differs in certain
+respects from that of the Folio, but not to a greater extent than
+the use of different copies of the original manuscript might explain.
+Two alternative title-pages are found in copies of the
+Quarto. On one, probably the earliest, is a statement that the
+play was printed "as it was acted by the Kings Maiesties seruants
+at the Globe"; from the other these words are omitted, and a
+preface is appended which hints that the "grand possessors" of
+the play had made difficulties about its publication, and describing
+it as "never staled with the stage." Attempts have been made,
+mainly on grounds of style, to find another hand than Shakespeare's
+in the closing scenes and in the prologue, and even to
+assign widely different dates to various parts of what is ascribed
+to Shakespeare. But the evidence does not really bear out these
+theories, and the style of the whole must be regarded as quite
+consistent with a date in 1601 or 1602. The more probable year
+is 1602, if, as seems not unlikely, the description of Ajax and his
+humours in the second scene of the first act is Shakespeare's
+"purge" to Johnson in reply to the *Poetaster* (1601), alluded to,
+as already mentioned, in the *Return from Parnassus*, a Cambridge
+play acted probably at the Christmas of 1602-1603 (rather than,
 as is usually asserted, 1601-1602). It is tempting to conjecture
-- that Troilus and Cressida may have been played, like Hamlet,
-2 by the Chamberlain’s men at Cambridge, but may never have
-. been taken to London, and in this sense " never staled with the
-2 stage." The only difficulty of a date in 1602 is that a parody
-V of a play on Troilus and Cressida is introduced into Histrio-
-mastix (e. 1599), and that in this Troilus " shakes his furious
-· speare." But Henslowe had produced another play on the
-c subject, by Dekker and Chettle, in 1 599, and probably, therefore,
+that Troilus and Cressida may have been played, like Hamlet,
+by the Chamberlain's men at Cambridge, but may never have
+been taken to London, and in this sense "never staled with the
+stage." The only difficulty of a date in 1602 is that a parody
+of a play on Troilus and Cressida is introduced into *Histriomastix* (c. 1599),
+and that in this Troilus "shakes his furious
+speare." But Henslowe had produced another play on the
+subject, by Dekker and Chettle, in 1599, and probably, therefore,
 
 ### END: ED4A808_1.tif.txt ###
 
