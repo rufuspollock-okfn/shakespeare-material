@@ -5,7 +5,7 @@
 
 p.772:0
 
-SHAKESPEARE, WILLIAM (1564--1616), English poet, player
+Shakespeare, William (1564--1616), English poet, player
 and playwright, was baptized in the parish church of Stratford-upon-Avon
 in Warwickshire on the 26th of April
 1564. The exact date of his birth is not known. Two 18th-century
@@ -970,7 +970,7 @@ approximate accuracy.
 **Chronology of the Plays**
 
     || 1591 || (1, 2) The Contention of York and Lancaster (2, 3 Henry VI.) || ||
-    || 1592 || (3) 1 Henry V1 || The theatres were closed for riot and plague from June to the end of December ||
+    || 1592 || (3) 1 Henry VI || The theatres were closed for riot and plague from June to the end of December ||
     || 1593 || (4) Richard III, (5) Edward III (part only) (6) The Comedy of Errors || (The theatres were closed for plague during February and March ||
     || 1594 || (7) Titus Andronicus, (8) Taming of the Shrew, (9) Love's Labour's Lost, (10) Romeo and Juliet || The theatres were closed for plague during February and March ||
     || 1595 || (11) A Midsummer Night's Dream, (12) The Two Gentlemen of Verona, (13) King John ||  
