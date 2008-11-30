@@ -1,0 +1,169 @@
+[alls_well_that_ends_well]
+creator = Shakespeare, William
+title = All's Well That Ends Well
+
+[antony_and_cleopatra]
+creator = Shakespeare, William
+title = Antony and Cleopatra
+
+[as_you_like_it]
+creator = Shakespeare, William
+title = As you Like it
+
+[comedy_of_errors]
+creator = Shakespeare, William
+title = The Comedy of Errors
+
+[coriolanus]
+creator = Shakespeare, William
+title = Coriolanus
+
+[cymbeline]
+creator = Shakespeare, William
+title = Cymbeline
+
+[hamlet]
+creator = Shakespeare, William
+title = Hamlet
+
+[henry_iv_part_1]
+creator = Shakespeare, William
+title = King Henry IV, Part 1
+
+[henry_iv_part_2]
+creator = Shakespeare, William
+title = King Henry IV, Part 2
+
+[henry_v]
+creator = Shakespeare, William
+title = Henry V
+
+[henry_vi_part_1]
+creator = Shakespeare, William
+title = Henry VI Part 1
+
+[henry_vi_part_2]
+creator = Shakespeare, William
+title = King Henry VI, Part 2
+
+[henry_vi_part_3]
+creator = Shakespeare, William
+title = Henry VI Part 3
+
+[henry_viii]
+creator = Shakespeare, William
+title = Henry VIII
+
+[john]
+creator = Shakespeare, William
+title = King John
+
+[julius_caesar]
+creator = Shakespeare, William
+title = Julius Caesar
+
+[lear]
+creator = Shakespeare, William
+title = King Lear
+
+[lovers_complaint]
+creator = Shakespeare, William
+title = A Lover's Complaint
+
+[loves_labours_lost]
+creator = Shakespeare, William
+title = Love's Labour's Lost
+
+[macbeth]
+creator = Shakespeare, William
+title = Macbeth
+
+[merry_wives_of_windsor]
+creator = Shakespeare, William
+title = The Merry Wives of Windsor
+
+[midsummer_nights_dreame]
+creator = Shakespeare, William
+title = Midsummer Nights Dreame
+
+[measure_for_measure]
+creator = Shakespeare, William
+title = Measure for Measure
+
+[merchant_of_venice]
+creator = Shakespeare, William
+title = The Merchant of Venice
+
+[much_ado_about_nothing]
+creator = Shakespeare, William
+title = Much ado about Nothing
+
+[othello]
+creator = Shakespeare, William
+title = Othello
+
+[passionate_pilgrim]
+creator = Shakespeare, William
+title = The Passionate Pilgrim
+
+[pericles]
+creator = Shakespeare, William
+title = Pericles
+
+[phoenix_and_the_turtle]
+creator = Shakespeare, William
+title = The Phoenix and the Turtle
+
+[rape_of_lucrece]
+creator = Shakespeare, William
+title = The Rape of Lucrece
+
+[richard_ii]
+creator = Shakespeare, William
+title = King Richard II
+
+[richard_iii]
+creator = Shakespeare, William
+title = Richard III
+
+[romeo_and_juliet]
+creator = Shakespeare, William
+title = Romeo and Juliet
+
+[sonnets]
+creator = Shakespeare, William
+title = Sonnets
+
+[taming_of_the_shrew]
+creator = Shakespeare, William
+title = The Taming of the Shrew
+
+[tempest]
+creator = Shakespeare, William
+title = The Tempest
+
+[timon_of_athens]
+creator = Shakespeare, William
+title = Timon of Athens
+
+[titus_andronicus]
+creator = Shakespeare, William
+title = Titus Andronicus
+
+[troilus_and_cressida]
+creator = Shakespeare, William
+title = Troilus and Cressida
+
+[twelfth_night]
+creator = Shakespeare, William
+title = Twelfth Night
+
+[two_gentlemen_of_verona]
+creator = Shakespeare, William
+title = Two Gentlemen of Verona
+
+[winters_tale]
+creator = Shakespeare, William
+title = The Winters Tale
+
+
