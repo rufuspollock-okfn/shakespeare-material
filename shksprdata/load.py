@@ -18,6 +18,18 @@ class LoadTexts(shakespeare.cli.BaseCommand):
         print 'Loaded successfully'
 
     @classmethod
+    def norm_work_name(self, name):
+        out = name.replace('_f', '')
+        out = out.replace('_gut', '')
+        out = out.replace('anthonie', 'antony')
+        out = out.replace('errours', 'errors')
+        out = out.replace('alls', "all_is")
+        out = out.replace('loves_labour_', 'loves_labours_')
+        out = out.replace('dreame', 'dream')
+        out = out.replace('twelfe-', 'twelfth_')
+        return out
+
+    @classmethod
     def load_texts(self):
         import shakespeare.model as model
         pkg = 'shksprdata'
@@ -25,12 +37,20 @@ class LoadTexts(shakespeare.cli.BaseCommand):
         cfgp = SafeConfigParser()
         cfgp.readfp(fileobj)
         for section in cfgp.sections():
+            work_name = self.norm_work_name(section)
+            work = model.Work.by_name(work_name)
+            if work is None:
+                work = model.Work(name=work_name)
+
             item = model.Material.byName(section)
             if item is None:
                 item = model.Material(name=section)
             assert item is not None
             for key, val in cfgp.items(section):
+                if key in ['title', 'creator']:
+                    setattr(work, key, val)
                 setattr(item, key, val)
+            item.work = work
             item.src_pkg = pkg
             item.src_locator = '/texts/%s.txt' % section
             model.Session.flush()
