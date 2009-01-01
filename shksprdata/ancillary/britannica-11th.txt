@@ -1,10 +1,5 @@
 ## Shakespeare's Entry in the Encyclopaedia Britannica 11th Edition (1911)
 
-### START: ED4A800_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A800.TIF 
-
-p.772:0
-
 Shakespeare, William (1564--1616), English poet, player
 and playwright, was baptized in the parish church of Stratford-upon-Avon
 in Warwickshire on the 26th of April
@@ -65,13 +60,6 @@ effect that Shakespeare himself, in the extant examples of his signature, always
 In the printed signatures to the dedications of his poems, on the title-pages of nearly
 all the contemporary editions of his plays that bear his name,
 and in many formal documents it appears as Shakespeare.
-
-### END: ED4A800_0.tif.txt ###
-
-### START: ED4A800_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A800.TIF 
-
-p.772:1
 
 This may be in part due to the martial derivation which the
 poet's literary contemporaries were fond of assigning to his
@@ -147,14 +135,6 @@ in 1563 and the former must also have died young, although
 her burial is not recorded, as a second Joan was baptized in 156o.
 A Gilbert was baptized in 1566, an Anne in 1571, a Richard in
 1574 and an Edmund in 1580. Anne died in 1579; Edmund,
-
-### END: ED4A800_1.tif.txt ###
-
-### START: ED4A801_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A801.TIF 
-
-p.773:0
-
 who like his brother became an actor, in 1607; Richard in 1613.
 Tradition has it that one of Shakespeare's brothers used to visit
 London in the 17th century as quite an old man. If so, this can
@@ -171,7 +151,7 @@ another John Shakespeare, a "corviser" or shoemaker, who
 dwelt in Stratford about 1584-1592. In 1571 as an ex-bailiff he
 began another year of office as chief alderman.
 
-[Youth]
+### Youth
 
 One may think, therefore, of Shakespeare in his boyhood as
 the son of one of the leading citizens of a not unimportant
@@ -220,7 +200,7 @@ fellow of Corpus Christi College, Oxford, was master of the school in
 [^2]: Baptista Mantuanus (1448-1516), whose Latin Eclogues were
 translated by Turberville in 1567.
 
-[Marriage]
+### Marriage
 
 Whatever his circumstances, they did not deter him at the
 early age of eighteen from the adventure of marriage. Rowe
@@ -236,14 +216,6 @@ in the will of a Richard Hathaway of Shottery, who died in
 as "Anne Hathaway's Cottage." Agnes was legally distinct
 name from Anne, but there can be no doubt that ordinary
 custom treated them as identical. The principal record of the
-
-### END: ED4A801_0.tif.txt ###
-
-### START: ED4A801_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A801.TIF 
-
-p.773:1
-
 marriage is a bond dated on November 28, 1582, and executed
 by Fulk Sandells and John Richardson, two yeomen of Stratford
 who also figure in Richard Hathaway's will, as a security to the
@@ -283,7 +255,7 @@ first child, Susanna, was baptized on the 26th of May 1583,
 and was followed on the 2nd of February 1585 by twins,
 Hamnet and Judith.
 
-[Obscure years, 1584-1592]
+### Obscure years, 1584-1592
 
 In or after 1584 Shakespeare's career in Stratford seems to
 have come to a tempestuous close. An 18th-century story of a
@@ -317,14 +289,6 @@ and the theatre, where, according to the stage tradition, he
 found employment in a menial capacity, perhaps even as a
 holder of horses at the doors, before he was admitted into a company as an actor and so found his way to his true vocation
 as a writer of plays. Malone thought that he might have left
-
-### END: ED4A801_1.tif.txt ###
-
-### START: ED4A802_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A802.TIF 
-
-p.774:0
-
 Stratford with one of the travelling companies of players which
 from time to time visited the town. Later biographers have
 fixed upon Leicester's men, who were at Stratford in 1587,
@@ -343,7 +307,7 @@ possible, as will be seen later, that he had about this time
 relations with the earl of Pembroke's men, or with the earl of
 Sussex's men, or with both of these organizations.
 
-[Playwright and poet]
+### Playwright and poet
 
 What is clear is that by the summer of 1592, when he was
 twenty-eight, he had begun to emerge as a playwright, and had
@@ -398,23 +362,15 @@ and Adonis*, and in that of the group of plays which may be dated
 in or about 1594 and 1595 as compared with those that preceded.
 It must, however, be borne in mind that, while Shakespeare
 may perfectly well, at this or at some earlier time, have voyaged
-
-[^1]: It is most improbable, however, that the apologetic reference in
-Chettle's *Kind-hart's Dream* (December 1592) refers to Shakespeare.
-
-### END: ED4A802_0.tif.txt ###
-
-### START: ED4A802_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A802.TIF 
-
-p.774:1
-
 to Italy, and possibly Denmark and even Germany as well,
 there is no direct evidence to rely upon, and that inference from
 internal evidence is a dangerous guide when a writer of so assimilative
 a temperament as that of Shakespeare is concerned.
 
-[Connexion with the Chamberlain's company of actors]
+[^1]: It is most improbable, however, that the apologetic reference in
+Chettle's *Kind-hart's Dream* (December 1592) refers to Shakespeare.
+
+### Connexion with the Chamberlain's company of actors ###
 
 From the reopening of the theatres in the summer of 1594
 onwards Shakespeare's status is in many ways clearer. He had
@@ -478,7 +434,7 @@ the beginning, of that of others. Occasionally he may have
 . entered into collaboration, as, for example, at the end of his
 career, with Fletcher.
 
-[Stratford Affairs]
+### Stratford Affairs
 
 In a worldly sense he clearly flourished, and about 1596, if
 not earlier, he was able to resume relations as a moneyed
@@ -488,14 +444,6 @@ he had brought his wife and family to London. His son Hamnet
 died and was buried at Stratford in 1596. During the last ten
 years John Shakespeare's affairs had remained unprosperous.
 He incurred fresh debt, partly through becoming surety for
-
-### END: ED4A802_1.tif.txt ###
-
-### START: ED4A803_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A803.TIF 
-
-p.775:0
-
 his brother Henry; and in 1592 his name was included in a list
 of recusants dwelling at or near Stratford-on-Avon, with a note
 by the commissioners that in his case the cause was believed to
@@ -539,7 +487,7 @@ and orchard, 20 acres of pasture and common rights; and in
 of certain great tithes in Stratford parish, which brought in an
 income of about £60 a year.
 
-[London Associations]
+### London Associations
 
 Meanwhile London remained his headquarters. Here Malone
 thought that he had evidence, now lost, of his residence in South-
@@ -571,14 +519,6 @@ Ben Jonson's references to his flights "that so did take Eliza
 and our James," and by stories of the courtesies which passed
 between him and Elizabeth while he was playing a kingly part in
 her presence, of the origin of *The Merry Wives of Windsor* in
-
-### END: ED4A803_0.tif.txt ###
-
-### START: ED4A803_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A803.TIF 
-
-p.775:1
-
 her desire to see Falstaff in love, and of an autograph letter
 written to honour him by King James. It was noticed with
 some surprise by Henry Chettle that his "honied muse" dropped
@@ -593,7 +533,7 @@ also of favours received by the author in his lifetime from
 William Herbert, earl of Pembroke, and his brother Philip
 Herbert, earl of Montgomery.
 
-[Friends]
+### Friends
 
 He appears to have been on cordial terms with his fellows
 of the stage. One of them, Augustine Phillips, left him a
@@ -630,7 +570,7 @@ was published in 1662, gives an imaginative description of the
 wit combats, of which many took place between the two
 mighty contemporaries.
 
-[Contemporary Reputation]
+### Contemporary Reputation
 
 Of Shakespeare's literary reputation during his lifetime there
 is ample evidence. He is probably neither the "Willy" of
@@ -651,6 +591,11 @@ which serves as a starting-point for all modern attempts at a
 chronological arrangement of his work. It is moreover from
 Meres that we first hear of "his sugred Sonnets among his
 private friends." Two of these sonnets were printed in 1599
+in a volume of miscellaneous verse called The Passionate Pilgrim.
+This was ascribed upon the title-page to Shakespeare, but pro- `
+bably, so far as most of its contents were concerned, without
+justification. The bulk of Shakespeare's sonnets remained
+unpublished until 1609.
 
 [^1]: Kempe (speaking to Burbage), "Few of the university pen plays
 well. They smell too much of that writer Ovid and that writer (sic)
@@ -660,20 +605,7 @@ Ben Jonson too. O that Ben Jonson is a pestilent fellow. He brought
 up Horace giving the Poets a pill, but ourfellow Shakespeare hath
 given him a purge that made him beray his credit."
 
-### END: ED4A803_1.tif.txt ###
-
-### START: ED4A804_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A804.TIF 
-
-p.776:0
-
-in a volume of miscellaneous verse called The Passionate Pilgrim.
-This was ascribed upon the title-page to Shakespeare, but pro- `
-bably, so far as most of its contents were concerned, without
-justification. The bulk of Shakespeare's sonnets remained
-unpublished until 1609.
-
-[Last Years]
+### Last Years
 
 About 1610 Shakespeare seems to have left London, and
 entered upon the definite occupation of his house at New
@@ -716,7 +648,7 @@ than an hereditary faith. On the other hand, there is little to
 refute it beyond an entry in the accounts of Stratford corporation
 for drink given in 1614 to "a preacher at the Newe Place."
 
-[Will]
+### Will
 
 Shakespeare made his will on the 25th of March 1616, apparently
 in some haste, as the executed deed is a draft with many
@@ -745,19 +677,12 @@ Globe and Blackfriars probably determined on his death.
 A month after his will was signed, on the 23rd of April 1616,
 Shakespeare died, and as a tithe-owner was buried in the chance
 of the parish church. Some doggerel upon the stone that covers
-
-### END: ED4A804_0.tif.txt ###
-
-### START: ED4A804_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A804.TIF 
-
-p.776:1
-
+<!-- p.776:1 -->
 the grave has been assigned by local tradition to his own pen. A
 more elaborate monument, with a bust by the sculptor Gerard
 Johnson, was in due course set up on the chancel wall.
 
-[Death]
+### Death
 
 Anne Shakespeare followed her husband on the 6th
 of August 1623. The family was never founded. Shake-
@@ -803,7 +728,7 @@ well-shap't man," and the lameness attributed to him
 by some writers has its origin only in a too literal interpretation
 of certain references to spiritual disabilities in the *Sonnets.*
 
-[Dramas]
+### Dramas
 
 A collection of *Mr William Shakespeards Comedies, Histories
 and Tragedies* was printed at the press of William and Isaac
@@ -825,7 +750,7 @@ The following list gives the date of the First Quarto of each
 such play, and also that of any later Quarto which differs
 materially from the First.
 
-[[ed: reformatted from the original]]
+<!-- ed: reformatted from the original -->
 
         The Quarto Editions.
 
@@ -848,12 +773,7 @@ materially from the First.
   * Troilus and Cressida (1609).
   * Othello (1622).
 
-### END: ED4A804_1.tif.txt ###
-
-### START: ED4A805_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A805.TIF 
-
-p.777:0 [[ed: TODO italicising]]
+<!-- p.777:0 ed: TODO italicising -->
 
 Entries in the Register of copyrights kept by the Company
 of Stationers indicate that editions of *As You Like It* and
@@ -937,8 +857,7 @@ Romeo and Juliet, as well as a mysterious Love's Labour's Won,
 ### START: ED4A805_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A805.TIF 
 
-p.777:1
-[[ed: TODO italicising]]
+p.777:1 ed: TODO italicising
 
 which has been conjecturally identified with several plays,
 but most plausibly with The Taming of the Shrew. There is a
@@ -965,7 +884,7 @@ that neither the order in which the plays are given nor the
 distribution of them over the years lays claim to more than
 approximate accuracy.
 
-[[ed: TODO reformat?]]
+<!-- ed: TODO reformat? -->
 
 **Chronology of the Plays**
 
@@ -1009,14 +928,7 @@ sole author of 2, 3 Henry VI. and *The Contention* as a shortened
 and piratical version of the original plays, and in a theory which
 regards *The Contention* as written in collaboration by Marlowe,
 Greene and possibly Peele, and 2, 3 Henry VI. as a revision of
-
-### END: ED4A805_1.tif.txt ###
-
-### START: ED4A806_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A806.TIF 
-
-p.778:0
-
+<!-- p.778:0 -->
 *The Contention* written, also in collaboration, by Marlowe and
 Shakespeare. A comparison of the two texts leaves it hardly
 possible to doubt that the differences between them are to be
@@ -1092,12 +1004,7 @@ England, Scotland and Ireland* (1577). An earlier play, *The True
 Tragedy of Richard the Third* (1594), seems to have contributed
 little if anything to *Richard III*.
 
-### END: ED4A806_0.tif.txt ###
-
-### START: ED4A806_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A806.TIF 
-
-p.778:1
+<!-- p.778:1 -->
 
 5\. Many scholars think that at any rate the greater part of the
 first two acts of *Edward III.*, containing the story of Edward's
@@ -1174,12 +1081,7 @@ stock of Pembroke's men probably included, as well as *Titus
 and Vespasian*, both *Henry VI.* and *Richard III.*, which also
 thus passed to the Chamberlain's company.
 
-### END: ED4A806_1.tif.txt ###
-
-### START: ED4A807_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A807.TIF 
-
-p.779:0
+<!-- p.779:0 -->
 
 8\. In the same way was probably also acquired an old play of
 *The Taming of A Shrew*. This, which can be traced back as far
@@ -1256,14 +1158,7 @@ madly from their spheres" in the Kenilworth fireworks of 1575,
 but if he had any such entertainment in mind it is more likely
 to have been the more recent one given to Elizabeth by the earl
 of Hertford at Elvetham in 1591. There appears to be no special
-
-### END: ED4A807_0.tif.txt ###
-
-### START: ED4A807_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A807.TIF 
-
-p.779:1
-
+<!-- p.779:1 -->
 source for the play beyond Chaucer's Knight's Tale and the
 widespread fairy lore of western Europe.
 
@@ -1340,14 +1235,7 @@ when the character still bore the name of Sir John Oldcastle.
 Richard James, in his dedication to The Legend of Sir John
 Oldcastle about 1625, and Rowe in 1709 both bear witness to the
 substitution of the one personage for the other, which Rowe
-
-### END: ED4A807_1.tif.txt ###
-
-### START: ED4A808_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A808.TIF 
-
-p.780:0
-
+<!-- p.780:0 -->
 ascribes to the intervention of Elizabeth, and James to that
 of some descendants of Oldcastle, one of whom was probably
 Lord Cobham. There is an allusion to the incident and an
@@ -1426,14 +1314,7 @@ Gamelyn.
 
 23\. A play of Hamlet was performed, probably by the Chamberlain's
 men, for Henslowe at Newington Butts on the 9th of June 1594
-
-### END: ED4A808_0.tif.txt ###
-
-### START: ED4A808_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A808.TIF 
-
-p.780:1
-
+<!-- p.780:1 -->
 There are other references to it as a revenge-play, and it
 seems to have been in existence in some shape as early as 1589.
 . It was doubtless on the basis of this that Shakespeare constructed
@@ -1514,36 +1395,40 @@ subject, by Dekker and Chettle, in 1599, and probably, therefore,
 ### START: ED4A809_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A809.TIF 
 
-SHAKE
+p:781:0
+
 no allusion to Shakespeare is really intended. The material
-for T roilus and Cressida was taken by Shakespeare from Chaucer’s
-T railus and Criseyde, Caxton’s Recuyell of the H istoryes of Troye,
-and Chapman’s Homer.
-26. It is almost wholly on grounds of style that All’s Well that
-Ends Well is placed by most critics in or about 1602, and, as in
-the case of T roilus and Cressida, it has been argued, though with
+for Troilus and Cressida was taken by Shakespeare from Chaucer's
+*Troilus and Criseyde*, Caxton's *Recuyell of the Historyes of Troye*,
+and Chapman's Homer.
+
+26\. It is almost wholly on grounds of style that *All's Well that
+Ends Well* is placed by most critics in or about 1602, and, as in
+the case of Troilus and Cressida, it has been argued, though with
 little justification, that parts of the play are of considerably earlier
-date, and perhaps represent the Lo·ve’s Lab0ur’s Won referred to by
-Meres. The story is derived from Boccaccio’s Decarneron through
-the medium of William Paynte1·’s Palace of Pleasure (1566).
-27. Measure for Measure is believed to have been played at
+date, and perhaps represent the Love's Labour's Won referred to by
+Meres. The story is derived from Boccaccio's Decameron through
+the medium of William Paynter's Palace of Pleasure (1566).
+
+27\. Measure for Measure is believed to have been played at
 court on the 26th of December 1604. The evidence for this is to be
-found, partly in an extract made for Malone from oiiicial records
+found, partly in an extract made for Malone from official records
 now lost, and partly in a forged document, which may, however,
 rest upon genuine information, placed amongst the account—books
 of the Office of the Revels. If this is correct the play was probably
 produced when the theatres were reopened after the plague in
 1604. The plot is taken from a story already used by George
 Whetstone, both in his play of Promos and Cassandra (1578)
-and in his prose H eptameron 0f Civil Discourses (1582), and
-borrowed by him from Giraldi Cinthio’s H eeatornmithi (1 566).
-28. A performance at court of Othello on November 1, 1604,
+and in his prose Heptameron 0f Civil Discourses (1582), and
+borrowed by him from Giraldi Cinthio's Hecatommithi (1566).
+
+28\. A performance at court of Othello on November 1, 1604,
 is noted in the same records as those quoted with regard to
 Measure for Measure, and the play may be reasonably assigned
 to the same year. An alleged performance at Harefield in 1602
 certainly rests upon a forgery. The play was revived in 1610
-and seen by Prince Louisjof Wiirttemberg at the Globe on April 3c
-of that year. It was entered in the Stationers’ Register on
+and seen by Prince Louis of Wurttemberg at the Globe on April 30
+of that year. It was entered in the Stationers' Register on
 October 6, 1621, and a First Quarto was published in 1622. The
 text of this is less satisfactory than that of the First Folio, and
 omits a good many lines found therein and almost certainly
@@ -1552,233 +1437,232 @@ profane expressions which have been modified in the Folio,
 and thereby points to a date for the original production earlier
 than the Act to Restrain Abuses of Players passed in the spring
 of 1606. The plot, like that of Measure for Measure, comes
-from the H ecatommithi (1566) of Giraldi Cinthio.
-29. M acbeth cannot,`in view of its obvious allusions to ]ames I.
+from the Hecatommithi (1566) of Giraldi Cinthio.
+
+29\. Macbeth cannot, in view of its obvious allusions to James I.,
 be of earlier date than 1603. The style and some trifling allusion:
-point to about I60S or 1606, and a hint for the theme may have
-been given by Matthew Gwynne’s entertainment of the Tre:
-Sibyllae, with which james was welcomed to Oxford on August
-27, 1605. The play was revived in 1610 and Simon Forman savs
-it at the Globe on April 20. The only extant text, that of th<
-First Folio, bears traces of shortening, and has been interpolatec
-with additional rhymed dialogues for the witches by a seconc
-. hand, probably that of Thomas Middleton. But the exten
-of Midd1eton’s contribution has been exaggerated; it is probably
-confined to act iii. sc. 5, and a few lines in act. iv. sc. 1. A ballac
-of M acdobeth was entered in the Stationers’ Register on Augus
-27, 1596, but is not known. It is not likely that Shakespeare har
-consulted any Scottish history other than that included i1
-Raphael Holinshed’s Chronicle; he may have gathered witchlon
-from Reginald Scot’s Diseooerie of Witchcraft (1584) or Kin;
-]ames’s own Demonologie (1599).
-30. The entry of King Lear in the Stationers’ Register 01
-November 26, 1607, records the performance of the play at cour
-on December 26, 1606. This suggests 1605 or I606 as the datt
-of production, and this is confirmed by the publication in 160
-of the older play, The True Chronicle History of King Leir, whicl
-Shakespeare used as his source. Two Quartos of King Lea
-were published in 1608, and contain a text rather longer, bu
-in other respects less accurate, than that of the First Folic
-The material of the play consists of fragments of Celtic mytl
-which found their way into history through Geoffrey of Mon
-mouth. It was accessible to Shakespeare in Holinshed and iz
-Spenser’s Faerie Queene, as well as in the old play.
-31. It is not quite clear whether Antony and Cleopatra wa
-the play of that name entered in the Stationers’ Register on Ma
-20, 1608, for no Quarto is extant, and a fresh entry was mad
-in the Register before the issue of the First Folio. Apart fror
+point to about 1605 or 1606, and a hint for the theme may have
+been given by Matthew Gwynne's entertainment of the Tres
+Sibyllae, with which James was welcomed to Oxford on August
+27, 1605. The play was revived in 1610 and Simon Forman saw
+it at the Globe on April 20. The only extant text, that of the
+First Folio, bears traces of shortening, and has been interpolated
+with additional rhymed dialogues for the witches by a second
+hand, probably that of Thomas Middleton. But the extent
+of Midd1eton's contribution has been exaggerated; it is probably
+confined to act iii. sc. 5, and a few lines in act. iv. sc. 1. A ballad
+of Macdobeth was entered in the Stationers' Register on August
+27, 1596, but is not known. It is not likely that Shakespeare had
+consulted any Scottish history other than that included in
+Raphael Holinshed's Chronicle; he may have gathered witchlore
+from Reginald Scot's Discoverie of Witchcraft (1584) or King
+James's own Demonologie (1599).
 
-### END: ED4A809_0.tif.txt ###
+30\. The entry of King Lear in the Stationers' Register on
+November 26, 1607, records the performance of the play at court
+on December 26, 1606. This suggests 1605 or 1606 as the date
+of production, and this is confirmed by the publication in 1605
+of the older play, The True Chronicle History of King Leir, which
+Shakespeare used as his source. Two Quartos of King Lear
+were published in 1608, and contain a text rather longer, but
+in other respects less accurate, than that of the First Folio
+The material of the play consists of fragments of Celtic myth
+which found their way into history through Geoffrey of Monmouth.
+It was accessible to Shakespeare in Holinshed and in
+Spenser's Faerie Queene, as well as in the old play.
 
-### START: ED4A809_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A809.TIF 
-
-SPE ARE 7 8 1
+31\. It is not quite clear whether Antony and Cleopatra was
+the play of that name entered in the Stationers' Register on May
+20, 1608, for no Quarto is extant, and a fresh entry was made
+in the Register before the issue of the First Folio. Apart from
+<!-- p.781:1 -->
 this entry, there is little external evidence to fix the date of the
-play, but it is in Shakespeare’s later, although not his last
+play, but it is in Shakespeare's later, although not his last
 manner, and may very well belong to 1606.
-32. In the case of Ccrivlanus the external evidence available
-is even scantier, and all that can be said is that its closest afhnities
+
+32\. In the case of Corialanus the external evidence available
+is even scantier, and all that can be said is that its closest affinities
 are to Antony and Cleopatra, which in all probability it directly
 followed or preceded in order of composition. Both plays, like
 Julius Caesar, are based upon the Lives of Plutarch, as Englished
 by Sir Thomas North.
-33. There is no external evidence as to the date of Timcn
+
+33\. There is no external evidence as to the date of Timon
 of Athens, but it may safely be grouped on the strength of its
 internal characteristics with the plays just named, and there is
-~ a clear gulf between it and those that follow. It may be placed
-, provisionally in 1607. The critical problems which it presents
+a clear gulf between it and those that follow. It may be placed
+provisionally in 1607. The critical problems which it presents
 have never been thoroughly worked out. The extraordinary
-. incoherencies of its action and inequalities of its style have
-prevented modern scholars from accepting it as a finished pro-
-duction of Shakespeare, but there agreement ceases. It is some-
-= times regarded as an incomplete draft for an intended play;
+incoherencies of its action and inequalities of its style have
+prevented modern scholars from accepting it as a finished production
+of Shakespeare, but there agreement ceases. It is sometimes
+regarded as an incomplete draft for an intended play;
 sometimes as a Shakespearian fragment worked over by a
-. second hand either for the stage or for printing in the First Folio;
+second hand either for the stage or for printing in the First Folio;
 sometimes, but not very plausibly, as an old play by an inferior
-, writer which Shakespeare had partly remodelled. It does not
-» seem to have had any relations to an extant academic play of
-l Tirnon which remained in manuscript until.1842. The sources
-: are to be found, partly in Plutarch’s Life of Marcus Antonius,
-» partly in Lucian’s dialogue of T irnvn or M isanthrapvs, and partly
-» in William Paynter’s Palace of Pleasure (1566).
-n 34. Similar difficulties, equally unsolved, cling about Pericles.
-: It was entered in the Stationers’ Register on May 20, I60S, and
-l published in 1609 as " the late and much admired play " acted
-* by the King’s men at the Globe. The title-page bears Shake-
-: speare’s name, but the play was not includedin the First Folio,
-, and was only added to Shakespeards collected works in the
-‘ Third Folio, in company. with others which, although they also
-; had been printed under his name or initials in quarto form,
-s are certainly not his. In I60S was published a prose story,
-The Painful Adventures of Pericles Prince cf Tyre. This claims
-, to be the history of the play as it was presented by the King’s
-s players, and is described in a dedication by George Wilkins
-2 as " a poore infant of my braine. " The production of the play
-s is therefore to be put in 1608 or a little earlier. It can hardly be
-t doubted on internal evidence that Shakespeare is the author of
-W the verse-scenes in the last three acts, with the exception of the
-e doggerel choruses. It is probable, although it has been doubted,
-l that he was also the author of the prose—scenes in those acts.
-l To the first two acts he can at most only have contributed a
-t touch or two. It seems reasonable to suppose that the non-
-r Shakespearian part of the play is by Wilkins, by whom other
-l dramatic work was produced about 1607. The prose story
-t quotes a line or two from Shakespeare’s contribution, and it
-l follows that this must have been made by 1608. The close
-1 resemblances of the style to that of Shakespeare’s latest plays
-e make it impossible to place it much earlier. But whether Shake-
-g speare and Wilkins collaborated in the play, or Shakespeare
+writer which Shakespeare had partly remodelled. It does not
+seem to have had any relations to an extant academic play of
+Timon which remained in manuscript until 1842. The sources
+are to be found, partly in Plutarch's Life of Marcus Antonius,
+partly in Lucian's dialogue of Timon Misanthropos, and partly
+in William Paynter's Palace of Pleasure (1566).
+
+34\. Similar difficulties, equally unsolved, cling about Pericles.
+It was entered in the Stationers' Register on May 20, 1605, and
+published in 1609 as "the late and much admired play" acted
+by the King's men at the Globe. The title-page bears Shakespeare's
+name, but the play was not included in the First Folio,
+and was only added to Shakespeare's collected works in the
+Third Folio, in company. with others which, although they also
+had been printed under his name or initials in quarto form,
+are certainly not his. In 1608 was published a prose story,
+The Painful Adventures of Pericles Prince of Tyre. This claims
+to be the history of the play as it was presented by the King's
+players, and is described in a dedication by George Wilkins
+2 as "a poore infant of my braine." The production of the play
+is therefore to be put in 1608 or a little earlier. It can hardly be
+doubted on internal evidence that Shakespeare is the author of
+the verse-scenes in the last three acts, with the exception of the
+doggerel choruses. It is probable, although it has been doubted,
+that he was also the author of the prose—scenes in those acts.
+To the first two acts he can at most only have contributed a
+touch or two. It seems reasonable to suppose that the non-
+Shakespearian part of the play is by Wilkins, by whom other
+dramatic work was produced about 1607. The prose story
+quotes a line or two from Shakespeare's contribution, and it
+follows that this must have been made by 1608. The close
+resemblances of the style to that of Shakespeare's latest plays
+make it impossible to place it much earlier. But whether Shake-
+speare and Wilkins collaborated in the play, or Shakespeare
 partially rewrote Wilkins, or Wilkins completed Shakespeare,
-:1 must be regarded as yet undetermined. Unless there was an
-t earlier Shakespearian version now lost, Dryden’s statement
-e that " Shakespeare’s own Muse her Pericles first bore "· must
-5 be held to be an error. The story is an ancient one which exists
+must be regarded as yet undetermined. Unless there was an
+earlier Shakespearian version now lost, Dryden's statement
+e that "Shakespeare's own Muse her Pericles first bore" must
+be held to be an error. The story is an ancient one which exists
 h in many versions. In all of these except the play, the name of
-r the hero is Apollonius of Tyre. The play is directly based upon
-t a version in Gower’s Ccnfessio Arnantis, and the use of Gower as a
->. “ presenter " is thereby explained, But another version in Laur-
-1, ence Twine’s Patterne cf Painefull Adventures (c. 1576), of which
-t- a new edition appeared in 1607, may also have been consulted.
-n 35. Cymbeline shows a further development than Pericles
-in the direction of Shakespeare’s final style, and can hardly have
-.s come earlier. A description of it is in a note-book of Simon
-y Forman, who died in September 1611, and describes in the same
-.e book other plays seen by him in 1610 and 1611. But these were
-n notnecessarily new plays, and Cymbeline may perhaps be assigned
+the hero is Apollonius of Tyre. The play is directly based upon
+a version in Gower's Confessio Amantis, and the use of Gower as a
+"presenter" is thereby explained. But another version in Laurence
+Twine's Patterne of Painefull Adventures (c. 1576), of which
+a new edition appeared in 1607, may also have been consulted.
 
-### END: ED4A809_1.tif.txt ###
-
-### START: ED4A810_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A810.TIF 
-
-7 8 2 - SHAKE1
+35\. Cymbeline shows a further development than Pericles
+in the direction of Shakespeare's final style, and can hardly have
+come earlier. A description of it is in a note-book of Simon
+Forman, who died in September 1611, and describes in the same
+book other plays seen by him in 1610 and 1611. But these were
+not necessarily new plays, and Cymbeline may perhaps be assigned
+<!-- p.782:0 -->
 conjecturally to 1609. The mask-like dream in act v. sc. 4
 must be an interpolation by another hand. This play also is
 based upon a wide-spread story, probably known to Shakespeare
-in Boccaccio’s Decameron (day 2, novel 9), and possibly also in
+in Boccaccio's Decameron (day 2, novel 9), and possibly also in
 an English book of tales called Westward for Smells. The historical
 part is, as usual, from Holinshed.
-36. The Winter’s Tale was seen by Forman on May 15, 1611,
+
+36\. The Winter's Tale was seen by Forman on May 15, 1611,
 and as it clearly belongs to the latest group of plays it may well
 enough have been produced in the preceding year. A document
 amongst the Revels Accounts, which is forged, but may rest on
 some authentic basis, gives November 5, 1611 as the date of a
 performance at court. The play is recorded to have been
 licensed by Sir George Buck, who began to license plays in 1607.
-The plot is from Robert Greene’s Pandosto, the Triumph of
-Time, or Dorastus and F awnia (1588).
-37. The wedding-mask in act iv. of The Tempest has suggested
+The plot is from Robert Greene's Pandosto, the Triumph of
+Time, or Dorastus and Fawnia (1588).
+
+37\. The wedding-mask in act iv. of The Tempest has suggested
 the possibility that it may have been composed to celebrate
 the marriage of the princess Elizabeth and Frederick V., the
 elector palatine, on February 14, 1613. But Malone appears
 to have had evidence, now lost, that the play was performed
 at court as early as 1611, and the forged document amongst
 the Revels Accounts gives the precise date of November 1, 1611.
-Sylvester ]ourdan’s A Discovery of the Bermudas, containing an
+Sylvester Jourdan's A Discovery of the Bermudas, containing an
 account of the shipwreck of Sir George Somers in 1609, was pub-
 lished about October 1610, and this or some other contemporary
 narrative of Virginian colonization probably furnished the hint
 of the plot.
-38. The tale of Shakespeare’s independent dramas is now
+
+38\. The tale of Shakespeare's independent dramas is now
 complete, but an analysis of the Two Noble Kinsmen leaves no
 reason to doubt the accuracy of its ascription on the title-page
-of the First Quarto of 1634 to Shakespeare and ]0hn Fletcher.
+of the First Quarto of 1634 to Shakespeare and John Fletcher.
 This appears to have been a case of ordinary collaboration.
 There is sufficient resemblance between the styles of the two
 writers to render the division of the play between them a matter
 of some difficulty; but the parts that may probably be assigned
-to Shakespeare are acts i. scc. 1-4;   1;   1, 2; v. 1, 3, 4.
-Fletcher’s morris-dance in act iii. sc. 5 is borrowed from that in
-Beaumont’s Mask of the Inner Temple and Gray’s Inn, given on
+to Shakespeare are acts i. scc. 1-4; ii. 1; iii. 1, 2; v. 1, 3, 4.
+Fletcher's morris-dance in act iii. sc. 5 is borrowed from that in
+Beaumont's Mask of the Inner Temple and Gray's Inn, given on
 February 20, 1613, and the play may perhaps be dated in 1613.
-It is based on Chaucer’s Knighfs Tale.
-39. It may now be accepted as a settled result of scholarship
+It is based on Chaucer's Knight's Tale.
+
+39\. It may now be accepted as a settled result of scholarship
 that Henry VIII. is also the result of collaboration, and that one
 of the collaborators was Fletcher. There is no good reason to
 doubt that the other was Shakespeare, although attempts have
-been made to substitute Philip Massinger. The inclusion, how-
-ever, of the play in the First Folio must be regarded as conclusive
+been made to substitute Philip Massinger. The inclusion, however,
+of the play in the First Folio must be regarded as conclusive
 against this theory. There is some ground for suspicion that the
 collaborators may have had an earlier work of Shakespeare
-before them, and thislwould explain the reversion to the “ history "
+before them, and this would explain the reversion to the "history"
 type of play which Shakespeare had long abandoned. His share
-appears to consist of act i. scc. 1, 2; act   scc. 3, 4; act iii. sc. 2,
+appears to consist of act i. scc. 1, 2; act ii. scc. 3, 4; act iii. sc. 2,
 ll. 1-203; act v. sc. 1. The play was probably produced in
 1613, and originally bore the alternative title of All is True.
 It was being performed in the Globe on June 29, 1613, when the
-thatch caught nre and the theatre was burnt. The principal
-source was Holinshed, but Hall’s Union of Lancaster and York,
+thatch caught fire and the theatre was burnt. The principal
+source was Holinshed, but Hall's Union of Lancaster and York,
 Foxe's Acts and Monuments of the Church, and perhaps Samuel
-Rowley’s play of When You See Me, You Know Me (1605),
+Rowley's play of When You See Me, You Know Me (1605),
 appear also to have contributed.
-Shakespeare’s non-dramatic writings are not numerous.
+
+### Poems
+
+Shakespeare's non-dramatic writings are not numerous.
 The narrative poem of Venus and Adonis was entered in the
-Poems Stationers’ Register on April 18, 1593, and thirteen
-' editions, dating from 1593 t_o 1636, are known. The
-Rape of Luerece was entered in the Register on May 9, 1594,
+Stationers' Register on April 18, 1593, and thirteen
+editions, dating from 1593 to 1636, are known. The
+Rape of Lucrece was entered in the Register on May 9, 1594,
 and the six extant editions range from 1594 to 1624. Each poem
 is prefaced by a dedicatory epistle from the author to Henry
-Wriothesley, earl of Southampton. The subjects, taken respect-
-ively from the M etamorphoses and the Fasti of Ovid, were frequent
+Wriothesley, earl of Southampton. The subjects, taken respectively
+from the Metamorphoses and the Fasti of Ovid, were frequent
 in Renaissance literature. It was once supposed that Shakespeare
 came from Stratford-on-Avon with Venus and Adonis in his
 pocket; but it is more likely that both poems owe their origin
 to the comparative leisure afforded to playwrights and actors
-
-### END: ED4A810_0.tif.txt ###
-
-### START: ED4A810_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A810.TIF 
-
-SPEARE
+<!-- 782:1 -->
 by the plague—period of 1592-1594. In 1599 the stationer
-William jaggard published a volume of miscellaneous verse
-which he called The Passionate Pilgrim, and placed Shakespeare’s
+William Jaggard published a volume of miscellaneous verse
+which he called The Passionate Pilgrim, and placed Shakespeare's
 name on the title-page. Only two of the pieces included herein
-are certainly Shakespeare’s, and although others may quite
+are certainly Shakespeare's, and although others may quite
 possibly be his, the authority of the volume is destroyed by the
 fact that some of its contents are without doubt the work of
 Marlowe, Sir Walter Raleigh, Richard Barnheld and Bartholomew
 Griffin. In 1601 Shakespeare contributed The Phoenix and
-I the Turtle, an elegy on an unknown pair- of wedded lovers, to a
-volume called Lo·ve’s Martyr, or Rosalin’s Complaint, which was
+the Turtle, an elegy on an unknown pair of wedded lovers, to a
+volume called Love's Martyr, or Rosalin's Complaint, which was
 collected and mainly written by Robert Chester.
+
+### Problems of the Sonnets
+
 The interest of all these poems sinks into insignificance beside
-that of one remaining· volume. The Sonnets were entered in
+that of one remaining volume. The Sonnets were entered in
 the Register on May 20, 1609, by the stationer Thomas
-Thorpe, and published by him under the title Shake- f;:::""
-speares Sonnets, never before Imprinted, in the same Sunnis
-year. In addition to a hundred and nfty-four sonnets,
+Thorpe, and published by him under the title Shakespeares
+Sonnets, never before Imprinted, in the same
+year. In addition to a hundred and fifty-four sonnets,
 the volume contains the elegiac poem, probably dating from the
-Venus and‘Adonis period, of A Lo·uer’s Complaint. In 1640
+Venus and Adonis period, of A Lover's Complaint. In 1640
 the Sonnets, together with other poems from The Passionate
-Pilgrim and elsewhere, many of them not Shakespeare’s, were
-republished by John Benson in Poems Written by Wil. Shake-
-speare, Gent. Here the sonnets are arranged in an altogether
+Pilgrim and elsewhere, many of them not Shakespeare's, were
+republished by John Benson in Poems Written by Wil. Shakespeare,
+Gent. Here the sonnets are arranged in an altogether
 different order from that of 1609 and are declared by the publisher
-to “ appeare of the same purity, the Authour himselfe then
-living avouched. " No Shakespearian controversy has received
+to "appeare of the same purity, the Authour himselfe then
+living avouched." No Shakespearian controversy has received
 so much attention, especially during recent years, as that which
 concerns itself with the date, character, and literary history
 of the Sonnets. This is intelligible enough, since upon the issues
@@ -1786,12 +1670,12 @@ raised depends the question whether these poems do or do not
 give a glimpse into the intimate depths of a personality which
 otherwise is at the most only imperfectly revealed through the
 plays. On the whole, the balance of authority is now in favour
-of regarding them as in a very considerable measure autobio-
-graphical. This view has undergone the fires of much destructive
+of regarding them as in a very considerable measure autobiographical.
+This view has undergone the fires of much destructive
 argument. The authenticity of the order in which the sonnets
 were printed in 1609 has been doubted; and their subject—matter
-has been variously explained as being of the nature of a philo-
-sophical allegory, of an edort of the dramatic imagination, or
+has been variously explained as being of the nature of a philosophical
+allegory, of an effort of the dramatic imagination, or
 of a heartless exercise in the forms of the Petrarchan convention.
 This last theory has been recently and strenuously maintained,
 and may be regarded as the only one which now holds the field
@@ -1808,10 +1692,11 @@ itself in the act of poetic composition; and it certainly does
 not carry with it a belief that all the external events which underlie
 the emotional development are capable at this distance of time
 of inferential reconstruction. But it does accept the sonnets as
-an actual record of a part of Shakespeare’s life during the years
+an actual record of a part of Shakespeare's life during the years
 in which they were written, and as revealing at least the outlines
 of a drama which played itself out for once, not in his imagination
 but in his actual conduct in the world of men and women.
+
 There is no advantage to be gained by rearranging the order
 of the 1609 volume, even if there were any basis other than
 that of individual whim on which to do so. Many of the sonnets
@@ -1820,15 +1705,17 @@ and altogether a few may conceivably be misplaced, the order
 as a whole does not jar against the sense of emotional continuity,
 which is the only possible test that can be applied. The last
 two sonnets, however, are merely alternative versions of a Greek
-~ epigram, and the rest fall into two series, which are more probably
+epigram, and the rest fall into two series, which are more probably
 l parallel than successive. The shorter of these two series (cxxvii.-
-. clii.) appears to be the record of the poet’s relations with a
-. mistress, a dark woman with raven brows and mourning eyes.
+clii.) appears to be the record of the poet's relations with a
+mistress, a dark woman with raven brows and mourning eyes.
 
 ### END: ED4A810_1.tif.txt ###
 
 ### START: ED4A811_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A811.TIF 
+
+<!-- NOT YET PROOFED -->
 
 SHAKE
 In the earlier sonnets he undertakes the half—playful defence
@@ -1866,7 +1753,7 @@ the triumph of public honour alike find their consolation in thi;
 affection. A period of absence (xxvi.-xxxii.) follows, in whic]
 the thought of friendship comes to remedy the daily labour o
 travel and the sorrows of a life that is " in disgrace with fortun·
-and men’s eyes " and filled with melancholy broodings ove
+and men's eyes " and filled with melancholy broodings ove
 the past. Then (xxxiii.-xlii.) comes an estrangement. Th
 friend has committed a sensual fault, which is at the same tim
 a sin against friendship. He has been wooed by a woman lovex
@@ -1877,10 +1764,10 @@ to escape the suggestion that this episode of the conflict betwee;
 love and friendship is the same as that which inspired some c
 the " dark woman " sonnets. Another journey (xliii.-lii.)is agai
 filled with thoughts of the friend, and its record is followedb
-a group of sonnets (liii.-lv.) in which the friend’s beauty and th
-immortality which this will find in the poet’s verse are especiall
+a group of sonnets (liii.-lv.) in which the friend's beauty and th
+immortality which this will find in the poet's verse are especiall
 dwelt upon. Once more there is a parting (lvi.-lxi.) and th
-poet waits as patiently as may be his friend’s return to hin
+poet waits as patiently as may be his friend's return to hin
 Again (lxii.—lxv.) he looks to his verse to give the friend in
 mortality. He is tired of the world, but his friend redeerr
 it (lxvi.-lxviii.). Then rumours of some scandal against h
@@ -1890,7 +1777,7 @@ gloomy thoughts of coming death. The friend, however, is sti
 lxxxvi.) by the appearance of a rival poet, who claims to be taugl
 by spirits to write " above a mortal pitch," and with “ tl
 proud full sail of his great verse" has already won the countenam
-of Shakespeare’s patron. There is another estrangement (lxxxvii
+of Shakespeare's patron. There is another estrangement (lxxxvii
 xc.), and the poet, already crossed with the spite of fortun
 is ready not only to acquiesce in the loss of friendship, but 1
 find the fault in himself. The friend returns to him, but tl
@@ -1899,7 +1786,7 @@ and by public rumours of his wantonness (xciv.—xcvi.). For
 third time the poet is absent (xcvii.-xcix.) in summer and sprin
 Then comes an apparent interval, after which a love alreac
 three years old is renewed (c.·civ.), with even richer prais
-(cv.-cviii.). It is now the poet’s turn to offer apologies (ci;
+(cv.-cviii.). It is now the poet's turn to offer apologies (ci;
 cxii.) for offences against friendship and for some brand upon h
 name apparently due to the conditions of his profession. I
 Ls again absent (cxiii.) and again renews his protestations of tl
@@ -1956,12 +1843,12 @@ n and the attempts of their families to persuade them to marry,
 1f their relations to poets and actors, and all other points in their
 n biographies which do or do not fit in with the indications of the
 y sonnets, have been canvassed with great spirit and some erudition,
-e but with no very conclusive result. It is in Pembroke’s favour
-y that his initials were in fact W. H., whereas Southampton’s
+e but with no very conclusive result. It is in Pembroke's favour
+y that his initials were in fact W. H., whereas Southampton's
 e can only be turned into W. H. by a process of metathesis; and
 1. his champions have certainly been more successful than South-
-1- ampton’s in producing a dark woman, a certain Mary Fitton,
-1s who was a mistress of Pembroke’s,. and was in consequence
+1- ampton's in producing a dark woman, a certain Mary Fitton,
+1s who was a mistress of Pembroke's,. and was in consequence
 is dismissed in disgrace from her post of maid of honour to Elizabeth.
 ;o Unfortunately, the balance of evidence is in favour of her having
 Lll been blonde, and not " black." Moreover, a careful investiga-
@@ -1977,7 +1864,7 @@ to than eighteen, an age which Southampton reached in the autumn
 a to doubt that as a whole it is to the years 1593--1598 rather than
 g. to the years 1598-1603 that they belong. There is not, indeed,
 ly much external evidence available. Francis _Meres in hisPalladis
-es Tamia of 1598 mentions Shakespeare’s " sugred sonnets among
+es Tamia of 1598 mentions Shakespeare's " sugred sonnets among
 r.- his private friends," but this allusion might come as well at
 us 1 " The sweet witty soul of Ovid lives in melliiiuous and honey-
 le tongued Shakespeare, witness his Venus and Adonis, his Lucrece,
@@ -2011,7 +1898,7 @@ full sail of his great verse " would fit, on critical grounds, with
 Spenser, Marlowe, Chapman, and possibly Peele, Daniel or
 Drayton; and the " aifable familiar ghost," from whom the
 rival is said to obtain assistance by night, might conceivably
-be an echo of a passage in one of Chapman’s dedications. Daniel
+be an echo of a passage in one of Chapman's dedications. Daniel
 inscribed a poem to Southampton in 16og, but with this exception
 none of the poets named are known to have written either for
 Southampton or for Pembroke, or for any other W. H. or
@@ -2021,27 +1908,27 @@ Markham, addressed sonnets to Southampton in 1593 and 1595
 respectively, and Thomas Nash composed improper verses for his
 delectation.
 But even if external guidance fails, the internal evidence for
-1593-1598 as approximately the sonnet period in Shakespeare’s
+1593-1598 as approximately the sonnet period in Shakespeare's
 life is very strong indeed. It has been worked out in detail
 by two German scholars, Hermann Isaac (now Conrad) in the
 Shakespeare-Jahrbuch for 1884, and Gregor Sarrazin in William
 Shakespeares Lehrjahre (1897) and Aus Shakespeares Meister-
-werkstatt (1906). Isaac’s work, in particular, has hardly received
+werkstatt (1906). Isaac's work, in particular, has hardly received
 enough attention even from recent English scholars, probably
 because he makes the mistakes of taking the sonnets in Boden-
-stedt’s order instead of Shakespeare’s, and of beginning his whole
+stedt's order instead of Shakespeare's, and of beginning his whole
 chronology several years too early in order to gratify a fantastic
 identification of W. H. with the earl of Essex. This, however,
 does not affect the main force of an argument by which the
 affinities of the great bulk of the sonnets are shown, on the ground
 of stylistic similarities, parallelisms of expression, and parallel-
 isms of theme, to be far more close with the poems and with the
-range of plays from L0·ve’s Lab0ur’s Lost to Henry I V. than with
-any earlier or later section of Shakespeare’s work. This dating
-has the further advantage of putting Shakespeare’s sonnets in
+range of plays from L0·ve's Lab0ur's Lost to Henry I V. than with
+any earlier or later section of Shakespeare's work. This dating
+has the further advantage of putting Shakespeare's sonnets in
 . the full tide of Elizabethan sonnet-production, which began
-with the publication of Sidney’s Astrophel and Stella in 1591 and
-Daniel’s Delia and Constable’s Diana in 1592, rather than during
+with the publication of Sidney's Astrophel and Stella in 1591 and
+Daniel's Delia and Constable's Diana in 1592, rather than during
 years for which this particular kind of poetry had already ceased
 to be modish. It is to the three volumes named that the in-
 fluence upon Shakespeare of his predecessors can most clearly
@@ -2050,11 +1937,11 @@ for Drayton, whose sonnets to Idea were published in a series
 of volumes in 1594, 1599, 1602, 1605 and 1619. It does not
 of course follow that because the sonnets belong to 1593-1598
 W. H. is to be identified with Southampton. On general grounds
-he is likely, even if above Shakespeare’s own rank, to have been
+he is likely, even if above Shakespeare's own rank, to have been
 somewhat nearer that rank than a great earl, some young
 gentleman, for example, of such a family as the Sidneys, or as
 the Walsinghams of Chislehurst.
-It is possible that there is an allusion to Shakespeare’s romance
+It is possible that there is an allusion to Shakespeare's romance
 in a poem called " Willobie his Avisa," published in 1594 as from
 the pen of one Henry Willoughby, apparently of West Knoyle in
 Wiltshire. In this Willoughby is introduced as taking counsel
@@ -2107,9 +1994,9 @@ behind that, of his diverse masks. It is necessary also to lay
 aside Shakespeareolatry, the spirit that could wish with Hallam
 that Shakespeare had never written the Sonnets, or can refuse
 to accept Titus Andronicus on the ground that " the play
-declares as plainly as play can speak, ‘ I am not Shakespeare’s;
+declares as plainly as play can speak, ‘ I am not Shakespeare's;
 my repulsive subject, my blood and horrors, are not, and never
-were his.’ " The literary historian has no greater enemy than
+were his.' " The literary historian has no greater enemy than
 the sentimentalist. In Shakespeare we have to do with one who
 is neither beyond criticism as a man nor impeccable as an artist.
 He was for all time, no doubt; but also very much of an age, ·
@@ -2192,7 +2079,7 @@ the crude revenge tragedy of Kyd, and in Richard I II . that of
 the Nemesis motive and the exaltation of the Machiavellian
 superman which properly belong to Marlowe. But in Richard
 III. be begins to come to his own with the subtle study of the
-actor’s temperament which betrays the working of a profound
+actor's temperament which betrays the working of a profound
 interest in the technique of his chosen profession. The style
 of the earliest plays is essentially rhetorical; the blank verse
 is stiff and little varied in rhythm; and the periods are built
@@ -2210,14 +2097,14 @@ their wealth of decorative imagery, and their elaborate and not
 rarely frigid conceits. Rhymed couplets make their appearance,
 side by side with blank verse, as a medium of dramatic dialogue.
 It is a period of experiment, in farce with The Taming of the
-Shrew, in satirical comedy with Lo·ve’s Labour’s Lost, in lyrical
+Shrew, in satirical comedy with Lo·ve's Labour's Lost, in lyrical
 comedy with ArMidsummer Nighfs Dream, in lyrical tragedy
 with Romeo and Juliet, in lyrical history with Richard II .,
 and finally in romantic tragicomedy with The Two Gentlemen
 of Verona and with the masterpiece of this singular genre, The
 Merchant of Venice. It is also the period of the sonnets, which
 have their echoes both in the phrasing and in the themes of thc
-plays; in the black-browed Rosaline of Love’s Labour’s Lost
+plays; in the black-browed Rosaline of Love's Labour's Lost
 and in the issue between friendship and love which is variously
 
 ### END: ED4A813_0.tif.txt ###
@@ -2231,7 +2118,7 @@ of Venice. But in the latter play the sentiment is already one of
 retrospection; the tempest of spirit has given way to the tender
 melancholy of renunciation. The sonnets seemto bear witness,
 not only to the personal upheaval of passion, but also to some
-despondency at the spite of fate and the disgrace of the actor’s
+despondency at the spite of fate and the disgrace of the actor's
 calling. This mood too may have cleared away in the sunshine
 of growing popularity, of financial success, and of the possibly
 long-delayed return to Stratford. Certainly the series of plays
@@ -2244,7 +2131,7 @@ begun in Richard II. and culminating in the brilliant picture
 of triumphant efficiency, the Henry of Agincourt; Meanwhile
 Shakespeare develops the astonishing faculty of humorous
 delineation of which he had given foretastes in ]ack Cade, in
-Bottom the weaver, and in ]uliet’s nurse; sets the creation of
+Bottom the weaver, and in ]uliet's nurse; sets the creation of
 Falstaii in front of his vivid pictures of contemporary England;
 and passes through the half-comedy, half melodrama, of Much
 Ado About Nothing to the joyous farce of The Merry Wives of
@@ -2256,7 +2143,7 @@ Julius Caesar, which stands beside Henry V. as a reminder that
 efficiency has its seamy as well as its brilliant side. The tragedy
 of political idealism in Brutus is followed by the tragedy of in-
 tellectual idealism in Hamlet; and this in its turn by the three
-bitter and cynical pseudo-comedies, All’s Well That Ends Well,
+bitter and cynical pseudo-comedies, All's Well That Ends Well,
 in which the creator of Portia, Beatrice, Rosalind and Viola
 drags the honour of womanhood in the dust—— Troilus and Cressida,
 ‘ in which the ideals of heroism and of romance are confounded
@@ -2269,7 +2156,7 @@ tion in the soul of Shakespeare it is perhaps idle to speculate.
 ` mistic thought advances, swelling through the pathetic tragedy
 ` of Othello to the cosmic tragedies of Macbeth and King Lear,
 . with their Titan-like indictments not of man alone, but of the
-Y heavens by whom man was made. Meanwhile Shakespeare’s
+Y heavens by whom man was made. Meanwhile Shakespeare's
 r style undergoes changes no less notable than those of his subject-
 l matter. The ease and lucidity characteristic of the histories
 c and comedies of his middle period give way to a more troubled
@@ -2285,7 +2172,7 @@ r incoherent expression of a general loathing and detestation of
 * humanity. Then the stretched cord suddenly snaps. T imon
 , is apparently unfinished, and the next play, Pericles, is in an
 , entirely different vein, and is apparently finished but not begun.
-; At this point only in the whole course of Shakespeare’s develop-
+; At this point only in the whole course of Shakespeare's develop-
 , ment there is a complete breach of continuity. One can only
 . conjecture the occurrence of some spiritual crisis, an illness
 z perhaps, or some process akin to what in the language of religion
@@ -2293,7 +2180,7 @@ l is called conversion, which left him a new man, with the fever
 * of pessimism behind him, and at peace once more with Heaven
 , and the world.
 i The final group of plays, the Shakespearian part of Pericles,
-2 Cymbeline, The Winter’s Tale, The Tempest, all belong to the class
+2 Cymbeline, The Winter's Tale, The Tempest, all belong to the class
 1 of what may be called idyllic romances. They are happy dreams,
 : in which all troubles and sorrows are ultimately resolved into
 , fortunate endings, and which stand therefore as so many symbols
@@ -2311,8 +2198,8 @@ Providence. In harmony with this change of temper the style
 has likewise undergone another change, and the tense structure
 and marmoreal phrasing of Antony and Cleopatra have given
 way to relaxed cadences and easy and unaccentuated rhythms.
-It is possible that these plays, Shakespeare’s last plays, with the
-unimportant exceptions of his contributions to Fletcher’s
+It is possible that these plays, Shakespeare's last plays, with the
+unimportant exceptions of his contributions to Fletcher's
 Henry VI I I . and The Two Noble Kinsmen, were written in
 retirement at Stratford. At any rate the call of the country
 is sounding through them; and it is with no regret that in the
@@ -2330,9 +2217,9 @@ sirable to deal here briefly with this question. No such idea seems to
 have occurred to anybody till the middle of the 19th century (see
 Bibliography below), but having once been started it has been elabor-
 ated in certain quarters by a variety of appeals, both to internal
-evidence as disclosed by the knowledge displayed in Shakespeare’s
+evidence as disclosed by the knowledge displayed in Shakespeare's
 works and by their vocabulary and style, and to external evidence as
-represented by the problems connected with the facts of Shal<espeare’s
+represented by the problems connected with the facts of Shal<espeare's
 known life and of the publication of the plays. To what may be
 called ingenious inferences from data of this sort have even been
 added attempts to show that a secret confession exists which may
@@ -2348,24 +2235,24 @@ lawyer whose support of the Baconian theory may be found in his
 indeed the semblance of a cipher." Sir Edwin Durning-Lawrence, in
 his Bacon is Shakespeare (1910), goes still farther in an attempt to
 prove the point by cryptographic evidence. According to him the
-classical " long word" cited in Lo·ve’s Lab0ur's Lost, " honorifica-
+classical " long word" cited in Lo·ve's Lab0ur's Lost, " honorifica-
 bilitudinitatibus," is an anagram for " hi ludi F. Baconis nati tuiti
-orbi " (these plays F. Bacon’s offspring preserved for the world);
+orbi " (these plays F. Bacon's offspring preserved for the world);
 and he juggles very curiously with the numbers of the words and
 lines in the page of the First Folio containing this alleged anagram.
 He also cites the evidence of (more or less) contemporary illustra-
 tions to books, which he explains as cryptographic, in confirmation.
 These interpretations are in the highest egree speculative. But
 perhaps his argument is exposed in its full depth of incredibility
-when he counts up the letters in Ben ]0nson’s verses “ To the
+when he counts up the letters in Ben ]0nson's verses “ To the
 Reader," describing the Droeshout portrait in the First Folio, and,
-fmding them to be 287 (taking each " w " as two " v’s "), concludes
+fmding them to be 287 (taking each " w " as two " v's "), concludes
 (by adding 287 to 1623, i.e. the date of the First Folio) that Bacon
 intended to reveal himself as the author in the year 19 ro! This sort
-of argument makes the plain man’s head reel. On similar principles
+of argument makes the plain man's head reel. On similar principles
 anything might prove anything. What may be considered the more
 reasonable way of approaching the question is shown in Mr G.
-Greenwood’s Shakespeare Problem Restated (1908), in which the
+Greenwood's Shakespeare Problem Restated (1908), in which the
 alleged difficulties of the Shakespearian authorship are competently
 presented without recourse to any such extravagances.
 The plausibility of many of the arguments used by Mr Greenwood
@@ -2377,7 +2264,7 @@ by the dogmatism of some modern biographers, or the differences of
 opinion between them, when they attempt to interpret the known
 facts of Shakespeare's life so as to account for his authorship. But
 it must be remembered that, if Shakespeare (or Shakspere) wrote
-Shakespeare’s works, it is only possible to reconcile our view of his
+Shakespeare's works, it is only possible to reconcile our view of his
 biography with our knowledge of the works by giving some interpre-
 tation to the known facts or accepting some explanation of what may
 have occurred in the obscure arts of his life which will be consistent
@@ -2403,7 +2290,7 @@ authorship to show, first that there is no possible explanation which
 >PEARE
 would justify the tradition, and secondly that there is positive
 evidence which can upset it and which will saddle the authorship of
-Shakespeare’s works on Bacon or some one else. The contempt
+Shakespeare's works on Bacon or some one else. The contempt
 indiscriminately thrown on supporters of the Baconian theory by
 orthodox critics is apt to be expressed in terms which are occasionally
 unwarranted. But even if we leave out of account the lunatics and
@@ -2414,7 +2301,7 @@ his endeavours to solve a literary problem in which judgment largely
 depends on a highly trained and subtle sense of literary style and a
 s ecial knowledge of the conditions of Elizabethan England and of
 the early drama. In such an exposition of what may be called the
-" anti-Shaksperian " case as Mr Greenwood’s, many points appear
+" anti-Shaksperian " case as Mr Greenwood's, many points appear
 to make for his conclusion which are really not more than doubtful
 interpretations of evidence;   though these interpretations may
 be derived from orthodox Shakespearians—orthodox, that is to say,
@@ -2429,7 +2316,7 @@ dangers which, even in the hands of fair judges of ordinary evidence,
 attend certain methods of literary investigation.
 There is one simple reason for this: in order to establish even a
 prima facie case against the identification of the man Shakespeare
-(however the name be spelt) with the author of Shakespeare’s works,
+(however the name be spelt) with the author of Shakespeare's works,
 the Baconian must clearly account for the positive contemporary
 evidence in its favour, and this cannot well be done; it is highly
 significant that it was not attempted or thought of for centuries.
@@ -2451,7 +2338,7 @@ incredible that Ben jonson, who knew both Shakespeare and Bacon
 intimately, who himself dubbed Shakespeare the " swan of Avon,"
 and who survived Bacon for eleven years, could have died without
 revealing the alleged secret, at a time when there was no reason for
-concealing it. Much has been made of jonson’s varying references
+concealing it. Much has been made of jonson's varying references
 to Shakespeare, and of certain inconsistencies in his references to both
 Shakespeare and Bacon; but these can be twisted in more than one
 direction and their explanation is purely speculative. His positive
@@ -2459,18 +2346,18 @@ allusions to Shakespeare are inexplicable except as the most authori-
 tative evidence of his identification of the man and his works.
 Richard Barnfield (1598) speaks of Shakespeare as " honey-iiowing,"
 and says that his Venus and Lucrece have placed his name " in
-Fame’s immortal book." john Weever (1599) speaks of " honey-
+Fame's immortal book." john Weever (1599) speaks of " honey-
 tongued Shakespeare," admired for " rose—cheeked Adonis," and
 " Romeo, Richard, more whose names I know not." john Davies of
 Hereford (1610) calls him “ our English Terence, Mr Will Shake-
 speare." Thomas Freeman (1614) writes " to Master W. Shake-
-speare: "—" Who loves chaste life, there’s Lucrece for a teacher [
-Who list read lust there’s Venus and Adonis | . . . | Besides in
+speare: "—" Who loves chaste life, there's Lucrece for a teacher [
+Who list read lust there's Venus and Adonis | . . . | Besides in
 plays thy wit winds like Meander." Other contemporary allusions,
 all trceating Shakespeare as a great poet and tragedian, are also on
 recor .
 Finally, it may be remarked that although many problems in
-connexion with Shakespeare’s authorship can only be solved by the
+connexion with Shakespeare's authorship can only be solved by the
 answer that he was a " genius," the Baconian view that " genius "
 by itself could not confer on Shakespeare, the supposed Stratford
 " rustic," the positive knowledge of law, &c., which is revealed in his
@@ -2483,11 +2370,11 @@ know very little about his early years, and, in so far as we are ignorant,
 it is legitimate to draw inferences in favour of what makes the re-
 mainder of his career and achievements intelligible. The Baconian
 theory entirely depends on straining every assumption in favour of
-Shakespeare’s nm having had any opportunity to acquire knowledge
+Shakespeare's nm having had any opportunity to acquire knowledge
 which in any case it would require " genius ". to absorb and utilize;
 and this method of argument is directly opposed to the legitimate
 procedure in approaching the undoubted difficulties. _Isolated
-phrases, such as Ben jonson’s dictum as to his small knowledge of
+phrases, such as Ben jonson's dictum as to his small knowledge of
 atin and Greek, which may well be purely comparative, the con-
 temptuous expression of a university scholar for one who had no
 academic training, can easily be made too much of. The extreme
@@ -2587,7 +2474,7 @@ and the almost passionate desire to know his features. It is
 ### START: ED4A815_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A815.TIF 
 
-’\
+'\
 >PEARE 7 8 7
 desirable, therefore, to describe those portraits which have chief
 claim to recollection by reason either of their inherent interest
@@ -2606,18 +2493,18 @@ authentic likenesses: the bust (really a half-length statue)
 with its structural wall—monument in the choir of Holy Trinity
 Church, Stratford-on-Avon, and the copper-plate engraved by
 Martin Droeshout as frontispiece to the First Folio of Shake-
-speare’s works (and used for three subsequent issues) published
+speare's works (and used for three subsequent issues) published
 in 162 3 , although first printed in the previous year.
 The Stratford bust and monument must have been erected
 on the N. wall of the chance] or choir within six years after Shake-
-speare’s death in 16 16, as it is mentioned in the prefatory memorial
+speare's death in 16 16, as it is mentioned in the prefatory memorial
 lines by Leonard Digges in the First Folio. The design in its
 general aspect was one often adopted by the " tombe-makers " of
 the period, though not originated by them, and according to
 Dugdale was executed by a Fleming resident in London since
 1567, Garratt johnson (Gerard janssen), a denizen, who was
 occasionally a collaborator with Nicholas Stone. The bust is
-believed to have been commissioned by the poet’s son-in—law,
+believed to have been commissioned by the poet's son-in—law,
 Dr ]ohn Hall, and, like the Droeshout print, must have been
 seen by and likely enough had the approval of Mrs Shake-
 speare, who did not die until August 162 3. It is thought to have
@@ -2646,8 +2533,8 @@ of the moustache that shows the fiesh above and below. Some
 repair was made to the monument in I649, and again in 1748,
 but there is no mention in the church records of any meddling
 with the bust itself. Owing, however, to the characteristic
-inaccuracy of the print by one of Hollars’ assistants in the
-illustration of Dugdale’s Antiquities of Warwickshire (p. 688),
+inaccuracy of the print by one of Hollars' assistants in the
+illustration of Dugdale's Antiquities of Warwickshire (p. 688),
 the first edition of which was published in 16 $6, certain writers
 have been misled into the belief that the whole monument
 and bust were not merely restored but replaced by those which
@@ -2697,7 +2584,7 @@ ably to the poet-laureate Ben jonson. Dr Becker had purchased
 it at the death-sale at Mainz of Count Kesselstadt in 1847,
 in which also " a plaster of Paris cast " (with no suggestion of
 Shakespeare then attached to it) had appeared. This he found
-in a broker’s rag-shop, assumed it to be the same, recognized
+in a broker's rag-shop, assumed it to be the same, recognized
 in it a resemblance to the picture (which most persons cannot
 see) and so came to attribute to it the enormous historical value
 which it would, were his hypothesis correct, unquestionably
@@ -2775,11 +2662,11 @@ of the poet, for so far as we can judge of it in its present condition
 The ii1scription—Will¢i Shakespeare, 1609- is suspect on account
 of being written in cursive script, the only known example at
 the date to which it professes to belong. If it were authentic it
-might be taken as showing us Shakespeare’s appearance seven
+might be taken as showing us Shakespeare's appearance seven
 years before his death, and fourteen years before the publica-
 tion of the Droeshout print. The former attribution of it to
-Cornelis ]anssen’s brush has been abandoned——it is the work of
-a comparatively unskilful craftsman. The picture’s pedigree
+Cornelis ]anssen's brush has been abandoned——it is the work of
+a comparatively unskilful craftsman. The picture's pedigree
 cannot definitely be traced far back, but that is of little import-
 ance, as plausible pedigrees have often been manufactured to
 bolster up the most obvious impostures. The most interesting
@@ -2790,7 +2677,7 @@ is the " Buttery " or “ Ellis portrait, " acquired by an American
 collector in IQ02. This small picture, on panel, is very poor
 judged as a work of art, but it has all the appearance of age.
 Inthis case the perspective of the dress has been corrected, and
-Shakespeare’s shield is shown on the background. The head is
+Shakespeare's shield is shown on the background. The head is
 that of a middle-aged man; the moustache, contrary to the usual
 type, is drooping. It is curious that the" Thurston miniature"done
 from the Droeshout print gives the moustache of the " proof. "
@@ -2798,7 +2685,7 @@ Two other portraits of the same character of head and arrange-
 ment are the " Ely Palace portrait " and the “ Felton portrait,"
 both of which in their time have had, and still have, convinced
 believers. The " Ely Palace portrait " was discovered in 1845.
-in a broker’s shop, and was bought by Thomas Turton, bishop
+in a broker's shop, and was bought by Thomas Turton, bishop
 of Ely, who died in 1864, when it was bought by Henry Graves
 and by him was presented to the Birthplace. An unsatisfactory
 statement of its history, similar to that of many other portraits,
@@ -2825,144 +2712,28 @@ On the back of the panel was boldly traced in a florid hand
 ### START: ED4A817_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A817.TIF 
 
-PO RT RAITS OF
-  *‘‘  
-  2 ; ;; · ‘
-f I
-I
-I
-zmml Ilamld mn, zmmmwm.
-THE STRA'I`l•`ORI) BUST AND MONIQMENT
-IN IIOLY TRINITY CHURCH, STRAT-
-FORD·ON-AVON. lireered before 1623.
- 
-I
-I
-  `
-1
-I
-I
-I
- 
-I
-I
-I
-L- ...
-Photo, Emery Walkn.
-THIS CIIANDOS PORTRAIT`.
-  In the National Pornrait Gallery.
-XXIV. ¤88.
+<!-- deleted: portraits of shakespeare -->
 
 ### END: ED4A817_0.tif.txt ###
 
 ### START: ED4A817_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A817.TIF 
 
-  l PLATE I.
-S I-I A KESPEA RE
-**7 W   i "*
-»:·    
-2 l
-PLE, Emery wumi `>`4 l i
-Tm; ENGRAVING BY MARTIN u1<01zsHOUT.
-In the First; Folio Edition. 1623.
-  %_%'    
-  , 5*’  
-F
- 
-i
-liliHii§i1;[0wER P0RTRA1T.
-( The " Droeshout Original " ).
-In thc Shakespeare Memorial Gallery.
-...i....._é........+ AJ
+<!-- deleted: portraits of shakespeare -->
 
 ### END: ED4A817_1.tif.txt ###
 
 ### START: ED4A818_0.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A818.TIF 
 
-Puma II.  
-i
-[ P0RTRA1Ts 0
-  *‘*   —‘J—»`;     w
-  I ,A,I I A I IIIAI A LIIITLTQIT '41’J“‘`   ’`'»A``”%` “ '`”``“ i 'ii7iiI -
-Q 1. THB JANSSEN 2. THE FELTON.
-k
-= I   { ’=—= .     ;?I¢v
-t ` I Y I
-s A N {
-{
-1 1 ·
-    `    
-  L___II:L, r%%r AIT  
-5. THE LUMLEY. 6. THE ASHBOURNE. g
-`
-‘   ¢ ¢·   `’    % ¥—       ..i;   A¢,;=    
-     `··        
-’   ` ·     `v,'   S
-I   m"       t' "‘ i
-¢¢%¢»·   ·    
-  »A»j¤»/, I I y%%, A‘»;%   /Jl;Ie¢;II    ,,A, I A4$$.Y I  
-9. THE IIILLIARD IO. THE AURIOL
-l MINIATURE.   MINIATURE.
-1   »‘» A‘‘A‘‘‘A ‘‘ ‘        "‘q ""` '   `
-           
-5   I   g     ___,.   
-I ;   · T    
-        J      
-Z     { I I       `   I
-I ____,,_ ,,,, - ___ ,._.    · ?——~ 
-13. TUE DEATH-MASK. I4. THE ROUBILIAC
-STATUE.
+<!-- deleted: portraits of shakespeare -->
 
 ### END: ED4A818_0.tif.txt ###
 
 ### START: ED4A818_1.tif.txt ###
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A818.TIF 
 
-ESPEARE
-F SHAKESPEARE T
-T   *  
-T   T *»`  
-T   T    IT
-T .» ·     T T     T ‘
-  _ A‘'‘* A  VAJ    T Ip 
-  .  » S * .  ·  T‘Ti¥é§   T Q T
-T T  
-L ...7. 7 ).;_.-E_T T_4_ T
-3. THE ELY PALACE. 4. THE HUNT OR
-ST RATFORD.
-U Siré ET   €·A YQT .   A  
-T   =   . .  
-      `     wr
-‘  .€A      T  g  T
-·  I` . T
-¤ ‘-_, T T   T
-»     I
-. ..—‘   T T »»»V.·  
-n pr  comm. A s. THE s012s . VSQS  
-VET?
-  _ %;,.;· · Tiv;     T
-T     ..,..     |
-T       :`’   ~ T  
-T     .......A     ‘ » ‘ c T
-. ·.... .   1 I T
-  1
-  .,,. ,.,-7.-,.,     A .,,. .-  
-Pm", W. A. mumzz. Pham, w. .4. .T1.m.~11.
-11. THE DUNFORD. I2. THE STACE.
-A   R.A    »   T     T
-  -    »<.       T aw   »».  T
-  T '{;’   “   ·... _  
-A  ‘   T   .   T
-  .....             TT
-          “ °'‘''‘` ;f`i.,»f»   
-T i      ·~.` °“   T   A ` `TTT
-  'T¤‘   4     T A   T
-  .»»       ....»   . T
-    .....   T »  A  
-15. THE SCHEEMAKERS :6. THE DAVENANT
-STATUE. BUST. 24
+<!-- deleted: portraits of shakespeare -->
 
 ### END: ED4A818_1.tif.txt ###
 
@@ -2971,10 +2742,10 @@ STATUE. BUST. 24
 
 SI-lAKEf
 R.B. is correct, it is contended the initials indicate Richard
-Burbage, Shakespeare’s fellow—actor. Traces of the writing i
-may still be detected. Boaden’s copy, made in 1792, repeating
+Burbage, Shakespeare's fellow—actor. Traces of the writing i
+may still be detected. Boaden's copy, made in 1792, repeating
 the inscription on the back, has " Guil. Shakspeare 1587 R.N." i
-The spelling of Shakespeare’s name·—which in succeeding ages ,
+The spelling of Shakespeare's name·—which in succeeding ages ,
 has been governed by contemporary fasliion—has a distinct  
 bearing on the authenticity of the panel. At the first appearance .
 of the " Felton portrait " in a London sale—room it was bought by
@@ -2993,7 +2764,7 @@ of the Droeshout print and therefore a life-portrait of Shakespeare.
 Thus foisted on the public it enjoyed for years a great reputation,
 and no one seems to have recognized that with its down—turned
 moustache it agrees with the inaccurate print after the Droeshout
-engraving which was published as frontispiece to Ayscougl1’s
+engraving which was published as frontispiece to Ayscougl1's
 edition of Shakespeare in 1790, i.e. two years before the dis-
 covery of the Felton portrait! The " Napier portrait, " as the
 excellent copy by ]ohn Boaden is known, has recently been
@@ -3020,9 +2791,9 @@ certainly a genuine as well as a very beautiful picture of the
 period, and bears the insc1·iption—‘Z$‘g,“l)6-but doubt has been
 expressed whether the 6 of 46 has not been tampered with,
 and whether it was not originally an 0 and altered to fit Shake-
-speare’s age. It was made known through Earlom’s rare
+speare's age. It was made known through Earlom's rare
 rnezzotint of it, but the public knowledge of it has been mainly
-founded on Cooper’s and Turner’s beautiful but misleading
+founded on Cooper's and Turner's beautiful but misleading
 mezzotint plates until a photograph of the original was published
 for the first time in 1909 (in The Connoisseur) by permission
 of the owner, the Lady Guendolen Ramsden, daughter of the
@@ -3039,7 +2810,7 @@ it is more than likely that Janssen was the author of it; but
 that it was intended to represent Shakespeare is still to be proved.
 A number of good copies of it exist, all but one (which enjoys
 a longer pedigree) made in the 18th century: the " Croker
-]anssen" now lost, unless it be that of Lord Darnley’s; the
+]anssen" now lost, unless it be that of Lord Darnley's; the
 " Staunton ]anssen," the " Buckston ]anssen," the “ Marsden
 
 ### END: ED4A819_0.tif.txt ###
@@ -3051,7 +2822,7 @@ SPEARE 7 8 g
 Janssen, " and the copy in the possession of the duke of Anhalt.
 These are all above the average merit of such work.
 The portrait which has made the most popular appeal is that
-called the " Chandos, " formerly known as the " d’Avenant, "
+called the " Chandos, " formerly known as the " d'Avenant, "
 the " Stowe, " and the " Ellesmere, " according as it passed from
 hand to hand; it is now in the National Portrait Gallery.
 Tradition, tainted at the`outset, attributes the authorship of
@@ -3059,9 +2830,9 @@ it to Richard Burbage, although it is impossible that the painter
 of the head in the Dulwich Gallery could have produced a
 work so good in technique; and Burbage is alleged to have given
 it to his fellow-actor joseph Taylor, who bequeathed it to Sir
-William d’Avenant, Shakespeare’s godson. As a matter of fact,
+William d'Avenant, Shakespeare's godson. As a matter of fact,
 Taylor died intestate. Thenceforward, whether or not it be-
-longed to d’Avenant, its history is clear. At the great Stowe
+longed to d'Avenant, its history is clear. At the great Stowe
 sale of the effects of the duke of Buckingham and Chandos
 (who had inherited it) the earl of Ellesmere bought it and then
 presented it to the nation. Many serious inquirers have refused
@@ -3073,7 +2844,7 @@ the Droeshout print. It is to be noted, however, that judged
 by the earlier copies of it-which agree in the main points—
 some of the swarthiness complained of may be due to the restorer.
 Oldys, indifferent to tradition, attributed it to Janssen, an un-
-allowable ascription. This, except the " Lumley portrait/’,
+allowable ascription. This, except the " Lumley portrait/',
 the “ Burdett Coutts portrait," and the admitted fraud, the
 “ Dunford portrait," is the only picture of Shakespeare executed
 before the end of the 18th century which represents the poet
@@ -3088,13 +2859,13 @@ presented to john Dryden. The poet acknowledged the gift
 in his celebrated Fourteenth Epistle, written after 1691 and
 published in 1694, and containing the passage beginning,
 " Shakespeare, thy gift, I place beforemy sight; With awe
-I ask his blessing ere I write." D’Avenant had died in 1668,
+I ask his blessing ere I write." D'Avenant had died in 1668,
 and so could not, as tradition contends was the case, have been
-the donor. In Malone’s time the picture was already in the
+the donor. In Malone's time the picture was already in the
 possession of the earl Fitzwilliam. This at least proves the
 esteem in which the Chandos portrait was held so far back as
-the end of the I7tl’1 century, only three—quarters of a century
-after Shakespeare’s death.
+the end of the I7tl'1 century, only three—quarters of a century
+after Shakespeare's death.
 From among the innumerable copies and adaptations of the
 Chandos portrait a few emerge as having a certain importance
 of their own. That which Sir ]oshua Reynolds is traditionally
@@ -3116,7 +2887,7 @@ of Chaucer in the Bodleian Library; the " Clopton miniature "
 ; attributed to ]ohn Michael Wright, which formed the basis of
 the drawing by Arlaud, by whose name the engravings of this
 modified type are usually known; the Shakespeare Hirst picture,
-1 based on Houbra.ken’s engraving; the full—size chalk drawing
+1 based on Houbra.ken's engraving; the full—size chalk drawing
 ‘ by Ozias Humphry, R.A., at the Birthplace, which Malone
 ~ guaranteed to be a perfect transcript, but which more resembles
 l the late W. P. Frith, R.A., than Shakespeare. Humphry also,
@@ -3139,7 +2910,7 @@ it is thought to be indicated though not actually mentioned ,
 in the Lumley sale catalogues of 1785 and 1807, it was only when
 it came into the possession of George Rippon, presumably about
 the year 1848, that it was brought to the notice of the world,
-and additional attention was secured by the owner’s contention
+and additional attention was secured by the owner's contention
 that it was the original of the Chandos. It is claimed that the
 picture originally belonged to the portrait collector john, Lord
 Lumley, of Lumley castle, Durham, who died in 1609, and
@@ -3165,7 +2936,7 @@ portraits now to be mentioned; upon him also have been foisted
 several of the more impudent fabrications herein named. The
 " Bath " or " Archer portrait "~—it having been in the possession
 of the Bath Librarian, Archer, when attention was first drawn
-to it in 1859*IS worthy of Zuccaro’s brush. It is Italian in
+to it in 1859*IS worthy of Zuccaro's brush. It is Italian in
 feeling, with an inscription (" W. Shakespear") in an Italian
 but apparently more modern hand. The type of head, too,
 is Italian, and it is curious that in certain respects it bears some
@@ -3208,7 +2979,7 @@ only because no such tavern is known to have existed.
 SPEARE
 The “ Cosway Zuccaro portrait " is now in America; but the
 reproduction of it exists in England in the miniature of it by
-Cosway’s pupil, Charlotte jones, as well as in the rare mezzotint
+Cosway's pupil, Charlotte jones, as well as in the rare mezzotint
 by Hanna Greene. The picture is alleged to have disappeared
 from the possession of Richard Cosway; it was sold in his sale,
 however, and passed through the hands of Lionel Booth and
@@ -3236,13 +3007,13 @@ countess of Shrewsbury, in the National Portrait Gallery. The
 ruff, painted with extreme care, reveals a pentimentv. The picture
 is admirably executed, but the face is weak and is the least
 satisfactory part of it; especially feeble is the ear with the ring.
-Shakespeare’s shield, crest, with red mantling, which appear
+Shakespeare's shield, crest, with red mantling, which appear
 co-temporary with the rest, and the ngures " 37 " beneath it,
 appear on the background, in the manner adopted in 17th-
 century portraits. From this picture the " Craven portrait "
 seems to have been “ faked." A
 Equally striking is the " Ashbourne portrait," well known
-through G. F. Storm’s engraving of it. It is sometimes called the
+through G. F. Storm's engraving of it. It is sometimes called the
 " Kingston portrait " as the first known owner ·of it was the Rev.
 Clement U. Kingston, who issued the engraving in 1847. It
 is an important three-quarter length, representing a figure in
@@ -3266,11 +3037,11 @@ Birthplace at Stratford, to which it was presented by W. O.
 Hunt, town clerk, in 1867. It had been in the Hunt family for
 many years and represented a black-bearded man. Simon
 Collins, the picture cleaner and restorer who had cleansed the
-Stratford bust of Malone’s white paint and restored its colours,
+Stratford bust of Malone's white paint and restored its colours,
 declaring that another picture was beneath it, was engaged
 to exercise himself upon it. He removed the top figure from
 the dilapidated canvas with spirit and found beneath it the
-painted version of the Stratford bust. At that time Mr Rabone’s
+painted version of the Stratford bust. At that time Mr Rabone's
 copy, now at Birmingham, was made; it is valuable as evidence.
 Then Collins, always a suspect in this matter, proceeded with
 the restoration, and by treatment of the hair made the portrait
@@ -3286,11 +3057,11 @@ picture as dating further back than the latter half of the 18th
 
 SHAKE1
 century-~when it was probably executed, among a score of others,
-about the time of the bicentenary of Shakespeare’s birth, an
+about the time of the bicentenary of Shakespeare's birth, an
 event which gave rise to much celebration. The ingenious but
 entirely unconvincing explanations offered to account for the
 state in which the picture was found need not be recounted here.
-The “ Duke of Leeds’ portrait," now at Hornby castle, has
+The “ Duke of Leeds' portrait," now at Hornby castle, has
 been for many years in the family, but the circumstances of
 its provenance are unknown. It has been thought possible
 that this is the lost portrait of which ]ohn Evelyn speaks as
@@ -3302,7 +3073,7 @@ recalling the ]anssen portrait; the nose, however, is quite
 different. He wears a standing " wired band," as in the Droe-
 shout print. It is a workmanlike piece of painting, but there
 is nothing in the picture to connect it with Shakespeare. The
-same may be said of the “ Welcombe portrait/’ which was bought
+same may be said of the “ Welcombe portrait/' which was bought
 by Mark Philips of Welcombe and descended to Sir George
 Trevelyan. It is a fairly good picture, having some resemblance
 to the " Boston Zuccaro " with something of the Chandos.
@@ -3316,22 +3087,22 @@ connexion with Shakespeare apart from its exaggeration of the
 general aspect of the Chandos portrait; it is a weak thing.
 The " Tonson portrait," inscribed on the frame " The ]acob
 Tonson Picture, 173 5," asmall oval, with the attributes of comedy
-and tragedy, is believed to have been executed for Tonson’s
+and tragedy, is believed to have been executed for Tonson's
 4th edition of Shakespeare, but not used.
 The " Soest portrait " (often called Zoust or Zoest), formerly
 known as “ the Douglas," the " Lister Kaye " or the " Clarges
 portrait," according to the owner of the moment, was for many
-years a public favourite, mainly through ]. Simon’s excellent
+years a public favourite, mainly through ]. Simon's excellent
 mezzotint. The picture, a short half—length within an oval,
 is manifestly meant for Shakespeare, but the head as nearly
 resembles the head of Christ at Lille by Charles Delafosse (1636—
 I7I6) who also painted pictures in England. Gerard Soest
 was not born until 1637, and according to Granger the picture
-was painted in Charles II.’s reign. It is a pleasing but weak
+was painted in Charles II.'s reign. It is a pleasing but weak
 head, possibly based on the Chandos. The whereabouts of the
 picture is unknown, unless it is that in the possession of the
 earl of Craven. A number`of copies exist, two of which are at
-the Shakespeare Memorial. Simon’s print was the first announce-
+the Shakespeare Memorial. Simon's print was the first announce-
 ment of the existence of the picture, which at that time belonged
 to an obscure painter, F. Wright of Covent Garden.
 The " Charlecote portrait," which was exhibited publicly
@@ -3374,9 +3145,9 @@ speare. The “ Rendelsham " and “ Crooks ” portraits also
 belong to the category of capital paintings representing some one
 other than Shakespeare; and the same may be hazarded of
 the " Grafton " or " Winston " portrait, the " Sanders portrait,"
-the " Gilliland portrait " (an old man’s head impudently
+the " Gilliland portrait " (an old man's head impudently
 advanced), the striking " Thorne Court portrait," the " Aston
-Cantlow portrait," the " Burn portrait/’ the " Gwennet portrait,"
+Cantlow portrait," the " Burn portrait/' the " Gwennet portrait,"
 the " Wilson portrait " and others of the class. _
 Miniatuiepainting has assumed a certain importance in relation
 to the subject. The " Welbeck Abbey " or " Harleian miniature,"
@@ -3384,7 +3155,7 @@ is that which Walpole caused to be engraved by Vertue for Pope`s
 edition of Shakespeare (1723-1725)» but which Oldys declared, in-
 correctly, to be a juvenile portrait of james I. According to Scharf,
 it belonged to Robert Harley, 1st earl of Oxford, but it is more likely
-that it was bought by his son Edward Harley in the father’s lifetime.
+that it was bought by his son Edward Harley in the father's lifetime.
 It already was in his collection in 1719, but whence it _came is not
 known. It has been denounced as a piece of arrant sycophancy that
 Pope consented to adopt this very beautiful but entirely unauthenti-
@@ -3470,7 +3241,7 @@ the poet`s name, is faked; it is really a beautiful little portrait of
 Lord Keeper Coventry by janssen. The " Matthias Alexander
 portrait " shows a modern head on an old body. The " Belmount
 Hall portrait " with its pseudo-Garrick MS. inscription on the back,
-is in the present writer’s opinion not the genuine thing which it
+is in the present writer's opinion not the genuine thing which it
 claims to be. It represents the poet looking up from his literary
 work. In the early part of the 19th century two clever " restorers,"
 Holder and Zincke, made a fairly lucrative trade of fabricating
@@ -3508,7 +3279,7 @@ childhood of Shakespeare, by George Romney (three pictures)
 T. Stothard, R.A., john Wood, james Sant, R.A.; Shakespeare
 before Sir Thomas Lucy, by Sir G. Harvey, R.S.A., Thomas Brooks
 A. Chisholme, &c. These, and kindred subjects such as “ Shake
-speare’s Courtship," have provided infinite material for the industry
+speare's Courtship," have provided infinite material for the industry
 and ingenuity of Shakespeare-loving painters.
 The engraved portraits on copper, steel, and wood are so numerous
 —amounting to many hundreds—that it is impossible to deal wit}
@@ -3519,11 +3290,11 @@ the first English engravers who achieved distinction); but no sucl
 print has even been found and its existence is doubted. Walpol·
 probably confounded it with that by W. Marshall, a reversed ani
 reduced version of the Droeshout, which was published as frontis
-piece to the spurious edition of Shakespeare’s poems (I64G). It i
+piece to the spurious edition of Shakespeare's poems (I64G). It i
 good but hard. An admirable engraving, to all but expert eyes un
 recognizable as a copy, was made from it in 1815, and another later
 \Villiam Faithorne (d. 1691) is credited with the frontispiece t~
-Quarles’s edition of " The Rape of Lucrece, by William Shakespeare
+Quarles's edition of " The Rape of Lucrece, by William Shakespeare
 gent." (1655). It was copied for‘Rodd by R. Sawyer and republishe¤
 in 1 819. It represents the tragic scene between Tarquin and Lucrecc
 and above is inset an oval medallion, being a rendering of the Droe
@@ -3531,11 +3302,11 @@ shout portrait reversed. The earliest engravings from the Chando
 portrait are of interest. The first by L. du Guernier (Arlaud type
 and that by M. (father of G.) van der Gucht are introduced into
 pleasing composition. The same elaborate design was adopted b
-L. van der Gucht. These, like Vertue’s earlier prints, look to th
+L. van der Gucht. These, like Vertue's earlier prints, look to th
 left; subsequent versions are reversed. Perhaps the most celc
 brated, partly because it was the most important and technically th
 finest, up to that time, is the large engraving (to the right) b
-Houbrakeu, a Dutchman, done for Birch’s " Heads of Illustriou
+Houbrakeu, a Dutchman, done for Birch's " Heads of Illustriou
 Persons of Great Britain " published by T. and P. Knapton (1747
 1752). This free rendering of the Chandos portrait is the parent c
 the numerous engravings of " the Houbraken type." Since that dat
@@ -3543,10 +3314,10 @@ many plates of a high order, from all the principal portraits, hav
 been issued, many of them extremely inaccurate.
 Numerous portraits in stained glass have been inserted in th
 windows of public institutions. Typical of them are the Germa
-Chandos windows by Franz Mayer (Mayer & Co.) at Stationers’ Hal
+Chandos windows by Franz Mayer (Mayer & Co.) at Stationers' Hal
 and in St Helens, Bishopsgate (Professor Blaim); and that of th
 Droeshout type in the great hall of the City of London school. F or
-Madox Brown’s design is one of the best ever executed.
+Madox Brown's design is one of the best ever executed.
 
 ### END: ED4A822_0.tif.txt ###
 
@@ -3554,7 +3325,7 @@ Madox Brown’s design is one of the best ever executed.
 #### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A822.TIF 
 
 VVe now come to the sculptured memorials. After Gerrard
-]ohns0n’s bust no statuary portrait was executed until 1740, when
+]ohns0n's bust no statuary portrait was executed until 1740, when
 the statue in Poets' Corner, Westminster Abbey, was set up by public
 subscription, mainly through the enthusiastic activity of the earl of
 Burlington, Dr Richard Mead, and the poet Pope. It was designed
@@ -3567,7 +3338,7 @@ of the poet based upon the Chandos picture. Lord Pembroke
 possesses a replica of it. A free repetition, reversed and with many
 changes of detail, is erected in a niche on the exterior wall of the
 town-hall of Stratford-on—Avon. A copy of it in lead by Schee-
-makers’ pupil, Sir Henry Cheere, used to stand in Drury Lane theatre.
+makers' pupil, Sir Henry Cheere, used to stand in Drury Lane theatre.
 Wedgwood copied this work, omitting the absurdities of the pedestal,
 1 with much spirit in black basalt. The marble copy, much simplified,
 in Leicester Square, is by Fontana, a gift to London by Baron Albert
@@ -3575,16 +3346,16 @@ Grant. Busts were executed by Scheemakers, founded on the same
 , portrait. One is still at Stowe in the " Temple of British WOTtlll€S,l,
 i and in Lord Cobham's possession is that presented by Pope to Lord
 1 Lyttelton. Some very fine engravings of the monument have been
-, produced, the most important that in Boydell’s Shakespeare (larger
-. edition). By L. F. Roubiliac, Cheere’s protégé, is the statue which
+, produced, the most important that in Boydell's Shakespeare (larger
+. edition). By L. F. Roubiliac, Cheere's protégé, is the statue which
 , in 1758 David Garrick commissioned him to carve and which he be-
 · queathed to the British Museum. It is also based upon the Chandos
 , portrait. The terra-cotta model for the statue is in the Victoria and
 e Albert Museum; and a marble reproduction of it is in private hands.
-· To Roubiliac also must be credited the celebrated “ D’Avenant
+· To Roubiliac also must be credited the celebrated “ D'Avenant
 , Bust " of blackened terra-cotta in the possession of the Garrick Club.
 ; This line work of art derives its name from having been found
-- bricked up in the old Duke’s theatre in Portugal Row, Lincoln’s Inn
+- bricked up in the old Duke's theatre in Portugal Row, Lincoln's Inn
 Y Fields, which 180 years before was d'Avenant's, but which after-
 · wards passed through various vicissitudes. It was again adapted
 - for theatrical purposes by Giffard, for whom this bust, together with
@@ -3594,11 +3365,11 @@ engaged on Garrick's commission. The model for the British
 v Museum statue is seen in the portrait of Roubiliac by Carpentiers,
 . now in the National Portrait Gallery. Another portrait of Shake-
 - speare is in Westminster Abbey——a medallion based on the Chandos
-z picture, introduced into Webber’s rather fantastic monument to
+z picture, introduced into Webber's rather fantastic monument to
 1 David Garrick. An important alto-relievo representation of Shake-
 , speare, by ]. Banks, R.A., between the Geniuses of Painting and
 r the Drama, is now in the garden of New Place, Stratford-on-Avon.
-, It was executed for Boydell’s Shakespeare Gallery in Pall Mall,
+, It was executed for Boydell's Shakespeare Gallery in Pall Mall,
 l and was presented to the British Institution which afterwards
 , occupied the premises; on the dissolution of that body it was
 2 given to Stratford by Mr Holte Bracebridge. It is a fine thing,
@@ -3606,7 +3377,7 @@ l and was presented to the British Institution which afterwards
 - excellently engraved in line by james Stow, B. Smith, and others,
 r and was re roduced on the admirable medal by Ktichler, presented
 by Boydellpto every subscriber to his great illustrated edition of
-s Shal<espeare’s works. It is remarkable that Banks’s was the first
+s Shal<espeare's works. It is remarkable that Banks's was the first
 1 British hand to model a portrait of the poet.
 e In more recent times numerous attempts have been made to re-
 l constitute the figure of Shakespeare in sculpture. The most ambitious
@@ -3635,7 +3406,7 @@ y of St Mary the Virgin, Aldermanbury, in memory of Heminge and
 - was in preparation in 1910 for erection in the south aisle of Southwark
 1f Cathedral. Among statues erected in the provinces are those by
 e Mr H. Pe ram, A.R.A., in the building of Birmingham University
-’e (1908) ant? by M. Guillemin for Messrs Farmer and Brindley for the
+'e (1908) ant? by M. Guillemin for Messrs Farmer and Brindley for the
 Nottingham University buildings.
 1e Several statues of importance have been erected in other countries.
 n The bronze by M. Paul Fournier in Paris (presented by an English
@@ -3680,7 +3451,7 @@ proposed statue, 100 ft. high, which the sculptor hoped to be com-
 missioned to produce. A multitude of small bronze and silver busts
 and statuettes have also been produced. Some attention has been
 accorded for several years past to the great pottery bust attributed
-to john Dwight’s Fulham Pottery (o. 1675). The present writer,
+to john Dwight's Fulham Pottery (o. 1675). The present writer,
 however, has ascertained that it is by Lipscombe, in the latter portion
 of the 19th century.
 The wood carvings are numerous. The most interesting among
@@ -3692,7 +3463,7 @@ of Shakespeares mulberry-tree are numerous; among the most
 attractive are the archaic carvings by Salsbee (1761). One statu-
 ette of a primitive order of art was sold in 1909 in London for a
 fantastic sum; it was absurdly claimed to be the original of
-Scheemakers’ statue, but without the slightest attempt at proof
+Scheemakers' statue, but without the slightest attempt at proof
 or justification.
 The Medals and Coins of Shakes eare offer material for a separate
 numismatic study. Those of the Chandos type are by far the most
@@ -3720,7 +3491,7 @@ School, Beaufoy Shakespearean prize, 1851); j. S. and A. B. Wyon
 type: joseph Moore (a medal imitating a Cast medal, 1908). There
 is an Italian medal, cast, of recent date; with the exception of this
 all the medals are struck.
-The 18th—century tradesmen’s Tokens, which passed current as
+The 18th—century tradesmen's Tokens, which passed current as
 money when the copper coinage was inadequate for the public
 needs, constitute another branch for collectors. About thirty-
 four of these, including variations, bear the head of Shakespeare.
@@ -3775,1004 +3546,9 @@ the old Shakespeare brass p1pe-stoppers have _latterly been widely
 reproduced, and the familiar little _brass bust 1S w1dely reproduced
 from the bronze original. So voracious is the public appetite for por-
 traits of the poet that the old embroideries 1H hair and more recently
-’ in woven silk found a ready market; reliefs 1n silver, bronze, iron,
+' in woven silk found a ready market; reliefs 1n silver, bronze, iron,
 and lead are eagerly snapped up_, and postage stamps with Shake-
 speare's head have been issued with success. The acquisitiveness of
 the collector paralyses his powers of select1on._ The vast number of
 other objects for daily use bearing the portra1t of Shakespeare call
 for no notice here. A (M. H. S.)
-BIBLIOGRAPHY ‘
-_ The following is an attempt to supply the want of a select classified
-bibliography of the literature connected with Shakespeare (here
-abbreviated S.), The titles are arranged chronologically under
-each heading in order to give the literary history of the special
-subject. Articles in periodicals not issued separately, and modern
-critical editions of single plays, are not included; and only those of
-the plays usually contained 1n the collective editions are noticed.
-I. PRINCIPAL COLLECTIVE Enmous
-Plays
-Date. or Editors, Publishers, &c. ·
-Works.
-1623 P. ISL folio, J. Heminge and H. Condell (Jaggard & Blount) [reprinted
-by J. Wright (1807, folio) and by L. Booth (1862-4, 3 vols. 4to);
-photo-lithographic facsimile by H, Staunton (1866, folio); re-
-duced by J. O. Halliwell—Phillipps, 1876, 8vo; re rod. from
-(éhptsworth copy, introd. by S. Lee, IQO2, folio; Methuen, 1910,
-10]. `
-1632 P. 2d iiolio (Cotes) [fasc. 1909 (Methuen) folio).
-1663, 64 P. 3d folio (Chetwinde) {fasc. 1905 (Methuen) folio].
-1685 P. 4th folio lfasc. 1904 (Methuen) folio]. V
-1700 W. ISt 8vo, Rowe (Tonson), 7 vols., plates.
-I123·25 W. A. Pope (Tonson), 7 vols. 4to.
-1733 W. L. Theobald (Tonson), 7 vols. 8vo, plates.
-1743. 44 P. Sir T. Hanmer (Oxford). 6 vols. 4to, plates.
-I747 P. Bp. Warburton, 8 vols. 8vo.
-1765 P. Dr S. Johnson (Tonson), 8 vols. 8vo.
-1767 P. E. Capell (Tonson), IO vols. sm. 8vo.
-1773 P. Johnson and G. Steevens, IO vols. 8vo.
-1773*75 P. "Stage ed." (Bell), 8 vols. I2 mo, plates.
-1790 W. E. Malone (Baldwin), first " Variorum ed." IO vols. sm. 8vo.
-1793 P. Johnson and Steevens’s 4th ed., by I. Reed, I5 vols. Svo.
-1795-96 W. 1st American cd,. S. Johnson (Philadelphia), 8 vols. I2 mo.
-1799-1801 W. 1st Continental ed. (Brunswick), 8 vols. 8vo; repr. of 1793 ed. at
-Basle, 1799-1802, 23 vols. 8vo.
-1802 P. Boydel1’s illus. ed. (Bulmer), 9 vols. fol., plates, and 2 additional
-vc s.
-1805 P. A. Chalmers, 9 vols. 8vo, Fuseli’s plates. ‘
-1807 P. l{eath’s engravings, 6 vols. imp. 4to.
-1818 P. T. Bowdler’s “Family ed.," complete, IO vols. 18mo.
-1821 W. E. Malone, by J. Boswell, "Variorum ed.," 2I vols. 8vo.
-1825 P. Rev. W. Harness, 8 vols. 8vo.
-1826 P. S. W. Singer (Pickering), IO vols. 18mo, woodcuts.
-1829 P. ISI French ed. (Baudry), 8vo.
-1830 W. L. Tieck (Leipzig), roy. 8vo.
-1832-34 W. J. Valpy, "Cabinet Pictorial ed.," I5 vols. sm. 8vo.
-1838-43 W, C. Knight, "Pictorial ed.," 8 vols. imp. 8vo.
-1839-43 W. B. Cornwall, 3 vols. imp. 8vo, woodcuts by Kenny Meadows.
-1841-44 W. J. P. Collier, 8 vols. 8vo.
-1842-44 W C. Knight, "Library ed.," I2 vols. 8vo, woodcuts.
-1844 P. O. W. Peabody (Boston, U.S.), 7 vols. 8vo.
-1847 P. Dr G. C. Verplanck (N.Y.), 3 vols. roy. 8vo, woodcuts.
-1851 W. W. Hazlitt, 4 vols. ‘ X211'20.
-1852 P. "Lzmsdowne ed." (White), 8vo. ·
-1852-57 W. Rev, H. N. Hudson (Boston. U.S.), II vols. 12mo.
-1853 P.   P. Collier (see Payne Collier Conlnwerxy, xix.), 8vo.
-1853-65 W. . O. Halliwell, 16 vols. folio, plates.
-1854-65 W. N. Delius (Elberfeld), 8 vols. 8vo.
-
-### END: ED4A823_1.tif.txt ###
-
-### START: ED4A824_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A824.TIF 
-
-Plays _
-Dag; or Editors, Publishers, &c.
-\Vo1ks.
-1856 P. Singer and W. W. Lloyd (Bell), IO vols. 12mo.
-1857 W. Rev. A. Dyce (Moxon), 6 vols. 8vo, 2d ed., 1864-67.
-18S7·60 W. R. G. White (Boston, U.S.), I2 vols. cr. 8vo. _
-1858-60 W. H. Staunton, 3 vols. roy. 8vo, illustrated by S11 J. Gilbert:
-1860 W. Mrs. Cowden Clarke (N.Y.), 2 vols. roy. 8vo. _
-1863~66 W. W. G.l Clark, J. Glover and W. A. Wright, "Camb11dge ed.,"
-9 vo s. 8vo.
-1864 P. J. B. Marsh, "Reference ed.," large 8vo.
-[865-69 P. C.1and M. C. Clarke (Cassell), illustrated by H. C. Selous, 3 vols.
-a. 8vo.
-1871 &c. P. H. H. Furness, "Variorum ed." (Phil.), vols. 1-16, 8vo in progress.
-1872-74 P. C. Knight, "Im<peria1," 4 vols. imp. 4[O, plates.
-1874 W. W. G. Clark an W. A. Wright, "Globe," sm. 8vo. _
-1875 W. S. Neil, "Library Shakespeare" (Mackenzie), 3 vols. 480, illus.
-1876 W. G. L. Duyckinck (Phil.), large 8vo, illus. _ _
-1877 &c. P. A. A. Paton, "Hamnet ed.," 8vo, 1st folio text, spelling modernized.
-[877 W. N. Delius (F. J. Fumivall), "Le0pold" Shakespeare, 4tO.
-1878 W. J. S. Hart, “Avon ed." (Phil.), large 8vo, portraits,
-1881 W. Rev. H. N. Hudson, "Harva1d ed." (Boston, U.S.), 20 vols. 12mo.
-1885 P. C. Wordsworth, " Historical Plays," 3 vols. sm. 8vo.
-1883 \V. R. G. White, " Riverside ed." (Camb., Mass.), 3~vols. 8vo.
-1884 \V. Rolfe’s "Friendly ed.," 20 vols. 16mo (N.Y.).
-1887-90 W. Sir H. Irving and F. A. Marshall, "H. Irving ed.," 8 vols. 4to.
-1888*92 P. J. A. lviorgan, "Bankside ed.," orig. players' text (N.Y. S. Soc.),
-20 vo s.
-1889 W. “Bedford ed.," N.Y., I2 vols. 8vo."
-1891-93 W. W. A. Wright, " Cambridge ed.," 9 vols. 8vo; also 1893-95, 40
-vols. sm. 8vo.
-1894-96 W. I. Gollancz, "Temple ed.," 40 vols. srn. 8vo.
-1899-1903 W. C. H. Herford, "Eversley ed.," IO vols. 8vo.
-1899-1902 W. J. Dennis, " Chiswick ed.," ill. by Byam Shaw, 39 vols. sm. 8vo.
-1899 &c. P. W. J. Craig, "Arden ed.," each play separate editor.
-1901-4 \V. W. E. Henley (and W. Raleigh), "Edinbu1gh folio ed.," IO vols.
-1906-9 W. S. Lee, " Univ. Press S. Renaissance ed.," 40 vols.
-1907 &c. W. F. J. Fumivall, "Old Spelling S" (I. Gollancz. S. Lib.).
-1907 8;:. P. J. A. Morgan, "Bankside—Restoration S." (N.Y. S. Soc.). _
-[G. Steevens, Twenty of the Plays, 1766, 4 vols. 8vo, contains
-reprints of the early editions. 48 vols. of the quartos were
-facsimiled by E. W. Ashbee (1866-71), under the supe1intend·
-l ence of Halliwell; photo-lithographic reproductions of early
-editions by Griggs and Praetorius, with introductions by
-I Furnivhll, &c., 1883-9, 43 vols. 4to.]
-II. SELECTIONS Ann Rmonzos .
-J, R. Pitman, The School S., 1822, Svo; B. H. Smart, S. Readings, 1839, 121uo;
-Howell, Select Plays, 1848, 12mo, Roman Catholic; C. Kean, Selections, as at the
-Princess' Theatre, 1860, 2 vols. sm. 8vo; T. and Rev. S. G. Bulfinch, S. adapted,/or
-Reading Classes and the Family, Boston, 1865, 12mo; W. A. Wright, Select Plays,
-1869-86, I4 vols. sm. 8vo; J. W. S. Hows, Historical S.ian Reader, N.Y., 1870, 8vo;
-R. J. Lane (editor), C. Kemble’s S. Readings, 1870, sm. 8vo; R. Baughan, Plays,
-Abridged and Revised for Girls, 1871, 8vo; H. N. Hudson, Plays, Selected, Boston,
-1872, 3 vols. sm. 8vo; H. Cundell, Tho Boudoir S., 1876, 77, 3 vols. 8vo, eight plays
-for reading aloud; H. C. Bowen, S. Reading Book, 1881, 3 pts. 8vo. seventeen plays for
-schools and reading aloud; S. Brandram, Selected Plays, abridged for the Young,
-1882, sm. 8vo; C. M. Yonge, S.’s Plays for Schools, 1883-85, tive plays abridged and
-annotated; M. A. Woods, Scenes from S. for use in Schools, 1898, &c., 8vo; Lamb, S.
-for the Young (I. Gollancz, S. Lib.) 1908, &c., based on Lamb’s Tales from S.
-III. Pnmcirmx. Truusmrroxs or Woxxs
-Germon.—C. M. Wieland, 1762-66, 8 vols. 8vo;   J. Eschenburg, 1775-82, 13 vols.
-8vo; A. W. v. Schlegel, 1797-1810, 9 vols. 8vo; Sch egel-Eschenburg, 1810-12, 20 vols.
-8vo; J. H. and H. and A. Voss, 1818-29, 9 vols. 8vo; J. W. O. Benda, 1825-26, IQ vols.
-16mo; J. Meyer and H. Doring, I824'$4, 52 ts. 18mo; Schlegel-Tieck, 1825-33, 9 vols.
-12mO; P. Kaufmann, 1830-36, 4 vols. 12mo;  Ortlepp, 1838-39,8vols. 12mo; Schlegel-
-Tieck-Ulrici, 1867-71, I2 vols. 8vo; Dingelstedt, W. Jordan and others, 1865-70, 9 vols.
-8vo; F. Bodenstedt and others, 1867-71, 5th ed. 1890,9vols. 8vo; Schlegel—Tieck—Berna.ys,
-1871-73, I2 vols. sm. 8vo; Schlegel—Gundolf, 1908, Src. French.—Letourneur, 1776-82,
-zo vols. 8vo; Letourneur-Guizot, 1821, I3 vols. 8vo; B. Laroche, 1838-39, 2 vols. ro .
-8vo; Francisque-Michel, 1839-40, 3 vols. roy. 8vo; F. Victor Hugo Els, 1859-66, 18 vol;.
-8vo; Guizot, 1860-62, 8 vols. 8vo; E. Montégut, 1868-73. I0 vols. 12mo; G. Duval.
-1908-9, 8 vols. 8vo; J. H. Rosny, 1909, &c. Italian.-M. Leoni, 1814-15, 8 vols. 8vo;
-C. Rusconi, 1838, 8vo; C. Pasqualigo, 1870, &c.; G. Carcano`, 1875-82, I2 vols. 8vo.
-Spanish.—Marqués de Dos Hermanos, 1872-77, 3 vols. 8vo; J. Clark, 1870-74, 5 vols.
-(only IO plays); G. Macpherson, ISSX. Dutch.—B. Brunius, &c., 1778-82, 5 vols. 8vo:
-A. S. Kok, 1872-80, 7 vols. 8vo; L. . J. Burgersdijk, 1886-88, I2 vols. 8vo. Danish.
-—Foersom and E. Lembcke, 1861-73, 18 vols. 8vo. Swedis}t.—C. A. Hagberg, 1847-
-51, I2 vols. 8vo. Bohernian.—J. Cejka, F. Doucha, &c., 1856-73, 9 vols. 8vo. Hun-
-gorian.—Dobrentei, 1824, 8vo; Lemouton, I84$, &c. Polish.——I. Kefalinski and J. v
-Placyd, 1839-47, 3 vols. 8vo; S. Kozmiana. 1866, &c.; H. C. Selousa, 1875-77, 3 vols.
-Russian.-N.Ketschera, 1841-50, 5vols. (18 plays); P.A.Kanshin, I8Q3,I2V0lS. (com-
-plete works).
-IV. CRITICISM, I1.1.us111A·r1ou Ann Coummr
-A.——General Works.
-T. Rymer, The Tragedies of the Last Age, 1678, 8vo, and A Short View of Tragedy
-1693, 8vo; C. Gildon, "Some Reflections on Mr Rymer" (in Miscellaneous Lectures
-ICQ4, 8vo); J. Dennis, The Intpartial Critic, 1692, 4to, and Essay on the Genius ana
-Writings of S., 1712, 8vo; Z. Grey, Word or Two of Advice to W. Warburton, 1746
-8vo, Free and Familiar Letter to W. Warburton, 1750, 8vo, Remarks on [Warburton’sQ
-Edition, 1751, 8vo, and'Critical, Historical, and Explanatory Notes, 1754, 3rd ed. 1755
-2 vols. 8vo; S. Johnson, Proposagfor a New Edition (1746), folio, 1765, 8vo; E. Capell
-Notes and Various Readings to ., 1759, 4(0 (1779-80), 3 vols. 4to; P. Nichols, The
-Castrated Letter of Sir T. Hanrner, 1763, 8vo; Prefaces by Dr Johnson, Pope.
-Theobald, (rc., 1765. 8vo; W. Kenrick, Review of Dr Johnson': New Edition, 1765.
-8vo, and Defence, 1766; G. Steevens, Proposals for Printing a New Edition, 1766, 8vo;
-Mrs Eliz. Montagu,Essayon Writings and Genius ofS., 1769,8vo,frequently reprinted:
-W. Kenrick, Introduction to the School of S., 1773, 8vo; Mrs Eliz. Grifiiths, Morality
-of S.’s Drama, 1775, 8vo; Voltaire, Lettre a l’Acad<‘mie, 1776, 8vo, on Letourneur’:
-translation; J. Baretti, Discours sur S. et Voltaire, `1777, 8vo; E. Malone, Supplemen.
-to the Edition of 1778, 1780, 2 vols. 8vo, Second Appendix, 1783, 8vo; J. Ritson
-Remarks on the Text and Notes of [Steevens’s 1778] edition, 1783, 8vo; T. Davies
-
-### END: ED4A824_0.tif.txt ###
-
-### START: ED4A824_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A824.TIF 
-
-L
-ISP
-{ D A
-  Egan: R
-edjq at. E
-I it. 4;,1/16
-a78;0n, IM_
-caN£:>y7S¤5[
-%§i‘»».   ’}?e§%··,..
-_ B?i;§nf¢,dij.RP;°;l!i§
-l”sha",L0zD1tsh »! _
-Stecp, e" Z so °p‘ V`;8
-N·’.."dg {Me, df ‘§ T‘v M8
-RMU WM, 7*, . hh;. 4
-8 I EC 8 U Cy 3 t 81
-Aem; gm d?, vOR y 1 Qc! Y  3%
-lhiici rk n ¢`LtH{0Or_;   ;_”b78'uiZ,’ V0
-gee; ’enz elf!- K8:]
-V Cn, 0.:0 C .g; .1%, ,"gSM sm s
-”~¤g; Om Mn m,"}" " 0 J". 6 · ’-W."'}; 8V
-Of C_ ,,, auth 6a20j1Ow_·,2 ex 12; 0_
-sf (v nc bc: thu uuipl m0·
-gc .·°p {in";!; e,PlsC61 vale € 79   x7o.” I
-         
-Dy xg i L}; ;XL18°7”_fga7_ Y. EfkP.ccvc.¢1,;   E"fMa
-0f gm K9?}   _ 8,l_!lO7* 2 $$018 qyasfug, JI 0 . é§ChlhcSc
-lh Ig'.;   gx7Beb’8V ’ gel] v a aj Rf C'Fen Cu
-ve I;;-': 2 J I{id.8ck· Tv°lsI8 F, » gifs a gtVZq Bib h' C
-E0" i'shL.O [ I5 vogtalo; · gs I V09g I H sonies touyayaomm
-Sdilqélslg CU3:s.(1yS0f: ’ §SfJ_ V6 fO5’ y’ f7Q3EdP CBJ   gv lfle
-Ifujy g7;i6'it,a,12. SUE . rUM, V. °p;¥lg. H} Q 1 lélme/SGM
-n azumr wh·m n 3 0.80 7
-*‘1~}¢ ‘ sl 6 *8 08 ·· Um s1vFw°1 V‘¤· ”O¤‘?r92’M>‘u' ¤‘
-io ’J‘s· #1*2 ~,·· 19 X8 da s a S- ° ’OW¢ '»‘<> ·M"/‘h’8"»
-age}     Gy 23 tgukgzgtijljh 1850edi  D fs' RE [ry Solangct LZ 5 gh
-andtur,   _, , 88.3. s , 8 6 HV03 Z1], lag 07n, tioofivép   .UL7C,5Y 5   BV:
-,s€,f; a·sg¤‘84*;¤§*.}’;{ g.,f_§jsdrV ;§7§i..· ¤$.*;,;.§.a¥;T;.t;,g¤¤Q.'f,§ $gj»;;L‘_;. {1..,,
-ééj  §,5;2’;’ 5V5e5g3V hu; Sgfgf g?t'i$ké0N‘8$*s'"¢;¤, 0. p,¤?;¤°· @*3 f·. "j~.L°=?w
-5V0I. lay <1y‘r; v,‘dé‘»c°; ilu4x 4OHd lih gu"?; Dsfgzlg Svge ’¤t°c; E r, van ‘¤g,,“w§
-0 _r 8.8ni» s (Wig: E so .PI?}4t’ jffabchl   v g h ; H[fd,; Exapzf [M Of"":
-S°*»"¤ ¤·‘8§h‘ 3* N" si’1x?‘ vm-wl. m5.°1.·¤#»· ’~· E~.www.· E
-B"‘¤¥=¤`* §'F °-ak! sS°‘¤.·°°k é¤R€°1?Si· ."’s”·>. as ‘ Sari ¥J·S'¤»· d c"; }· :°"
-C“i1’¤86 QF A Svsp ·;’ b QN * ply'. · °¤ $2 edawil} ¤;o.5 °% PVWOH h s,,”r tos
-Llal €yL[S2 0pru'T0, Cas J   y lu Asms; O {Jan.? d v wrfalg 7L'   m a;
-Nehrk , .s8va;.€e .kvre r_ li, ams, .   T’ 810 _; _] },. éq   Bw0e n
-$»‘\;‘:’ gh.; €·‘§$ g 1.'¤‘ ES$"}·As‘¤}84'€Z"’f v€V2»P“°·"; {{Zf’;j. rH $°¤d¢Z’;f gm.??
-¤g'·»··.·%· C~"»· ew»»*i"5s=1>°iJ¤"¤"¤.'»=¢"··.°.’ ké R M w’mZ¤·‘*yi··,§”»· ¤.·
-$(35); $$6; A%f;V'Tc$"l;$';5;£é€,1/.éK§f§41§8:pvmh¢véIgM°§;t?%i;cE;‘,tti g;;:; 
-G°lsght?§;Jss;”:f’e,  dii‘;”I8?'l251;8g* r3» gpsés ld)- ?'1¥br°aVd11iH ¤Fm81h¤f"a°7”
-H¢7v _8v€y     8 hh!, Zxis fg;} O,/_I Ku S   m V0·Ic'84S 0a·n f ®y 1 L   acfcd
-I8all¢,,u0_, T ,];rOg;'¢h_ ara { Sgvné ts`; 8;,5;. &; C, 25, n Ci J L ect.; ina`, er
-M7; S5] F hg Le TA, ffjzf   su 2°·°¤ ?‘d°; 1€Yo.¤. · Ig Q V J; V'",,$'¢e”7 10} °ls$
-Stgcgyghakyjcjas · Rzaé Mei; tk_Q1g1k, {dig?. S S évg I ,8nié1_<>1slie€{h;,,; V? Oygoé
-Eg   A gs IpCp Ej:u t 0 QZ_?; gg 6   6 €dC( ·, ur _     htI8• 8 S ngri EH Dj
-[,74 °¤ tspeqg * sph! §:rg· e S'a866 ‘ U':8 W  '“ ‘t’ 2* sig V¤ an €z·‘s dal}'.
-“ ZW'; “¥’$· ffié r$¥¢$¤ ·»°s·’§‘¤"»"*i · Zv$6.°‘?1”-a €;?;€¤ véuiigcd }E‘¤“2>"’·
-‘ S30 iS 3*;; ¢{Tcd¤_6,'; §69i¤e;,'I$Ig6. é,"'.;?: $la;__8(,N°, 3, *j§éljqE;S_'¢§ g· vF;;’=g(Q”
-¤8-LS. 7,;;,; j:g·m’y* gmsé ms. ‘é6,1'.·»» A " 3;* V0 ·»,¤ ‘mf,¢=§¤¤f §1s‘~..#*§
-B u°.;,w. V . vn; 8L.w¤’» ##r.,~.¤f’· ‘¤é ¤. V, Eh *é M rk ·»· 8 . ·s¤
-gigrggff ? g;rtt;'g°,a?J. $‘;’;‘f’g;QdX} efggfsw céfglajéég.-‘g!;'a§ :n’;Yj,I8;"E
-L   ';$§$¤{gfY°*§§&f?J;$°; {9%,iF j  §§£g§f$Z.;“Ié?g;?=$;’;3éZ*’{?»?€$
-' °;,d ”r€llfd2’ 1 cElZ’h87wi  TR 3 olnx gg8h2V qld ·3i¢·°‘g lfé YQ I v —,87l ,;"¢l”;t
-X G SS$“"dP1§*,88;m;, ii; g- ge *3_0‘}‘§0HV0; `?1SSc};€u¢ <£•gett Mzvisgghggg. {sia}
-  ¥i8Ki J5; [$l‘$"J8S,£‘.¤ "Z°$*h‘SuéR ¤a¤?1Ki€A8$s¤${'¤.“S£rgN*‘rV¤{i£8vF3· §<;1”·
-éigoij   fil}, P  ;$6 g’3?;'§f;  ]p?¤?S {IQ ?rt?;°’§§r;kg75°S 0g7g5I
-é’J¢§h;°-V8. °; gl ai 3<>.‘ gn 7.§8;*,"» .I‘i1·¤i·P's -5. gcnégv am; "o’.8V» g§
-_ ;.1$’F ,Pl a es J H. ge I 7 Ig af ‘€t‘u'q74_. ,7—’S°; W Co.
-m` MS; ,,°»· Bucyjysy ao; . S/” z· g as 74 §bl= S @15 FFF és · H C,,· S *s·
-, drag OEIPQS $1:;;; gw Féllglds. g·I?¢4i1;Sp;’0_, 8.»A_e1.C_ as gg15S;,;;: eyxwmmj C·
-‘ €<>1"*;.B*6 P“*¥.i °k€”a88‘dJVM“¤Y." ··s·'4°Y°·W"uWS**r’l* "· l;"”¢."»°‘¤J~“'é
-~ Z1_ aosn 61. _ EH; ke? r gem- Fu']; 18tOMEarfs. , liuvo ang . mslly
-L s·cg4,S·¢1c;§0hsf'¤,,g ,·;;L,p;[$el;V  7¤,a_ ggailak , ar; gg; <gzI;I_ e?,;; g g»’8V0,,v<;V:
-. Czsgnésy §gC}_6i;é¤§·aH?1.S'i:;$ikrg;"I{empt';da. Fjgnsvg ézyggqd ubG_°h:ge;0¥,;§g8{.
-· war}, 4tC;, 8Q,·€nZ$, DM fl Sp .¤<1,QG?f';Jon¤a‘w’ 18 {6.,1* ?¤'hg$_". t » ’LHS·j
-T ·8?.;¤{°{»$;“g¤;3288*; $;Q‘%»»§,,f‘;{,*i. ;;$§5,·g°bA4’V§¤Zg?i%6,;`{ ,§,...”.;¤§€§uGns, é’·
-` EV?.?- ‘*ra“¤{‘~aR*`3é¥ E8?]!? {W4 *8%**3;.5"»Z·¥m°l**yMi"§’~T¤€P“'¥7·6 0}** °‘?.‘3i$g;
-7 V0 *e8C·’8' {ina 'I Rsm*' *7* gs 4 am G d S sl ans p‘ aP ‘n’it· MB·  
-T ¥?; { §: $3*3 ?,Z;T§MaFjiVhEyff¤¢,·,“}.’j{f‘,é,§$01jy§Ag§g?"¢‘$;; g°gf,~Zf¤; ié,§·¤,,·
-; §_(gnévF_"6E vyoj   g0;ni$l,°g€;8§8;’0E NQ1iné¢§l¤,“rl§Lg87§1‘;‘,‘é?rs‘, {#2
-’ Auf .·*sQ; rdng egln ry,h0*. ¤1, . -113;,5. *éJ_¤¤ e,; Gs8N.;, , 1<v(,¤,;· .**7 v
-  S' 56 M ° G isla de' D“k”’e" I ’ML‘  "§’g° F SF i' H1??; _§1 %"f"71’ 1g6s8S'
-Z 8  A'? %¥ThB1P’ s W °wur; SPS ”glé dg': 4**21; is  d 4 H s€  .(u3°s  8 °’· 69**5*
-, A"¤_. {1 to e ?.·.d.’»NWdc· ‘8"d·8v¤/4; wk; -' AS;" g· BSS 0A .   V0?"/gte ·
-Hd, HBad9On n eslly. n 189314:5 O_n ur I $18 . La] V .S 0f8V. Js ’e
-C Mi5g».,V_}°¤f€·’s{;£¤i;1$~.;;,S·25333 gv;} R?-;a3ss8`(.é%g, g¤”¢$];;   §§E;¤b§.j’» A5!
-SVEH 1),10- Sg"S 0. MC ., tD"g43. Od V; s,Bn 7 · 5 J S Dig Suda Ig, Isné
-gf: j’f’L¤'§’ $,jpffI%T ”n,°f¤.i ¤’8¤gqI.i[{.Y$   j.°}>;g*?,8b NSF} gN,f‘¢§4` G “n2mN£°
-_'Fi .Ke 06 Sen?. Tse} SB S]. g w y$ I E lrsdipo; gc . 8_ tc télg- C. If; e;
-3 ?;$° 1.°?{’€s8.}· §°$” '}.;6j,¤éZJ,§ €9;gi1-,i¥ ‘8F:lg‘»°;é'” Gfe})§°Q· 5V€é $¢ }¤?’£·
-°¤wZ'if‘¢5*,)· °¢ §5i S fa y b;" .."»§‘· ·§¤.El#» ‘¤"¤§8;. 6*88 ME- ha 5.8% Q.?
-’ lettenC'{esV;9O . JE-,‘ s5g’ 3,9 ag sa; VVOP, gqimaup, ;,’v,d8_WS:aeR‘:e SV. S ·
-* “’· £¤"jée2’ZZ; s;.,E§’.;¥?d‘§‘»‘§1· F ‘£¥. g.“—>%*‘€; gx?.v§~?V<»'¥· g§§€‘»“°§?·if1“€:
-i 13  °F°; 108  ‘r · Hg`)  ” ’ rv<$ V$°sA"¤"¤MvF   MW Hérw "%h’“§’>:
-uu _ S..5> ¤;,8.·r8v¤é I; I my ;· ,48% ; LRF n· mV. . ~.,·T"¢ sti.
-’ A0';  s   3 ' F Id 8°9yP°¥’C$°69° 5» ` diver o · §?$]ae’a' B drlev-° `T°¢;jr
-9 §g{§'_{yFu"¤.i  E°?Qg?l;'g¢,§;§né£¤3S§.v.;_E‘},·;}J1  s¤HQ§`j;ZI{Z9n_;{";»,§Zg.§`°§.*7
-; §’Wg(;,i;, ih.? Wo °1{§h gg ;i_(§;§15“;?g0€Vg_‘g.@é };’vxf;;“S]é$}§4§‘+LQQ.?§§>v;I
-E C S · veils; Iu5tE rk  ¤ 0j W!, 7 · »¥.&kT  F  #l c  lE ·  ’ gn! tu, 8S; M93 
-y ADMWIO   gpnd S g Clnvam ·R,\V   ,   (li   vudyr
-’ Cu wwe s’ }‘s *1* V;" S  E»“r1*’¤‘*o°J°‘€.‘¤ · L r‘g§¤.S W-§°¤%‘~°¢ ’¤§·
-’ ;,}’7F¤’ {ss, 3 fct 5* e ep gl ylJ“;“),B°i°7 <> .,K·* Qi r s>’ Sv <¤;,¤sW*
-  I8·   £     (I ala!         1S;O;;§ g  
-i §·€°."¤z“!°?'~.¤.” "<iuU“.E¤,st ° p  %“r§¤¤‘“ gx"4’ “’y'¤Z;e‘6§ W- $@1+
-QW *58:% S;Qh ,;£dl?{ ;Z?1°a  II;} · h‘y U"? Pla·?°73hXj’1{},,:[ 0}. gl;" ,:02
-%: R37 ·  Itt ‘l2<>’ 18¢ 7é lg? gvzm F  > 63. Lq¤dysI9cQ 8 r ale {6, sm: 8V":;
-e)·H88 ,79 D.96 8 ’f a8V¤e· ang.,
-0,,,,,-14 ga.,-8;: ,, 5 V. c ·ct.Gf o.m1¢,,t,, V-
-Ha, .*‘¤5 t hx vg. gijolz gW¤ I  · u, 'mocg 8.} (ga gh t00n1g 0}
-uk;Th§8'1§! · v‘¤ *¤.v h‘   ith ¤ -*1;* 0-· 1;$r’ sjé °s’
-mlegncog `Qa.93 Bccocgn OWU; ger tes) D vf Ego.; C fignsi (Brig
-t· aHaeqg_I1€ QI1D01C0n1MB`; gszu; H use .,” g QF ga-. I ng;
-nd", 00,*,, aah.;,,.. ’ ¥.m`]’d<;\,
-4f7S_ ;gJx{lcé86‘;s°?;'»ni°¥g1fm;¤dVCI;fE °I°‘D‘E83b§';;,
-p‘;}3§’?0?  Qg°}f.gVS:; Hf?  Ojleoagc My . &’(}“2{;.";
-ix; Igzfd   s       Ufuuf   Ori
-70.*} ry (·v pf 7 l11I8m . ’
-%‘;e;q?°T) 'P“  ;§t?e§6;77 m§;st iie  
-79*'1n4t* Qnfd V : d . f_;d8v’a L./dal
-’· ie?} de i i$5*E· ,§¤8°» ==3; %= ; Hm
-pt‘s€g’L, }6¤J°hO·   ’ 4·· - gg Fnza
-s· as t;(1°§”é‘>}zK·;¤‘>£;?%.j€ghé;;'
-wmv nf = .I _. 0:
-’ F? §v‘??.;f'*E*z€?.§?.$5i$?
-' é»{.· °**6°."¤;.L§’="f¥y$.5
-Pi SL Jtgn sch;
-  II! 07 S
-tm TQ .,5% .»5
-·5~. .2 wc
-am, Oannéf
-ml bxm  
-unc,:;
-zdaj
-bf
-
-### END: ED4A824_1.tif.txt ###
-
-### START: ED4A825_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A825.TIF 
-
-svmsmart snfzware — http://www.sv¤nsm¤n.¤¤m
-besten Urtheile uber Hamlet, Quedl., 18o8, 8vo; A. G. Barante, Sur Hamlet, 1824,
-8vo; P. Macdonuell, Essay an Hamlet, 1843, Svc; Sir E. Strachey, S.’s Hamlet, IBAS,
-8vo; H. K. S. Causton, Essay on Mr Singe/s Wvrmwaad, 1851, 8vo; L. Noiré,
-Hamlet, zwci Vurtnige, Mainz, 1856, 16mo; M. W. Rooney, Hamlet, First Edition
-(1603,), 1856, 8vo; S.’s Hamlet, 1603 and 1604, with Bibliographical Preéacc, by S.
-Timmins, 1860, 8vo; A. Gerth, Der Hamlet v. S., Leip., 1861, 8vo; _]. _ onolly, A
-Study af Hamlet, 1863, sm. 8vo; H. v. Friesen, Brie/e itb. S.’s Hamlet, L?f)Zlg, 1865,
-8vo; A. Flir, Briefe ub. S.’s Hamlet, Innsbruck, 1865, 8vo;   D. Wood, amletfram
-a Psychological Paint uf View, 1870, 8vo; R. H. Home (editor), Was Hamlet Madéf a
-Series of Critiques, 1871, 8vo; G. F. Stcdefeld, Hamlet ein Tendenzdrama Berlin,
-1871, 8vo; A. Meadows, Hamlet: an Essay, 1871, Svo; R. G. Latham, The Hamlet af
-Saxo Grammaticus and S., 1872, 8vo; F. A. Marshall, Study bf Hamlet, 1875, 8vo;
-H. v. Struve, Hamlet eine Charakterstudie, Weimar, 1876,_8v0; H. Baumgurt, Die
-Hamlet Tragbdie u. ihre Kritik, Kénigsb., 1877, 8vo; A. Zmzcw, Die Hamlet Sage,
-Halle, 1877, 8vo; A. Bilchner, Hamlet le Danais, 1878, 8vo; M. Moltke, S.’s Hamlet
-Quellen, 1881, 8vo; E. P. Vining, The Mystery of Hamlet, Philad., 1881, sm. 8vo
-[Hamlet a woman]; H. Besser, Zur Hamlet Frage, 1882, 8vo; E. Stenger, Der Hamlet
-Charakler, 1883, 8vo; A. Breretou, Same Famous Hamlets, 1884, Svc; N. R.
-d’Alfonso, La Persanalitb di Amleta, 1894, 8vo; H. Conrad, S.’s Selbstbekenntnisse,
-1897, 8vo; E. Hcuse, Zur Ltisung des Hamlet-Problems, 1897, Svo; G. S. Preston,
-The Secret uf Hamlet, 1897, 8vo; A. Doesing, Hamlet, ein neuer Versuch, 1898, 8vo;
-H. Traut, Die Hamlet-Cuntrmrerse, 1898, 8vo; F. Gregori, Das Schajen des Schau-
-ifielers, 1899, 8vo; C. W. Scott, Same Notable Hamlets af the Present Day, 1900, 8vo;
-. Ford, S.’s Hamlet, IQOO, 8vo; M. E. Evans, The Ghost in Hamlet, 19¤2, 8vo; A.
-H Tulmau, The Views about Hamlet, 1906, 8vo; C. M. Lewis, The Genesis of
-Hamlet 1907, 8vo; R. Limberger, Palonius, 19c8,·8v0; A. Wurm, S.’s Hamlet, 1908,
-8vo;   Pfleiderer, Hamlet u. Ophelia, 1908, 8vo; A. V. Wcilen, Hamlet auf der
-deutschen Buhne, 1908, 8vo; S. M. Perlmann, Eine neue Hamlet-Aujassung, 1909,
-Svc. Henry IV. (Pt. i.. Q.1, 1598; Q.2, 1599; Q.3, 1604; Q.4, 1608; 3.5, 1613; gsi,
-1622; Q7 1632; Q.8, 1639. Pt. ii.: Q. 1 and Q.2, 1600): E. A. Struve, tudim zu .’s
-Henry IV., Kiel, 1851, 4to. Henry V. (Q.1, 1600; Q.2, 1602; Q.3, 1608 [1619]): G. A.
-Schmediug, Essays an S.’s Henry V., 1874, 8vo; P. Kabel, Die Sage van Heinrich V.,
-1908, 8vo. Henry VI. (Pt. i. 1st ed. in F.1. Pt. ii. rst ed. in F.1. Contentivn, &c.:
-8.1, 1594; gz, 1600; Q.5 [1619]. Pt. iii. 15t cd. in F. 1. Richard nf Yorke: Q.1, 1595;
-.2, 16oo; .3, [1619]): E. Malone, Dissertation an Henry VI., 1792, 8vo; G. L. Rivcs,
-Authorship of Henry VI., 1874, 8vo; C. Schmidt, M. 11. Anjou var und bei S., 1906,
-8vo. Henry VIII. (1st ed. in F.1): T. E. Pemberton, Henry VIII. onthe Stage, 1902,
-8vo. Julius Caesar (rst ed. in F.1): G. L. Craik, The English af S. Illustrated, 3rd
-cd. 1864, sm. 8vo; H. Gomont, Le César de S., 1874, 8vo; M. G. Moberly, Hints for
-S. Study exemplihed in Julius Caesar, 1881, 8vo; P. Trabaud, Etude sur le Jules César
-de S. etde Voltaire, 1889, 8vo; P. Kreutzberg, Brutus in S.’s Julius Caesar, 1894, 4to;
-F. von Westcnholz, Idee u. Charahtere in S.’s Julius Caesar, 1897, 8vo. King John
-(1st authentic ed. in F.1. Troublesame Raigne, spurious_: Q.1, 1591; Q.2, 1611;
-Q.3,16zz). King Lear (Q.1, 16o8;Q.2,_16o8 [K61Q]] Q.3, 1655): {C._]’ennens],King Lear
-vindicated, 1772, Svc; H. Neumann, Uber Lear u. Ophelia, Breslau, 1866, 8vo; J. R.
-Seeley; W. Young and E. A. Hart, Three Essays an Lear, ISSI, 8vo, Beaufoy Prize
-Essays; Dr Hirschfeld, K. Lear im Lichte drztlicher Wiss., 1882 8vo; F. G. F. Verdi,
-Re Lear, lettere, 1902, 8vo· E. Bode, Die Lear-Sage, IQO4, 8vo. T.ovc's Lub0ur’s Lost
-(Q.1, 1598; Q.2, :631). ilacbeth (rst ed. in F.1):jlDr S. Johnson] Miscellaneous
-Observations on Macbeth, I74§, 12mo; J. P. Kemble, acbeth and Richard III., ISI7,
-8vo; C. W. Opmomer, Aanleekeningen up Macbeth, Amst., 1854, 8vo· G. Sexton,
-Psychology of Macbeth, 1869, 8vo; J. G. Ritter, Beitrdge zur Erkl. des Macbeth, Leer,
-1871, zpts. 4to; V. Kaiser, Macbeth und Lady Macbeth, Basel, 1875, 8vo; E. R.
-Russell, The True Macbeth, 1875, 8vo; T. Hall Caine, Richard III. and Macbeth,
-1877, 8vo; A. Horst, Kiinig Macbeth, eine schattische Sage, Bremen, 1876, 16me;
-M. Zcrbst. Die dramat. Technik dex Macbeth, 1888, 8vo; F. Kaim, S.’s Macbeth, eine
-Studie. 1888, 8vo; J. C. Carr, Macbeth and Lady Macbeth, 1889, 8vo; G. Fletcher,
-Character Studies in Macbeth, :889,_8vo; E. Kroeger, Die Sage von Macbeth, 1904,
-8vo. Measure for Measure (rst ed. m F.1):   O. 1-Ia1liwell—Phillipps, Memoranda an
-Measure far Measure, 1880, 1zmo· A. E. Thiseltou, Same Textual Notes, 1901, 8vo.
-Merchant of Venice (Q.1, 1600; Qjz, 1600 [1619]; Q.3, 1637; Q.4, 1652): G. Farren,
-Essay an S/zylvck, 1833, 8vo; F. . Hugo, Commentary an the Merchant of Venice,
-translated 1865, 8vo; H. Graetz, Shylack in d. Sage, 1880, Svo; A. Pietscher, Versuch
-einer Studie ub. S.’s Kaufmann ·n. V., 1881, 8vo; C. H. C. Plath, S.': Kaufmann v.
-V., 1882, 8vo; H. Heinemann, Shylqck und Nathan, 1886, 8vo; A. Manzi, L’Ebre0 e la
-libbra di came, 1896, Svc; O. Burmeistcr, Nachdichtungen, IQQ2, 8vo. Merry Wives of
-Windsor (Q.1, 1602; Q.2, 1619; Q.3, 1630): J. O. Halliwell-Philhpps, Account af the only
-known M5. ufS`.s Ptays,1843,8v0. Midsummer Night'; Dream (Q.1, 1600; Q.2, 1600
-[1619]):N. J. Halpin, Oberon': Vision and Lylie’sEndymian (Shakespeare Society), 1843,
-8vo; J. O. Halliwell-Phillipps, Introduction I0 S.’s Midsummer lVight’s Dream, 1841,
-8vo, and Illustrations ofthe Fairy Mythology nf Midsummer Night': Dream (Shakesp.
-Soc.), 1845, 8vo; the same with J. Ritson, Fairy Tales, Legends, and Romances, ed.
-Hazlitt, 1875, 8vo; E. Hermann, Drei S. Studien, Erlangen, I877·Q, 4 pts. sm. 8vo;
-L. E. A. Pmescholdt, On the Sources of S.’s Midsummer Nighfs Dream, 1878, Svc;
-A. E. Tbisclton, Same Textual Notes, IQO3, 8vo; F. Sidgwick, Sources and Analagues,
-1908, 8vo. Much Ado About Nothing (Q.1, 1600): . W. Lloyd, Much Ada, &•c.,
-with essay, 1884, Svc, to prove reputed prose to be metrical; F. Holleck-Weithmann,
-Zur Quellenfrage von Much ada, érc., 1902, 8vo. Othello (Q.1, 16zz;1$.2, 1630;
-8.3, 1655): W. Parr, The Story of the Mmrr of Venice, 1795, 8vo; R. G. acgregor,
-thell0’s Character, 1852, 8vo; J. E. Taylor, The Mnar of Venice, Cinthiu’s Tale and
-S.’s Tragedy, 1855, 8vo; G. Piccini, L'Otell0 di G. S., 1888, 8vo; W. Given,
-Further Study of Othello, N.Y. 1899, 8vo; W. R. Turnbull, Othello, 1892, 8vo;
-S. Bobsin, S.’s Othello in englischer Buhnenbearbeitung, IQO4 8vo. Pericles (Q.1, 2,
-1609; Q.3, 161 1; Q.4, 1619; Q.5, Q.6, 1630; Q.7, 1635): R. Boyle, On Wilkins’s Shure in
-Pericles, 1882, 8vo; A. H. Smyth, Pericles aud Apullvnius uf Tyre, 1898, 8vo. Rich-
-ard H. (Q.1, Q.2, 1597; Q.3, 1598; Q.4, Q.5, 1608; Q.6, 1615; Q.7, 1654): Riechel-
-mann, Zu Richard II. S. u. Holinshed, Plauen, I860, 8vo; B Tschischwitz, S.': Staat
-und Kiinigihum, 1866, 8vo; T. D. Barnett, Notes on Richard II., 1890, 8vo; E. W.
-Sievcrs, S.’s zweiter mittelalterlicher Dramen-Cyklus, 1896, 8vo. Richard IH. (Q.1,
-rsa1; Q.2, rs<>8; Q-s. ¤6¤=:_Q·4. ¤6¤s: Q.s. ¤6r¤; Q6. 1622: Q.7, ¤6z¤; 0.8. r6s4>=
-M. Beale, Lecture an the Times and Play of Richard lll., 1844, 8vo; I. F, Schoene,
-Uber den Charakter Richard III., bei S., 1856, 8vo; L. Moser, Observations an S.’s
-Richard III., Hertford, 1869, 8vo; H. Mueller, Grundlegung und Entwiclzelung des
-Charakters Richards III. bei S., 1889, 8vo; G. B. Churchill, Richard III. up ta S.,
-Berlin, 1900, 8vo; J. Petersen, Richard III., ein Vvrtrag, 1901, 8vo; A. Lcschtsch,
-Richard III., eine Charakterstudie, 1908, 8vo. Romeo and Juliet (Q.1, 1597; Q.2,
-ISQQ; Q.3, 1609; Q4. 11.:1.; Q.5, 1637): J. C. Walker, Historical Memoir on Italian
-Tragedy, 1799, 4to; G. Pace Sanfelice, The Original Story of Romeo and Juliet, by
-L. da Parts, 1868, 8vo; T. Straetcr, Die Kompasition S.’s Romeo u. Julia, Bonn, 1861,
-8vo; C. R. E. Hartmann, Romeo u. Julia, Leipzig, 1874, 8vo, a critical essay; M. F.
-Guenther, Defence of S.’s Romeo and Juliet, 1876, 8vo; R. .Gericke, Romeo u. Julia
-nach S.’s MS., 1880, 8vo; J. L. Fraenkel, Stef- u. Quellenkunde van Romeo u. Juliet,
-1889, 8vo. Taming of the Shrew (rst ed. in F.1): A. H. Tclman, S.’s part in the
-Taming ofthe Shrew (Modem Lang. Ass. of Am.), 1890, 8vo; H. Jacobson, W. S.
-und Kdthchen Minnla, 1903, 8vo; E. H. Schomberg, Eine Studie (Stud. zur engl.
-Phil.). 1904. 8vo. Tempest (lS[ ed. in F.1): J. Holt, Remarks an The Tempest, 1750,
-8vo; E. Malone, Incidents from which S.’s Tempest was derived, 1808-9, 2 pts. 8vo;
-G. Chalmers, Another Account, 5:*c., 1815, 8vo; Rev. _]. Hunter, Disquisitivn on The
-Tempest, 1859, 8vo; P. Macdonnell, Essay an the Tempest, I840, 8vo; Notes of
-Studies an The Taming uf the Shrew, S. Society of Philadelphia, 1866, 4to, with
-bibliography of The Tempest; J. Meissner. Untersuchungen ub. S.’s Sturm, Dessau,
-1872, 8vo; D. Wilson, Caliban, the Missing Link, 1873, 8vo; C. C. Hense, Das
-Antike in S.’s Dramen: D. Sturm, 1879, 8vo; F. Boas, Der Sturm und das Winter-
-mdrchen, 1882, 8vo; R. Boyle, S.': Wintermiirchen u. Sturm, 1885, Svc; P- Rodin,
-S.’s Sturm, 1893. 8vo. Timon 0fAtheus(1st. ed. in F.1): A. Mueller, Uber die
-
-### END: ED4A825_0.tif.txt ###
-
-### START: ED4A825_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A825.TIF 
-
-T
-LSPEA RE 795
-Quellen aus denen S. den Timon o. Athen enlnommen hat, Jena, 1873, 8vo; A. E.
-Thiselton, Two Passages, 1904, 8vo. Titus Andronicus (Q.1, 1594; Q.2, 1600; %_;,
-1611): M. M. A. Schroeder, Uber Titus Andronicus, 1891, 8vo; J. M. Robertson, id
-S. write T. A.? 1905, 8vo. Troilus and Cressida (Q.r, Q.2, 1609): Annotations by S.
-Johnson, G. Steevensffrc., upon Troilus and Cressida, 1787 12mo; L. Boening, De
-S. fabula quae Troilus et Cressida inscribitur, 1870, 8vo;   O. Halliwell-Phillipps,
-Memoranda, 1880, 12mO. Twelfth Night, The Two Gentlemen of Verona, and
-The Winter sTale (all three irst printed in F.1): C. H. Coote, On S.’s new map in
-Twelfth Night, 1878, 8vo.
-Sonnets (Q.1, 1609): J. Boaden, On the Sonnets of S., 1837, 8vo; C. A. Brown,
-S.’s Autobiographical Poems, 1838, 8vo; I. Donnelly, The Sonnets of S., 1859, 8vo;
-Dr Barnstorl}, Key to S.’s Sonnets, translated, 1862, 8vo; B. Corney, The Sonnets
-of S., 1862, 8vo; [E. A. Hitchcock], Remarks on the Sonnets of S., N.Y., 1865,
-12mo; R. Simpson, Introduction to the Philosophy of S.’s Sonnets, 1868, 8vo; H.
-Brown, The Sonnets of S. solved, 1870, 8vo; C. M. Ingleby The Soule arrayed,
-Sonnet cxlvi., 1872, 8vo; G. Massey, The Secret Drama of S.’s Sonnets unfolded,
-2nd cd. 1872, riv. pr. 1888, 8vo; Baron E. von Dunckelmann, S. in seinen Sonetlen,
-1897, 8v9· F. ]l?Furnivall, S. and Mary Fitton, 1897, 8vo; S. Butler, S.’s Sonnets, XSQQ,
-8vo; O. Wilde, The Portrait of Mr. W. H., 1901, 8vo; J. L. O'F1anagan, S's Self-
-Revelation, 1902, 8vo; E. A. Jackson, Consideration ot S.’s Sonnets, 1904, 8vo; A. B.
-MacMahan, S.’s Love Story, 1909, 8vo. Venus Adonis (Q.1, 1595; Q.2, 1594;
-sm.8vo, 1596,1599,1600(?), 1602, 1617, 1620,1627, 1630, 1636; 8vo, 1675):A. Morgan,
-Venus and Adonis, Study in Warwickshire Dialect, N.Y., ISSS, 4th ed. 1900, 8vo.
-Lucrece (Q.1, 1594;sm.8vo,1598,160o,1607,1616,1624, 1632,1655):A.Wuerzner, Die
-Orthographie der ersten Quarto-Ausgabe von Venus u. Adonis und Lucrece,1887, 8vo.
-Passionate Pilg1·im(16mo, 1599; 2nd ed. not known; 3rd cd. 16mo, 1612): A. Hoehnen,
-S.’s Passionate Pilgrim, 1867, 8vo, dissertation.
-Falstaifz C. Morris, True Standard of Wit, with Character of Sir J. Falstaj, 1744,
-8vo; W. Richardson, Essays on Character of Sir J. Falstaj, 1788, 8vo; M. Morgan,
-Essay on Sir J. Falstaj, 1777, new edition 1825, 8vo, vindicates his coura e; J. H,
-Hackett, Falstajf, 1840, 8vo; J. O. Halliwell-Phillipps, On the Characker of Falstajf
-in Henry IV., 1841, 8vo; E. Schneller, Don Quixote und Falstajf, Ber n, 1858, 8vo;
-G. W. Rusden, Character of Falstaj, Melbourne, 1870, 8vo; G. Barone, D’un antenalo
-italiano di Falstaj, 189 , 8vo; C. E. Phelps, Falstaf and Equity, 1901, 8vo; W.
-Baeske, Oldcastle-Falsta} in der engl. Literatur bis zu S., 1905, 8vo. Female Char-
-acters: W. Richardson, On S.’s Female Characters, fsrc., 1788, Svo; A. M. Jameson,
-Characteristics of Women, 1832, 2 vols., 12mo, illustrated; S': Heroines, 1879, sm. 8vo,
-same book; C. Heath, The Heroines of S., 1848, large 4tO, illustrated, and The S.
-Gallery, containing the Princzal Female Characters, 1836, large 8vo, plates reproduced
-in H. L. Palmer’s Stranord allery, N.Y., 1859, large 8vo; M. C. Clarke, Gtrlhood of
-S.’s Heroines, 1850-2, 3 vols. 8vo; H. Heine, Englische Fragmente und S.’s Madehen
-und Frauen, Hamburg 1861, sm. 8vo, S.’s Maidens and Women, transl. by C. G.
-Leland, 1891, 8vo; F.   Leo, S.’s Frauenideale, Halle, 1868, 8vo; F. M. von Boden-
-stedt, S.’s Frauencharaktere, and ed., Berlin, 1876, 8vo; M. Summer, Les Héroines de
-Kalidasa et les Héroines de S., 1879, sm. 8vo; R. Genée,Klassische Franenbilder, 1884,
-8vo; Lady Martin, On Some of S.’s Female Characters, 1885, 8vo; Mrs M. L. Elliott,
-S.’s Gardenof Girls, 1885, 8vo; L. Lewes, The Women of S., érc., 1894, 8vo; G.
-Cosentino, Le donne di S., 1906, 8vo; Baron A. von Gleichen—Russwurm, S. ’s Frauen·
-gestalten, 1909, 8vo. Humour: J. Weiss, Wit, Humour and S., Boston, 1876, 161:10;
-J. R. Ehrlich, Der Humor S.’s, Vienna, 1878, 8vo; L. Wurth, Das Wortspiel bei S.,
-1894, 8vo; E. Dowden, S. as a Comic Dramatist, 1903, 8vo. .
-V. LANGUAGE, INCLUDING GRAMMARS AND GLOSSARIES
-T. Edwards, Supplement to Mr Warburton’s Edition, being the Canon: of Criticism
-and Glossary. 1748, 8vo, 7th ed. 1765; R. Warner, Letter on a Glossary to S., 1768,
-8vo; R. Nares,Glossary,1822,4to,by Halliwell and Wright, 1888, 8vo; J. M. J0st,Erkl.
-Wiirterbuch, Berlin, 1830, sm. 8vo; C. L. W. Francke Bemerkungen uber d. S rachge-
-brauch des S., Berlin, 1837, 8vo; J. O. Halliwell—Philiip}>s, Dictionary of Arcliaic and
-Provincial Words, 1846-47, 2 vols. 8vo, and Hand·Book ndex to the Works, 1866, 8vo,
-phrases, manners, &c.; J. L. Hilgers, Sind nicht in S. noch manche Verse wiederher-
-zustellen in Prosa? Aix-la·Chapelle, 1852, 4to; N. Delius, S. Lexikon, Bonn, 1852,
-8vo; W. S. Walker, S.’s Versijication, 1854, 8vo, and Examination of the Textof S.,
-with Remarks on his Language, 1860, 3 vols. 8vo; C. Bathurst, S.’s Versijication at
-dijferent Periods, 1857, sm. 8vo; S. Jervis, Dictionary of the Language of S., 1868, 4to;
-G. Helmes, The English Adjective in S., Bremen, 1868, 8vo; A. J. Ellis, On Early
-English Pronunciation, 1869-75, 4 vols. 8vo; W. L. Rushton, S.’s Eughuism, 1871,
-8vo; D. Rohde, Das Hnlfszeitwort "To do" bei S., Gottingen, 1872, 8vo; . A. Abbott,
-Shakespearian Grammar, 1873, 1901, sm. 8vo; A. Schmidt, S. Lexikon, 1874,
-third ed. by G. Sarrazin, Berlin, 1902, 2 vols., large 8vo, in English, includes all words,
-phrases and constructions; K. Seitz, Die Alliteratiorr im Engl. vor u. bei S., 1875, 4to;
-F. PfeHer, Die Anredepronomina bei S., 1877, 8vo; P. A. Bronisch, Das neulrole
-Possessivpronom bei S., 1878, 8vo; O. W. F. Lohmann, Die Auslossung des Relativ-
-gronomens, Erc., 1879, 8vo; A. Dyce, Glossary, revised by H. Littledale, 1902, 8vo; C.
-eutschbein, S. Grammatik f. Deutsche, 1882, 8vo; A. Lummert, Dre Orthographie
-der erslen Folioausgabe, 1883, 8vo; C. Mackay, Obscure Words and Phrases in S.,
-1884, 8vo; G. H. Browne, S.’s Versification, Boston, 1884, 12mo, includes bibliography;
-L. Kellner, Zur Syntax des engl. erbums, Vienna, 1885, 8vo; J. H. Siddons, Shake-
-apearian Referee, Washington, 1886, 8vo, encyclopaedic glossary; H. M. Selby, The S.
-lassical Dict., 1888, 8vo; S. F. Surtees, S.’s Provincialisms, Words used m Sussex,
-1889, sm. 8vo; H. Conrad, M etrische Untersuch. zur Feststellung der Abfassungszeil
-von S.’s Dramen, Berlin, 1895, 8vo; E. Hermann, Urheberschaft u. Urquell o. S.’s
-Dichtungen, 1886, 8vo; G. Koenig, Der Vers in S.’s Dramen, 1888, 8vo; J. Marx, Der
-dichlerische Entwickelungsgang S., 1895, 8vo; W. Franz, S. Grammalik, Halle, 1900,
-2nd ed. 1909, 8vo; B. A. P. van Dam, S. : Prosody and Text, 1900, 8vo; J. Phin, S.
-Encyclopaedia, 1902, sm. 8vo; S. Lanier, S. and his Forerunners, 1902, 2 vols. 8vo
-(Elizabethan poet!')'); W. Vietor, S.’s Pronunciation, Marburg, 1906, 2 vols. sm.
-8vo; J. Foster, A S. Word~book, 1908, 8vo; R. J. Cunlide, New S.ean Dict. IQIO, 8vo.
-VI. QUOTATIONS
-C. Gildon, Shakespeariana, in his Complete Art of Poetry, I7I8, I2mO, the 6fSt ofthe
-class;DrW.Dodd, The Beauties of $.,1752, zvols. 12mo, reprinted (in various forms)
-more frequently than any similar work; The Beauties of S. (G. Kearsley), 1784, 12mo,
-not the same as D0dd's Beauties; C. Lodt, Aphorismsfrom S., 1812, 12mo; T. Dolby,
-The Shakespearian Dictionary, 1832, 8vo, and A Thousand Shakespearian Mottoes,
-1856, 32mo; T. Price, The Wisdom and Genius of S., 1838, 12mo; Mrs M. C. Clarke,
-S. Proverbs, 1847, sm. 8vo, reprinted; J. B. Marsh,_Familiar, Prouerbial, and Select
-Sayings from S., 1864, 8vo; E. Routledge, Quotations from S., 1867, 8vo; C. W. ·
-Stearns, The S. Treasury, N.Y., 1869, 12mo; Capt. A: F. P. Harcourt, The S. Argosy,
-1874, sm. 8vo; G. S. Bellamy, New Shakespearian Dictionary, 1877, 8vo; A. A. Morgan,
-The Mind of S., 1880, 8vo, quotations in alphabetical order; C. Arnold, Index to Shake-
-spearian Thought, 1880, 8vo.
-VII. CONCOEANCES Am: INDEXES
-A. Becket, Concordance, 1787, 8vo, the earliest; S. Ayscough, Index, 1790, large 8vo.
-2nd ed. enlarged, 1827, useful; F. Twiss; Complete Verbal Index, 1805 2 vols. 8vo; M.
-Cowden Clarke, Complete Concordance, 1844, new ed. 1889, 8vo, deals only with the
-
-### END: ED4A825_1.tif.txt ###
-
-### START: ED4A826_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A826.TIF 
-
-spmsmart software — http://www.sv¤nsm¤n.r¤m
-plays; Mrs H. H. Furness, Concordance to Poems, Philadelphia, 1874, 8vo, completinl
-M rs C. Clarke’s; C. and M. C. Clarke, The S. Key, 1879, Svc, companion to the Con
-cordance; J. Bartlett, The S. Phrase Book, 1881, 8vo; W. H. D. Adams, Concordanr
-to Plays. 1886, 8vo; E. M. O‘Connor, An Index to the Work oj S., N.Y., 1887, 8vo
-J. Bartlett, New and Complete Concordance, 1894, 4lO, the best; M. Edwardes
-Pocket Lexicon and Concordance to Temple S., 1909, 12mo.
-VIII P1z01zAB1.1·: Souxcns "
-Mrs C. Lennox, S. Illustrated, 1 753-54, 3 vols. 12mo, dedication by Johnson, many 0
-thc observations also said to be by him; T Hawkins, The Origin af the English Drama
-1773, 3 vols. 8vo; J. Nichols, The Six Old Plays on which S. founded Measure fol
-Measure, érc., 1779, 2 vols, 12mo; S. W. Singer, S.’s ./est Book, 1814-15, 2 pts. 8vo
-T. Echtermeyer, L. Hcnschel, and K. Simrock, Quellen des S., Berlin, 1831, 3 vols
-16mo; L. Tieck, S.’s Vorschule, Leipzig, 1823**29, 2 vols. 8vo; J. P, Collier, S.’s Library
-[1843), 2 vols, 8vo. 2nd ed. [by W. C. Hazlitt] 1875, 6 vols. 8vo; W. C. Hazlitt, S.’s Jes
-Books, 1864, 3 vols. 8vo; W. W. Skeat, S.’s Plutarch, 1875, 8vo; F. A. Leo, Foul
-Chap/ers of Nor!/1’s Ptutarch, 1878, folio; R. Simpson, The School of S, 1878, 2 vols
-8vo; P. Stapfer, S. et t'antiquité, 1879-1882, 2 pts. 8vo, transl. 1880; E. Viles and F. J
-Furnivull, The Rogues and Vagabonds of S.’s Youth, 1880, 8vo; J. J. Jusserand, Ll
-Roman du temps de S., 1887, sm. 8vo, transl. 1890, 8vo; B. Graefe, D. Commedia al:
-Quellen f. S. u. Gothe, 1896, 8vo; J. W. White, Our English Homer, 1892, 8vo; W. G
-Bo~well Stone, S.’s Holinshed, 1896, 4to; R. K. Root, Classical Mythology in S.
-N.Y., 1903, 8vo; H. R. D. Anders, S.’s Books, on S.’s Reading and Immediate Sources
-Berlin, IQOA, 8vo; C. F. Tucker Brooke, S.’s Plutarch, 1909, 2 vols. sm. 8vo; W
-Thcohald, Classical Element in S.’s Plays, 1909, 8vo; W. M. MacCullum, S.’s Roman
-Plays. 1910, 8vo; The S. Classics, 1908, &c. and S.’s England, 1908, &c. (I. Gollancz
-S. Library). .
-IX. Spccrlu. Kuowrraocn
-Angling: H. N. Ellacombe, S. as an Angler, 1883, 8vo. Bible: T. R. Eaton, -S.
-and the Bible, 1858, 8vo; J. Brown, Bible Truths with Shakespearian Parallels, 3rd
-ed. 1372, 8vo; J. Recs, S. and the Bible, Phil., 1876, sm. 8vo; Bp. C. Wordsworth,
-S.’s Knowledge and Use of the Bible, 1864, 8vo; C. Bullock, S.’s Debt to the Bible,
-1879, 8vo; W. H. Malcolm, S, and Holy Writ, 1881, 8vo; G. Q. Colton, S. and the
-Bible, N.Y., 1888,8vo; C. Ellis, S. and the Bible, 1897, sm. 8vo, 3rd ed. with
-title, The Christ in S., 1902, sm. 8vo; W. Burgess, The Bible in S., 1903, 8vo.
-Botany: J. E. Giraud, Flowers of S., 1847, 4tO, plates; S. Beisly, S.’s Garden, 1864,
-8vo; H. N. Ellacombe, Plant—lore and Garden-craft of S., 2d ed. 1884, sm. 8vo; L. H.
-Grindon, S.’s Flora, 1883. 4to; L. Holmesworth, S.’s Garden, 1903, 8vo; J. H. Bloom,
-S.’s Garden, 1903. 8vo. Emblems: H. Green, S. and the Emblem Writers, 1870, 4[O.
-Folk—lore and Use of Supernatural: W. Bell, S.’s Puck and his Folksglore,
-1852-64, 3 vols. sin. 8vo; W. J. Thoms, "The Folk—lore of Shakespeare," in Three
-Notelets. 1865, 8vo, reprinted from Athenaeum, 1847; B. Tschischwitz, Nachklillige
-Germanischer Mythe in S., Halle, 1868, 8vo; [W. C. Hazlitt, editor], Fairy Tales,
-Legends, and Romances illustrating S., érc., 1875, 8vo; T. F. T. Dyer, Folk»lore of
-S., 1884, 8vo; T. A. Spalding, Elizabethan Demonology, 1880, 8vo; A, Nutt,
-Fairy Mythology of S., 1900, 8vo; J. P. S. R. Gibson, S.’s Use of the
-Supernatural, 1907, 8vo; M. Lucy, S. and the Supernatural, 1906, 8vo; H. H.
-Stewart, The Supernatural in S., 1908, 8vo; J. E. Poritzky, S.’s Hexen, 1909,
-8vo. Leaming: P. Whalley, Enquiry into the Learning of S., 1748, 8vo; R.
-Farmer. Essay on the Learning of S., 1767, 8vo, reprinted in the variorum (1821) and
-other editions, criticized by W. Maginn, see S. Papers, annotated by S. Mackenzie,
-N.Y.. 1856, sm. 8vo; [K. Prescotl, Essay on the Learning of S., 1774, 4to; E. Capell,
-The School of S., 1780, 4tO (vol. iii. of his Notes and Various Readings to S., 1779-83,
-3 vols. 4to); sce also PROBABLE Somzcns (above). Legal: W. L. Rushton, S. a Lawyer,
-1858, 8vo, S.’s Legal Maxims, 1859, 8vo, new ed. 1907, S.’s Testamentary Language,
-1869, 8vo, and S. illustrated by the Lex Scripta, 1870, 8vo; Lord Campbell, S.’s Legal
-Acquirements, 1859, 8vo; H. T., Was S. a Lawyer? 1871, 8vo; J. Kohler, S. vor
-dem Forum der Jurisprudenz, und Nachwort, 1883-8.1, 2 pts. 8vo; F. F. Heard, S. as a
-Lawyer. Boston, 1884, 16mo; C. K. Davis, The Law in S., St Paul, U.S., 1884, 8vo;
-W. C. Devecmon, In re S.’s Legal Acquirements, N.Y., 1890. sm. 8vo. Medicine:
-G. Farren, Essays on Mania exhibited in Hamlet, Ophelia, érc., 1833, 8vo; J. C.
-Bucknill, The Medical Knowledge of S., I86_O, 8vo, and The Mad Folk of S., 1867, sm.
-8vo; C. W. Stearns, S.’s Medical Knowledge, N.Y., 1865, sm. 8vo; G. Cless, Medicinische
-Btumeulese aus S., Stuttgart, 1865. 8vo; A. O, Kellogg, S.’s Delineations of Insanity,
-Erc., N.Y., 1866, 16mo; H. R. Aubcrt, S. als Mediciner, Rostock, 1873, 8vo, J. P.
-Chesney, S. as a Physician, St Louis, 1884, 8vo; B. R. Field, Medical Thoughts of S.,
-2nd ed., Easton, U.S., 1885, 8vo; J. Moyes, Medicine and Kindred Arts in the Plays of
-S , 1896, 8vo; H. Lahr, Die Darstellung Krankhajter Geisteszustande in S.’s Dramen,
-Stuttgart, 1898, 8vo. Military: W. J. Thoms, "Was S. ever a Soldier?" in his
-Three Notelets, 1865, 8vo. Natural History: R. Patterson, Insects mentioned in
-S.’s Plays, 1838, 8vo; J. H. Fenncll, S. Cyclopoedia, 1862, 8vo, pt. i. Zoology, Man (all
-published); J. E. Harting, Ornithology of S., 1871, 8vo; C. R. Smith, The Rural Li/e
-of S., 1874, 8vo; J. Walter, S.’s Home and Rural Life, 1874, 4tO, illustrated; B.
-Mayou, Natural History of S., 1877, 8vo, quotations; E. Phipson, Animal Lore of S.’s
-Time. 1883, srn. 8vo; W. H. Seager, Natural History in S.’s Time, 1896, 8vo;
-E. O. von Lippmann, Naturwiss. aus S., 1902, 8vo. Philosoplgyz W. J. Birch,
-Philosophy and Religion of S., 1848, sm. 8vo; V. Knauer, W. ., der Philosoph,
-Innsbruck. 1879, 8vo. Printing: W. Blades, S. and Typography, 1872, 8vo.
-Psychology: J. C. Bucknill, The Psychology of S., 1859, 8vo; E. Onimus, .La
-Psychologie dans les Drames de S., 1876, 8vo; Biauté, Etude m/dico-psychologique
-sur S. et ses oeuvres, 1889, 8vo. Sea: J. Schuemann, See u. Seefahrt in S.’s Dramen,
-1876. 4to; W. B. Whall, S.’s Sea Terms explained, 1910, 8vo. Sports: D. H. Madden,
-Diary of Master William Silence, 1897, new ed. 1907, 8vo; W. L, Rushton, S. an
-Archer, 1897, 8vo.
-X. PERIODICALS
-S. Museum, edited by M. L. Moltke, Leipzig, 23fd April 1870 to 23rd February 1874,
-20 Nos. (all published); Shakespeariana, 1883, &c., sm. 8vo; New Shakespeareana
-(NM. Shakespeare Soc.), 1902, &c. From the commencement of Notes and Queries in
-1856, a special Shakespeare department (see Indexes) has been carried on.
-XI. SHAKESPEARE SOCIETIES Arm THEIR PUBLICATIONS
-Proceedings of the Shefeld S. Club (1819-29), 1829,8vo; Shakespeare Society (I84I)
-various publications, 1841-53, 48 vols. 8vo; New Shakspere Society, Transactions and
-other publications, reprints of quartos, Sac., 1874, &c.,8vo; Deutsche S. Gesellschaft
-. (1864), Jahrbuch, Weimar, 1865, Src., in progress. The S. Society of New York
-(1885) has published the Bankside S. (1888-92), 2O vols., and Bankside Restoration S.
-(1907. Src.), underthe editorship of]. A. Morgan, its first President, and hasissued other
-publications. The S. Societies of Philadelphia, Birmingham and Clifton may also be
-mentioned.
-XII. Music
-W. Linley, S.’s Dramatic Songs, n.d., 2 vols. folio; The S. Album, or Warwick-
-shire Garland (C. Lonsdale), 1862, folio; G. G. Gervinus, Handel u. S., Leipzig, 1868,
-8vo; H. Lavoix, Les Traducteurs de S. en musique, 1869, 8vo; A. Rode, Handbook of
-S. Music, 1878, 4tOZ List of Songs and Passages set to Music (N.S. Soc.), 1884, 8vo; E.
-
-### END: ED4A826_0.tif.txt ###
-
-### START: ED4A826_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A826.TIF 
-
- 
-LSPEARE
-g W. Naylor, S. and Music, 1896; W. K. White, Index to the Songs, &°c., in S. whizi
-- have been set to Music, 1900. 8vo; L. C. Elson, S. in Music, 1901, 8vo; H. J. Conrat,
-e La Musica in S., 1903, 8vo. See also the musical works of J. Addison, T. A. Arne. C.
-; H. Berlioz, Sir H. R. Bishop, C. Dibdin, W. Linley, M. Locke, G. A. Macfarren, F.
-i, Mendelssohn-Bartholdy, H, Purcell, Sir A. Sullivan, G. Verdi, &c.
-XIII. Prcrorzmr. I1.1usr1<A.r1oNs
-C. Taylor, Picturesque Beauties of S., after Smirke, Stothard, &c., 1783-87, 2_ vols.
-f 4to; W. H. Bunbury, Series of Prints illustrative of S., 1792*96, oblong folio; S.
-, Harding, S. illustrated, 1793, 4to; S. Ireland, Picturesque Scenes upon the Avon, 1795,
-r 8vo; J. and J. Boydell, Collection of Prints from Pictures illustrating the Dramatic
-; Works of S., 1802-3, 2 vols. atlas folio, roc plates, forms supplement to Boydell’s
-. edition; reproduced by photography, 1864, 4tO, reduced, and edited by J. P. Norris,
-v Philadelphia, 1874, 4to; S. Portfolio, I82I*·2§), roy. 8vo; Stotlward, Illustrations of S.,
-t 1826, 8vo; F. A. M. Retzsch, Gallerie zu S.’s dramat. Werken in Umrissen, Leipzig,
-r 1828-46, 8 vols. obl. 4to; J. Thurston, Illustrations of S., 1830, 8vo; F. Howard, The
-. Spirit of the Plays of S., 1833, 5 vols. 8vo; L. S. Ruhl, Skizzen zu S.'s dram. Werken,
-. Frankfort, 1827-31, Cassel, 1838-40, 6 vols. oblong folio; G. F. Sargent, S. illustrated
-e in a Series of Landscape and Architectural Designs. 1842, 8vo, reproduced as The
-s Book of S. Gems, 1846, 8vo; A. Pichot, Galerie dev personnages de S, 1844, 4to; J.
-. Tyrrel, Cat. of an Extensive Collection of Prints illustrative of W. S., 1850, 8vo; W.
-, v. Kaulbach, S. Gallerie, Berlin, 1857-58, 3 pts. folio; P. Konewka, Ein Sommernachts-
-, traum, Heidelb., 1868, 4tO, and Falstaf u. seine Gesellen, Strasburg, 1872, 8vo; E.
-. Dowden,S. Scenes andCharacters, 1876, 4tO, illustrations from A.F. Pecht’s S. Gallerie,
-t Leipzig, 1876, 4to; J. O. Halliwell Phillipps, Hand List of Drawings and Engravings
-, illustrative of the Life of S., [884, 8vo; W. E. Henley, The Graphic Gallery of S.’s
-Heroines, 1888, folio; R. L. Boocke, S.ian Costumes, 1889, 8vo; R. Dudley and others,
-S. Pictures. 1896, 8vo; M. Miller, S.ean Costumes (characters of each play).
-XIV. BIOGRAPHY
-l A.—General Works.
-` N. Rowe, The Life of Mr WS.,I743, 8vo, the first separate life; N. Drake,
-  S. and his Times, 1817, 2 vols. 4to; J. Britton, Remarks on the Life and
-I Writings of S., revised edition, 1818, sm. 8vo; A. Skottowe, Life of S.,
-1824, 2 vols. 8vo; J. P. Collier, New Facts, 1835, 8vo [see XIX. Payne-Collier Controv.]
-' and Traditionary Anecdotes of S. collected in 1673, 1838, 8vo; T. Campbell,Life and
-' Writings of W. S., 1838, 8vo; C. Knight, S., a Biography, 1843, 8vo, reprinted in
-Studies, 1850, 2 vols. 8vo; J. O. Halliwell-Phillipps, The Life of W S., 1848, 8vo, S.
-' Facsimiles, 1863, folio, Illustrations of the Life of S., 1874, folio, and Outlines of the
-` Life of S., 1881, 8vo, 6th ed. 1886, 2 vols. 8vo; F. P. G. Guizot, S. et son temps, 1852,
-  8vo, translated into English, 1852, 8vo; G. M. Tweddell, S., his Times and Contem-
-. poraries, 1852, 12mo, 2nd ed. 1861-63, unfinished: W. W. Lloyd, Essays on Life and
-Plays of S., 1858, 8vo; S. Neil, S., a Critical Biography, 1861, 8vo; T. De Quincey,
-· S., a Biography, 1864, 8vo; T. Kenny, Life and Genius of S., 1864, 8vo; W. Bekk,
-W. S., eine biogr. Studie, Munich, 1864, sm. 8vo; S. W. Fullom, The History of W.
-, S., 2nd ed. 1864, 8vo; Victor M. Hugo, WS., 1364, 8vo, translated into Dutch, German
-and English; H. G. Bohn, Biography and Bibliograph of S. (Philobiblon Soc., 1863),
-8vo, illustrations; J. Jordan, Original Collections on   and Stratford, 1780, edited by
-J. O. Halliwell Phillipps, 1864, 4to: J. A. Heraud, S.’s Inner Life as intimated in his
-Works, 1865, 8vo; R. G. White, Memoirs of the Life of W. S., Boston, 1865, 8vo;
-S. A. Allibone, Biography of S. (in Dictionary, vol. 2, 1870); H. N. Hudson, S.:_his
-Life, Art, and Characters, Boston, 1872, 4th ed. 1883, 2 vols. rzmo; R. Genée, S., sein
-Leben u. s. Werke, Hildburghausen, 1872, 8vo; F. K. Elze, W. S. Halle, 1876, large
-8vo, transl. 1888; G. H. Calvert, S.: A Biographic, Aesthetic Study, Boston, 1879,
-16mo; W. Tegg, S. and his Contemporaries, 1879, 8vo; W. Henty, S., with some
-Notes on his early Biography, 1882, sm. 8vo; E. Hermann, Ergdnzungen u. Berichti—
-gungen der hergebrachten S. Biograph., Erl., 1884, 2 vols. 8vo;F. G. Fleay, Chronicle
-History of the Life and Work of W. S., 1886, 8vo; R. Waters, W. S. portrayed by
-himself, 1888, 8vo (as in character of Prince Henry); W. J. Rolfe, S. the Boy, 1897,
-sm. 8vo; Sidney Lee, Life of W. S., 1898,6th ed. 1908, 8vo, illustrated ed. 1899, large
-8vo; Goldwin Smith, S. the Man, Toronto, 1899. 8vo; G. Duval, La Vie veridique de
-S, znded. 1900, sm. 8vo; D.H. Lambert, Cartae S.ianae, S. documents, 1904, sm.8vo;
-W. J. Rolfe, Life of W. S., 1904, 8vo, illustrated; W. C. Hazlitt, S., the Man and
-his Work, 3rd ed., 1908, 8vo; Frank Harris, The Man S. and his Tragic Life Story,
-1909, 8vo; E. Law, S. as Groom of the Chamber, 1910, sm. 8vo. ·
-B.—Special Works.
-Autograph: Sir F. Madden, Autograph and Orthography of S., 1837, 4to; S.’s
-Autograph, copied and enlarged by J. Harris, &c. (Rodd), 1843; J. O. Halliwell
-Phillip s, S.’s Will, 1851, 4to; H. Staunton, Memorials of S. Photographed, 1864,
-folio;   H. Friswell, Photogr. Reprod. of S.’s Will, 1864, 4to;]. Toulmin Sn1ith,S.
-Autographs, 1864, 4to; F. J. Furnivall, On S.’s Signatures, 1895, 8vo; A. Hall, S.’s
-Handwriting further illustrated, 1899, 8vo; Birthday: B. Corney, Argument on the
-Assumed Birthday, 1864, 8vo. Bones: C. M. Ingleby, S.’s Bones, 1883, sm. 4to; W.
-Hall, S.’s Grave, Notes of Traditions, 1884, 8vo. Crab Tree: C. F. Green, Legend of
-S.’s Crab Tree, 1857, 4lO, illustrated. Deer Stealing: C. H. Bracobridge, S. no Deer
-Stealer, 1862, 8vo, illustrated. Genealogy and Family: J. Jordan, Pedigree of the
-Family of S., 1796, in vol. iii. of R. Ryan’s Dramatic Table Talk, 1825-30, 3vols. 8vo;
-Memoirs of the Families of S. and Hart, 1790, ed. Halliwell, 1865, 4to; G. R. French,
-Shakspeareana Genealogica, 1869, 8vo; J. O. Halliwell Phillipps, Entries respecting S.,
-his Family and Connexions, 1864, 4to; C. C. Stopes, Sfs Warwickshire Contemporaries,
-1897, new ed. 1907, 8vo, and Family, with an Account of the Ardens, 1901, 8vo; C. I.
-Elton, W. S., His Family and Friends, 1904, 8vo; J. W. Gray, S.’s Marriage, etc.,
-1905, 8vo. Ghost-Belief: A. Roffe, The Ghost Belief of S., 1851, 8vo. For S.’s use of
-the supernatural see IX. Seacmr. Kwowtcpoiz (Folk-lore, etc.). Name: J. O. Halliwell
-Phillipps, New Lamps or Old? ISSO, 8vo, advocates "Shakespeare"; J. Winsor, Was
-S. Shapleigh? Boston, U.S., 1981, 8vo; W. H. Edwards, Shaksper not S., 1900, 8vo;
-].L.Haney,TheNameof W. S., 1906, 8vo. Occupation: See IX. SPECIAL Kuowtrznoa,
-above. Religion: F. Fritzart, War S. ein Christ? Heidelberg, 1832, 8vo; W. J.
-Birch, Philosophy and Religion of S., 1848, sm. 8vo, thinks himasceptic; E. Vehse,S.
-als Protestant, Politiker, Psycholog, u. Dichter, Hamburg, 1851, 2 vols. sm. 8vo; J. J.
-Reitmann, Uber S.’s religiose u. ethische Bedeutung, St Gall, 1853, 12mo; A. F.
-Rio, S. 1864, 8vo (5. Roman Catholic); W. Koenig, S. als Dichter, Weltweissr, u.
-· Christ. Leipzig, 1873, 8vo; A. Gilman, S.’s Morals, N.Y., I880, 8vo; J. M. Raich,
-S.’s Stellung zur Kathol. Religion, 1884, 8vo; J. M. Robertson, The Religion of S.,
-1887, 8vo; W. Kloeti, S. als religioser Dichter, Berlin, 1890, 8vo; G. W.Baynham,
-Swedenborg and S., 1894, 8vo; J. Carter, S., Puriten and Recusant, 1897, sm. 8vo;
-S. Boswin, The Religion of S., 1899, 8vo; H. S. Bowden, The Religion of S., chiefly
-from the Writings of R. Simpson, 1899, sm. 8vo; J. Countermine, The Religious Belief
-gf S., 1906, 8vo. Stratford-upon—Avo11: R. B. Whelcr, History and Antiquitiesoj
-tratford, 1806, 8vo, Account of the Birthplace, new edition, 1863, 8vo, and Collectanea,
-1865, 4to; F. W. Fairholt, The Home of S., 1847, 8vo, engravings reproduce-] in S.
-Neil’s Home of S., 1871, 8vo; J. O. Halliwell Phillipps, New Boke about S. and
-Stratford, 1850, 4tO, Brief Hand List of the Borough Records, 1862, 8vo, Descriptive
-Calendar, 1863, folio, Brief Guide to the Gardens, 1863, 8vo, Historical Account of the
-New Place, 1864, folio illustrated, and Stratford in the Times ofthe S.’s, 1864, folio;
-E. Lees, Stratford as connected with S., 1854, 8vo; J. R. Wise, S., his Birthplace and
-its Neighbourhood, 1861, 8v,o; J. C. M. Bellew, S.’s Home at New Place, 1863, sm.
-8vo, illustrated, with pedigrees; R. E. Hunter, S. and Stradord, 1864, 8vo; J. M.
-
-### END: ED4A826_1.tif.txt ###
-
-### START: ED4A827_0.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A827.TIF 
-
-spmsmart software — http://www.sv¤nsm¤n.r¤m
-Jephson, S., his Birthplace, Home, and Grave, 1864, 4to, illustrated; J. Walter, S.'
-Home and Rural Life, 1874, 4to, illustrative of localities; C. M. Ingleby, S. and th
-Welcombe Enclosures, 1883, folio· S. Lee, Stratford-on-Avon, 1884, folio, illustrate:
-1907, 8vo; T. Greene, S. and Enclosure of Common Fields at Weleombe, 1885, 4to; J. I
-Williams, The Home and Paunts of S., 1892, folio; C. J. Ribton Turner, S.’s Lani
-1893, sm. 8vo; R. C. A. Windle, S.'s Country, 1899, 8vo; W. S. Brassington, S:
-Homeland, 1903, 8vo; Marie Corelli, The Plain Truth of the Stratford—on·Avo
-Controversy, 1903, 8vo, birthplace; S. Lee, The Alleged Vandalism, 1903, 8vo; (E
-Morley, Sweet Avon, 1906, 8vo.
-XV. Pokrrmrrs ‘
-G. Steevens, Proposals for Publishing the Felton Portrait, 1794, 8vo; J. Britton
-On the Monumental Bust, 1816, 8vo; J. Boaden, Authenticity of Various Picture
-ond Prints ojered as Portraits of S., 1824, 4to; A. Wivell, The Monumental Bust
-1827, 8vo, and Inquiry into the S. Portraits, 1840, 8vo; H. Rodd, The Chanda
-Portrait (1849}, 8vo; R. H. Forster, Remarks on the Chandos Portrait, 1849, 8vo; J
-P. Collier, Dissertation upon the Imputed Portraits, 1851, 8vo; C. Wright, Th
-Stratford Portrait of S., 1861, 8vo; J. H. Friswell, Life Portraits of W. S., 1864, 8vo
-Sir G. Scharf, On the Principal Portraits of S., 1864, 12mo; E. T. Craig, S. and hi
-Portraits, Bust, and Monument, 2nd ed. 1864 and 1886, 8vo, and S.’s Portraits phreno
-logically considered, Philadelphia, 1875, 8vo; G. Harrison, The Stratford Bust
-Brooklyn. 1865, 4to; W. Page, Study of S.’s Portraits, 1876, sm. 4to; J. P. Norris
-Bibliography of Works on the Portraits of S., Philadelphia, 1879, 8vo, 44 titles, Th
-Death Mask of S., 1884, and The Portraits of S., Phil., 1885, 4CO, with bibliography
-of 1 1 1 references and illustrations; Anzédée Pichot, " S., avec lesgsortraits authentiques,’
-Revue Britannique, Paris, 1888; Edwin Bormann, Der . Dichter: wer war',
-und wie sah er aus, Leipzig, 1902 (Baconian); A. A. Bekk. Des Dichters Bild
-Berlin, 1902, 8vo; John Corbin, A New Portrait of S. (the "Ely Palace"), 1903, 8vo
-C. C. Stopes, True Story ofthe Stratford Bust, 1904, 8vo; M. H. Spielmann,_ Th
-Portraits of S.. 1907, 8vo. An elaborate account by A. M. Knapp of the portraits 11
-the Barton collection, Boston Public Library, may be found in the S. Catalogue, 1880
-largc 8vo. For medals and tokens, see E. Hawkins (ed. A. W. Franks and H. A
-Grueber), Medallic Hist. oj Great Britain, Brit. Mus., 1885; for tokens, James Atkin'1
-Tradesmerfs Tokens af the 18th Century, 1892.
-XVI. Lrremny AND Dmmrrc Hrsromv
-E. Malone, Historical Account of the English Stage, 1790, enlarged in Boswell':
-edition, 1821; J. P. Collier, History of English Dramatic Poetry, 1831, new ed. 1879
-3 vols. 8vo, Memoirs of Edw. Alleyne (Shakespeare Society), 1841, 8vo, Tho Alleynr
-Papers (Shakespeare Society), 1843, 8vo [see G. F. Warner‘s catalogue ofthe Dulwicl
-MSS., 1881, 8vo], and Memoirs ofthe Principal Actors in the Plays of S. (Shakespearr
-Society), 1846, 8vo; N. J. Halpin, The Dramatic Unities of S., 1849, 8vo, ed. by C. M
-Ingleby (N.S. Soc., series i., 1875-76); N. Delius, Uber das englische Theaterweser
-zu S.’s Zeit, Bremen, 1853, 8vo, A. J. F. Mezieres, Prédecesseurs et contemporains de
-S., 1863, new ed. 1905, sm. 8vo, and Contemporains et successeurs de S., 3rd ed. 1881,
-Rev. W. R. Arrowsmith, S.'s Editors and Commentators, 1865, 8vo; W. Kelly, Notice:
-of the Drama and Popular Amusements of the 16th and 17th Centuries, 1865, 8vo; C.
-M. Ingleby, Traces of the Authorship of the Works attributed to S.; 1868, 8vo, S.’s
-Centurie of Prayse, culled from Writers of the First Century after his Rise, 1874, 4to
-(enlarged by Miss Toulrnin Smith for NS. Soc., 1879), and S. Allusion Book, 1874,
-re-ed. by J. Munro, 1909, 2 vols. 8vo; H. I. Ruggles, The Method of S. as an Artist,
-N.Y., 1870, 8vo; A. H. Paget, S.’s Plays, a Chapter of Stage History, 1875, 8vo; H.
-Ulrici, S.'s Dramatic Art, translated by L. D. Schmitz, 1876, 2vols. Svc; H. P.
-Stokes, The Chronological Order of S.’s Plays, 1878, 8vo; K. Knortz, S. in Amerika,
-Berlin, 1882, Svc; C. Muerer, Synchronist. Zusammenstellung der wichtigsten Notizen
-ub. S.’s Leben u. Werlze, 1882, 4to; J. A. Symonds, S.’s Predecessors in the English
-Drama, 1884, new ed. 1900, 8vo; A. R. Frey, S. and the alleged Spanish Prototypes,
-N.Y., 1886, sm. 4to; F. G. Fleay, A Chronicle History ofthe London Stage 1559-164.2,
-1890, 8vo, and Biographical Chronicle of the English Drama, 1891, 2 vols. 8vo; F. J.
-Furnivall, Some 300 Fresh Allusions to S. 1594-1694, 1886, la. 8vo; C. T. Gaedertz, Zur
-Kentniss d. altengl. Buhne, Bremen, 1888, 8vo; E. Walden, S.ian Criticism, from
-Dryden to end of 18th Century. 1895, 8vo; C. E. L. Wingate, S.’s Heroine: on the
-Stage, 1805. Svo; F. S. Boas, S. and his Predeccssors, 1896, sm. 8vo; H. Schwab, Das
-Sc/iauspiet im Schauspiel zur Zeit S.’s,Vienna, 1896, 8vo; A. Brandl, Quellen des
-weltlic/ren Dramas in England var S., Strassburg, 1898, 8vo; T. R. Lounsbury, S.ean
-Wars, N.Y., 1902, 8vo, and The First Editors of S., 1906,8vo, P0 e and Thcobald;
-F. E. Schelling, The English Chronicle Play, 1902, 8vo; G. Schiavello, La Fama dello
-S. nel 18 sec., 1003, 8vo; D. N. Smith, Eighteenth-Century Essays on S., 1903, 8vo;
-C. Brodmeir, Die S.-Biihne, Weimar, 1904, 8vo; C. Gaehde, D. Garrick als S. Dar-
-stcl/er. 1004, 8vo; C. E. Hughes, The Praise of S., 1904, 8vo; A. H. Woolf, S. and the
-Old Southwark Playhouscs, 1903, 8vo; P. Henslowe, Diary (1593-1608), ed. W. W.
-Greg, 1904-8, 2 vols. la. 8vo; Henslowe Papers (1546-1662), ed. W. W. Greg,
-1907, la. 8vo; S. Lee, S. and the Modern Stage, 1906, 8vo; L. L. Schnecking,
-S. in lit. Urteil seiner Zeit, 1908, 8vo; W. Raleigh, Johnson on S., 1908, sm. 8vo;
-W. L. Rushton, S. and the Arte of English Poesie, 1909, sm. 8vo.
-Germany: S.’s Schauspiele erlautert von F. Horn, Leipzig, 1823-31, 5 vols. 8vo;
-E. A. Hagen, S.’s erstes Erscheinen auf den Buhnen Deutschlands, Konigs., 1832,8vo;
-K. Assman, S. und seine deutschen Ubersetzer, Liegnitz, 1843, 4to; N. Delius, Die
-Sc/ilegel—Tiecksche S. Ubersetz., Bonn., 1846, 12mo; C. Fize, Die englische Sprache in
-Deutschland, Dresden, 1864, 12mO; F. A. T. Kreyssig, S. Cultus, Elbing, 1864, 8vo;
-L. G. Lemcke, S. in seinern Verhaltnisse zu Deutschland, Leipzig, 1864, 8vo; W. J.
-Thoms,_"S. in Germany," in Three Notelets, 1865, 8vo; A.·C0hn; S. in Germany in
-the 16th ond_ 17th Centuries, 1865, 4to; C. Humbert, Moliére, S., und d. deutsche
-Kritik, Leipzig, 1869, 8vo; W. Gchclhauser, Die Wiirdigung S.’s in Engl. u. Deutsch-
-land, 1869, 8vo; R. Gcnée, Geschichte d. S.'schen Dramen in Deutschland, Leipzig,
-1870, 8vo; M. Bernays, Zur Entstehungwgeschichte des schlegelschen S., Leipzig, 1872,
-8vo; R. J. Benedir, Die S.omanie, Stuttgart, 1873, 8vo; W. Wagner, S. und die
-ncueste Kritik, Hamburg, 1874, 8vo; J. Meissner, Die englischen Comodianrcn in
-Ostcrreich. Vienna, 1884, 8vo; E. Rossi, Studien uber S. u. das moderne Theater,
-Berlin, 1885, 8vo; Merschberger, Die Anfdnge S. auf d.· Hamburger Buhne, 1890, 4to;
-R. Wegener, S.'s Einhuss auf Goethe, 1890, Svo, and Die Buhneneinrichtung des S.
-Theaters, Halle, 1907, 8vo; H. Rauch, Lenz u. S., Berlin, I8Q2, 8vo; E. Koeppel,
-Studien uber S.`s Wirkung auf zeitgenoss. Dramatiker, 1905, 8vo; A. Boetlingk, S.
-und unsore Klassiker, IUQ, 8vo.
-France: H. Beyle, Racine et S. 1823-25, 2 pts. 8vo; J. B. M. A. Lacroix, Histoire
-de l‘in_/luence de S. sur le thedtrefrancais, Brussels, 1856, 8vo; W. Reymond, Corneille,
-S., ct Goethe, Berlin, 1864, 8vo; A. Schmidt, Voltaire': Verdienste urn die Einfuhrung
-S., 1864, 4to; C. Adolph, Voltaire et le theatre de S., 1883, 4to; P. Stapfer, Moliere
-et S., 1887, 4th ed. 1899, sm. 8vo; J. J. Jusserand, S. en France sous l'ancien regime,
-1889, 1898, 8vo; T. R. Lounsbury, S. and Voltaire, 1902, sm. 8vo.
-XVI I. Snaxaspmxe Jrmrrees
-Essay an the Jubilee at Stratford, 1769, 8vo; S.’s Garland, 1769, 8vo, second
-edition 1826, 8vo; Concise Account of Garrick’s Jubilee, 1769, and the Festivals of
-I827 and 18:30, {S30, 8vo; Descriptive Account of the Second Gala, 1830, 8vo; K. F.
-Gutckow, Eine   Feier an der Ilm, Leipzig, 1864, 8vo; P. H. A. Mobius, Die deutsche
-S. honor, Leipzig, 1864, 8vo; Tercentenary Celebration by the New England Historic-
-Genealogical Society at_Boston, 1864, 8vo; Ojicial Programme at the Tercentenary
-Festival at Stratford, with Life, Guide, &'c., 1864, 8vo; Proceedings of S.ian Enter-
-tainment at New Orleans, 1894, 4{O.
-
-### END: ED4A827_0.tif.txt ###
-
-### START: ED4A827_1.tif.txt ###
-#### Source: http://upload.wikimedia.org/wikipedia/commons/scans/EB1911_tiff/VOL24%20SAINTE-CLAIRE%20DEVILLE-SHUTTLE/ED4A827.TIF 
-
-'\
-LSPEARE 797
-'s XVIII. IRELAND Coumovnxsy V
-ze
-i, M ixczllzmcaus Papers and Legal I mlrumenls under the Hand and Seal nf W S.,
-,. 1195, imp. folio, 2nd ed. 1796, 8vo (W. H. Irelzmd’s forgcrics); Vartigem, an Hislmied
-l, Tragedy, 1796, sm. 8vo, 2nd ed. 1832, 8vo (forgery); E. Malone, Inquiry into the A when-
-’s ticity nf Certain Papers and Legal Instruments, 17g6, 8vo; W. H. Ireland, Authentic
-n Accuunl af the Sian MS.$., 1796, 8vo; S. Ireland, Investigation qf Mr Malone, 17g7,
-P. Svc; J. J', Eschcnburg, Uber den vargzblichen Fund S.scher Handschriften, Leipzig,
-1797, sm. 8vo; G. Chalmers, Apulngyfart/1c Believers in the S. Papers, Erm., 1797-18oo,
-3 pts. Svc; [G. Hardinge], Chalmeriana, 1800, 8vo; W. H. Ireland, Confessions, 18::5,
-sm. 8vo, new edition, with introduction by R. G. White, I874, xzmo.
-¤, · XIX. PAYNE Conmm Coumcvmsv
-*:
-t, ]. P. Collier, New Facts regarding the Life of S., 1835, Svc, New Particulars', 1836,
-s 8vo, Further Particulars, 1839, 8vo, Reasons fnr a new Edition of S.’s Works, I84I,
-`. 2nd ed. 1842, 8vo, and Notes and Emzndalizms tothe Text (S. Soc.), 1852, 2nd ed.
-e 135 , 8vo, translated into German by DrLe0, 1853, alsoin J. Frcsc’s Ergdnzungxbaml
-; zu gfx Dramen, :853, Svc; S. W. Singer, The Text uf S. vindicated, 1853, Svc
-s (ant*—C0llicr); ]. O. Halliwell Phillipps, Curiosities uf Modern Sian Criticism, 1853,
-- Svc (anti-Collier), Observations an the MS. Emendalivns, x853, Svc (zmti»Collier), and
-5, Observations an the Sian Forgcries at Bridgewater House, 1853, 4tO (anti—Col1ier);
-`, C. Knight, Old Lamps or New? 1853, 12m0 (pr0—COI1ier); Rev. A. Dycc, A Few Nate;
-e on S., 1853, 8vo; N. Dclius, Collier'; alle hamlschr. Emcndatianen, Bonn, 1853, 8vq
-y (anti-Collier); F. A. Leo, Die DeIiu:’xche Kritik, Berlin, 1853, Svc (pro-Collier); R.
-' G. White, S.’s Scholar, x854, 8vo (anti-Collier); J. T. Mommscu, Der Perkins S,
-y Berlin, 1854, 8vo (unti—C0llicr); A.E. Brae, Literary Cookery, 1855, 8vo (anti-Collier),
-, and Collier, Coleridge, and S., 1860, 8vo, disputes authenticity of following lectures; S.
-; T. Colcridgc, Seven Lecturcrnn S. and Milton, edited by J. P. Collier, 1856; Rev, A.
-z Dycc, Stricturzs on Mr Culliefs New Edition [1858), 1859, 8vo (anti·Col1ier); C. M.
-1 Ingleby, The S. Fabrications, x8;:). sm. 8vo, and Complete View of the S. Controversy,
-», 186I, with bibliography (anti-Collier); N. E. S, A. Hamilton, Inquiry ima the Genuinc·
-. ness ofthe MS. Corrections, 1860, 4[O (anti-Collier); COIlicr’s Reply to Hamilton, 1860,
-s 8vo; Sir T. D. Hardy, Review nf the Present Stale uf the S. Controversy, 1860, 8vo;
-]. P. Collier, Trilogy: Conversations, 1874, 3 pts. 4to; H. B. Wheatley, Account of
-Life af J. P. Collier, 1884, 8vo.
-XX. S¤Ax1:s1>mAxs—BAc0N C0N·r1wv1a1zs1
-  -
-, ]. C. Hart, The Romance of Yachting, N.Y., 1848, 12mc, first work containing
-z doubt of S}: authorship; W. H. Smith, Was Bacon the Author of S.’s Plays? 1856,
-1 8vo,- extended as Bacon and S., 1857, rzmo (anti-S.); D. Bacon, The Philosophy of
-z the Plays of S. unfolded, 1857, 8vo (a.nti—S.); N. Holmes, Authorship af S., 1866, new
-. ed. 1886, 2 vols. 12mo (anti-S.); Ba.co¤’s Pramux, edited by Mrs H. Pctt, 1883, 8vo
-z (anti-S.); W. H. Wyman, Bibliography of the Bacon-S. Controversy, Cincinnati, 1884,
-z 8vo, zggentrics {cf which 117 pr0—S., 73 anti-,and6; unclassifncd), continued in S.iana,
-; x886, &c.; I. Donnelly, The Great Cryplugram, 1888, 2 vols. la,. Svc (a.nti»S.); Sir T.
-: Mm-tin,S. or Bacon 7 1888, sm. 8vo (pro-S,); J. A. Morgan, S. in Fact and Criticism,
-. N.Y., 1888, sm. 8vo; C. C. Stopcs, The Bacon-S. Question, 1888, 8vo; C. A. Lentzer,
-r Zur S.-Bacon Thearie,HaIlc, 1890, Svc; E, Bormann, The S. Secret, transl. 1895, 8vo;
-» L. Schipper, S. und dessen Gegnzr, Miinstcr, 1895, 8vo; C. Alten, Notes an ihe Bacon-
-, S. Question, Boston, 1900, Svc (pr0—S.); Lord Penzance (ed. M. H. Kinnear), The
-, Bacon-S. Controversy, 1902, 8vo; W. Willis, The S.-Baum Controversy, 1902, 8vo;
-, and The Banmian Mint, 1903, 8vo; G. G. Greenwood, The S. Problem Restated,
-, 1908, 8vo, and In rc S., Beeching 12. Greenwood, 1909, 8vo (anti-S.); H. C. Beechfng,
-, W. S., a Reply to Greenwood, 1908, 8vo (pro-S.); Sir E. Dumiug-Lawrence, Bacon is S.,
-` IQIO, 8vo. . —
-, XXI. BIBLIOGRAPHY
-F. Meres, Palladis Tamia: Witts Treasury, 15gS, umu, contains the earliest list of
-, S.’s works; E. Capel}, Cat. of S.iana, 1799, 8vo; J. Wilson, Shakespeari:ma,—-
-Catalogue 0/ all the Books, érc. relating to S., 1827, sm. 8vo; W. T. Lowndes, S. and
-I his Commentators, 183,1, 8vo, reprinted from thc Manual; J. O. Halliwell Phillipps,
-Shakespeariana: Catalogue of Early Edition:, Commentaries, Src., 1841, 8vo, Same
-Account njAntiq. Books, MSS., érc., illus!. af S., in his possession, x852, 4to, illustrated,
-Garland af S,iana, 1854, 4to, Early Editions 0f·S., 1857, Svc (notices of I4 carly
-quartos), Brief Hand List of Books, Era., illustrative af S., 1859, Svc, Skelelbn Hand
-List of the Early Quartos, I860, 8vo, Hand List of Sluzkespeariana, 1862, 8vo, Brief
-Hand List of Collections formed by R. B. Whaler, 1863, 4to, List of Works illustrative
-af S., 1867, 8vo, Catalogue of the S. Library and Museum at Stratford-on-Avon, 1868,
-8vo, Hand List af Early Editions, I867, 8vo, Catalogue of Warehouse Library, 1876,
-8vd, Brief Hand List of Selected Parcels, 1876, Catalogue of S. Study Books, 1876,
-8vo, Brief List af S. Rarities at Hollingbury Capse, 1886, 8vo; J. Moulin, Omlrek/em
-eener algemecnc Lileratuur over W. S., Kampen, 1g4S, 8vo (only part 2 published); S.
-Literalur in Deutschland, 1762·I85I, by P. H. Cassel, 1852, sm. 8vo; P. H. Sillig, Die
-S. Literatur bis Mitts 1854, vingefuhrt v. H. Ulrici, Leipzig, 1854, 8vo; L[cn¤x], S.’:
-Plays in Folin, 1861, 4[O, bibliographical notice; H. G. Bohn, Biography and Biblio-
-graphy afS.,PhiI0biblon Soc., 1863,sm. 8vo, bibliography with soma additions from his
-edition of Lowndes; ]'. R. Smith, S.iana, a Catalogue, 1864, Svc; Shakcspcareana:
-Verzeiclmiss, Vienna, 1864, 8vo; F. Thimm, Siam; from 1564. 2nd edition containing
-the literature to 1871, 187 2, Svc, continued in Transactions of N. S. Soc.; bibliographies
-of each play may bc found in H. H. Furness/s New Variorum edition, Philadelphia,
-18Z3, &c.; Catalogue of the S. Memorial Library at the Cambridge Free Public
-Li vary, 1881, nearly all presented by H. T. Hall; S. A. Allibonc, Shakespeare
-Bibliography (sec hisDicti0nary,v. 2, rS70),bz1scd0n Bohn with additional Americana;
-A. Cohn, S. Bibliographic, 1871, &c., contributed to S. Jahrbuch; H. T. Hall,
-Shakzspcurizm Statistics, new edition 1874, 8vo; J. D. Mullins, Catalogue nf the S.
-Memnnal Library, Birmingham Free Libraries, 1872*76, 3 pts. 8vo, a. magniiicent
-collection of 7c>cc> vols. destroyed by hre in 1879, now fully replaced; A. C. Shaw, Index
-to the S. Memorial Library, Birmingham, 1903, 8vo; Katalog d. Bibtiothek der
-doulschen S. Gcs., Weimar, 1876, 8vo; K. Knortz, An American S. Bibringmphy,
-1876, rzmo; J. Winsor, Bibliography of lhe Original Quarlas and Folios, Cambridge,
-U.S.,I876, 4tO (with facsimiles), and S.': Poems, a Bibliography uf the Early Editions,
-1879, Svc; Catalogue of Works of, and relating to, W. S., Barton Coll., Boston Pub.
-Lib., by J. M. Hubbard, 1878-80, 2 vols. la. 8vo, the largest collection in U.S.; H. H.
-Morgan, Topical S.iana, arranged under Headings, St. Louis, 1879, 8vo; Topical Index
-in.S`hakespeariana, 1885—86,pts.xv.—xxii.,1·epr. as Diges¢a,pI:.1gA—F), N.Y., 1886,8vu;
-T. J. I, Arnold, S. Bibliography in the Netherlands, The Hague, 1879, sm. Svc; L. Un-
-Had, Die S. Literalur in Deutschland, 1880, 8vo; H. T. Hall, The Separate Editions
-uf S}: Plays, with the Alterations by various Hands, 1880, 8vo; J. Jeremiah, Aid tn
-Sean SIMdy,I880, 8vo; S. Timmins, Books an S., 1885, sm, Svc; F. Thimm, S. inthe
-British Museum (Lib. Chr.), 1887; H. R. Teddcr, The Claxsijcation 0f Shakcspeareana
-(Lib. Chr.), I887, 8vo; E. E. Baker, Calendar of S. Rarities, 1891, 8vo, ccllcpted by
-J. O. HalIiwe|l-Phillipps; Cal. nf British Museum: W S., 1807, folio; W. S.
-Brassington, Hand List of Collective Editions of S. before 180*0, 1898, 8vo; S. Lec,
-Catalogue af Shakexpeareana, 13gg, 4to, very complete; and Notes and Additions ta
-Census of Copies uf First Folin, 1906, 8vo, Four Quarto Editions of Plays by S., 1908,
-8vo, and A S. Reference Library, IQIO, Svc; L. Haas, Verleger u. Drucker der Werke
-S.’s bei 1640, 1904, 8vo; F. Madam, 8::., The Original Badleian Copy of the First Folio,
-1905, folio; R. Pmelss, Van d. dltesl. Drunken d. Dramen S.’s, Leipzig, 19::5, Svc; A.-
-W. Pollard. S. Folios and Quartnx, 1{94-1685. 1909, folic; Ca!. af Early Editions of S
-at Emu. Call., 1909, 8vo; G. W. C0 a, First Folio of S., N.Y., IQOQ, Svc; Cat, ofthe
-Books, Antiquities, @*0., exhibited at Shakespcards Birthplace, 1910, 8vo. (H. R. T.)
-
-### END: ED4A827_1.tif.txt ###
-
