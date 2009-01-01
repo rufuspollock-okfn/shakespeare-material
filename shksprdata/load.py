@@ -42,7 +42,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
             if work is None:
                 work = model.Work(name=work_name)
 
-            item = model.Material.byName(section)
+            item = model.Material.by_name(section)
             if item is None:
                 item = model.Material(name=section)
             assert item is not None
@@ -55,4 +55,20 @@ class LoadTexts(shakespeare.cli.BaseCommand):
             item.src_locator = '/texts/%s.txt' % section
             model.Session.flush()
 
+        # doing markdown conversion of EB text live takes too long ...
+        # so exclude for time being
+        return
+
+        # now do the eb info
+        item = model.Material.by_name('shakespeare_eb11')
+        if item is None:
+            item = model.Material(
+                name='shakespeare_eb11',
+                title='William Shakespeare Entry in Encyclopaedia Brittanica 11th Edition (1911)',
+                creator='Encylopaedia Britannica',
+                src_pkg = pkg,
+                src_locator = '/ancillary/britannica-11th.txt',
+                format='mkd'
+                )
+        model.Session.flush()
 
