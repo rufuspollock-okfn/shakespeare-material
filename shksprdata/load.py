@@ -33,7 +33,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
     def load_texts(self):
         import shakespeare.model as model
         pkg = 'shksprdata'
-        fileobj = pkg_resources.resource_stream(pkg, '/texts/metadata.txt')
+        fileobj = pkg_resources.resource_stream(pkg, '/gutenberg/metadata.txt')
         cfgp = SafeConfigParser()
         cfgp.readfp(fileobj)
         for section in cfgp.sections():
@@ -52,7 +52,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
                 setattr(item, key, val)
             item.work = work
             item.src_pkg = pkg
-            item.src_locator = '/texts/%s.txt' % section
+            item.src_locator = '/gutenberg/%s.txt' % section
             model.Session.flush()
 
         # doing markdown conversion of EB text live takes too long ...
