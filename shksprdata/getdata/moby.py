@@ -3,6 +3,15 @@ Obtain and import the Moby/Bosak xml-i-fied versions of shakespeare's plays
 available from:
 
     <http://www.ibiblio.org/xml/examples/shakespeare/>
+
+Note Moby/Bosak is *not* TEI encoded. See discussion in:
+
+    http://bistro.northwestern.edu/mmueller/ariadne/teixintro/index.htm
+
+TEI resources for transforming TEI to various output formats can be found at:
+
+    <http://www.tei-c.org/Tools/Stylesheets/>
+    <http://sourceforge.net/project/showfiles.php?group_id=106328>
 """
 import os
 
@@ -86,53 +95,69 @@ index = [
     ("A Winter's Tale",
         'http://www.ibiblio.org/xml/examples/shakespeare/win_tale.xml'),
     ]
- 
+
 import shakespeare.gutenberg
+import urllib
+class Helper(shakespeare.gutenberg.HelperBase):
 
-class Helper(shakespeare.gutenberg.Helper):
-
-    def __init__(self, verbose=False):
+    def __init__(self, works, cache='', verbose=False):
+        self._index = works
+        self.cache = cache
         self.verbose = verbose
-        self._index = index
 
-    def clean(self, line=None):
-        textsToProcess = self._filter_index(line) 
-        for item in textsToProcess:
-            url = item[1]
-            src = shakespeare.cache.default.path(url)
-            dest = shakespeare.cache.default.path(url, 'plain')
+    def download(self):
+        for item in self._index:
+            title, url = item
+            dest = self.title_to_name(title) + '_moby.xml'
+            dest = os.path.join(self.cache, dest)
+            self.vprint('Processing %s' % url)
             if os.path.exists(dest):
-                if self.verbose:
-                    print 'Skip clean of %s as plain version already exists' % src
-                continue
-            if self.verbose:
-                print 'Formatting %s to %s' % (src, dest)
-            infile = file(src)
-            ff = file(dest, 'w')
-            ff.write(infile.read())
-            ff.close()
-
-    def add_to_db(self):
-        """Add all texts to the db list of texts.
-        
-        If a text already exists in the db it will be skipped.
-        """
-        import shakespeare.model
-        for text in self._index:
-            title = text[0]
-            name = self.title_to_name(title) + '_moby'
-            url = text[1]
-            notes = 'Moby/Bosak Shakespeare, sourced from %s' % text[1]
-            numExistingTexts = shakespeare.model.Material.query.filter_by(
-                        name=name).count()
-            if numExistingTexts > 0:
-                if self.verbose:
-                    print('Skip: Add to db. Moby/Bosak text already exists with name: %s' % name)
+                self.vprint('\tSkipping')
             else:
-                if self.verbose:
-                    print('Add to db. Moby/Bosak text named [%s]' % name)
-                shakespeare.model.Material(name=name,
-                                        title=title,
-                                        creator='Shakespeare, William',
-                                        url=url,
-                                        notes=notes)
+                urllib.urlretrieve(url, dest)
+    
+    def make_metadata(self):
+        meta = {}
+        for text in self._index:
+            title, url = text
+            textinfo = {}
+            textinfo['title'] = title
+            textinfo['url'] = url
+            textinfo['notes'] = 'Moby/Bosak Shakespeare, sourced from %s' % text[1]
+            name = self.title_to_name(title) + '_moby'
+            meta[name] = textinfo
+        return meta
+    
+    def save_metadata(self):
+        meta = self.make_metadata()
+        metapath = os.path.join(self.cache, 'metadata_moby.txt')
+        import ConfigParser
+        cfgp = ConfigParser.SafeConfigParser()
+        x = meta.keys()
+        x.sort()
+        for textname in x:
+            cfgp.add_section(textname)
+            for k,v in meta[textname].items():
+                cfgp.set(textname, k, v)
+        self.vprint('Saving metadata')
+        cfgp.write(open(metapath, 'w'))
+
+    def all(self):
+        h.download()
+        h.save_metadata()
+
+from lxml import etree
+class Transformer(object):
+    def to_html(self, xsltfo, itemfo):
+        xslt_doc = etree.parse(xsltfo)
+        transform = etree.XSLT(xslt_doc)
+        doc = etree.parse(itemfo)
+        out = transform(doc)
+        return str(out)
+
+if __name__ == '__main__':
+    savepath = os.path.abspath('shksprdata/moby')
+    if not os.path.exists(savepath):
+        os.makedirs(savepath)
+    h = Helper(index, savepath, verbose=True)
+    h.all()
