@@ -72,3 +72,26 @@ class LoadTexts(shakespeare.cli.BaseCommand):
                 )
         model.Session.flush()
 
+class GetMobyTexts(shakespeare.cli.BaseCommand):
+    '''Download Moby texts.
+    '''
+    summary = __doc__.split('\n')[0]
+    usage = __doc__
+    max_args = None
+    min_args = 0
+
+    def command(self):
+        self._load_config()
+        # TODO: allo specifying a path?
+        self.download()
+
+    @classmethod
+    def download(self, savepath=None):
+        if not savepath:
+            savepath = os.path.abspath('shksprdata/moby')
+        if not os.path.exists(savepath):
+            os.makedirs(savepath)
+        import shksprdata.getdata.moby as moby
+        h = moby.Helper(index, savepath, verbose=True)
+        h.all()
+
