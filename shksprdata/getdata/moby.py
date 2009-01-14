@@ -143,17 +143,23 @@ class Helper(shakespeare.gutenberg.HelperBase):
         cfgp.write(open(metapath, 'w'))
 
     def all(self):
-        h.download()
-        h.save_metadata()
+        self.download()
+        self.save_metadata()
 
+import pkg_resources
 from lxml import etree
 class Transformer(object):
-    def to_html(self, xsltfo, itemfo):
+
+    def transform(self, xsltfo, itemfo):
         xslt_doc = etree.parse(xsltfo)
         transform = etree.XSLT(xslt_doc)
         doc = etree.parse(itemfo)
         out = transform(doc)
         return str(out)
+
+    def to_html(self, itemfo):
+        xsltfo = pkg_resources.resource_stream('shksprdata', '/moby_html.xsl')
+        return self.transform(xsltfo, itemfo)
 
 if __name__ == '__main__':
     savepath = os.path.abspath('shksprdata/moby')

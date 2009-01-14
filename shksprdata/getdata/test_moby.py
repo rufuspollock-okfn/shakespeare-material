@@ -77,9 +77,8 @@ class TestTransform:
 )
 
     def test_transform_1(self):
-        xslt = 'text.xsl'
         t = shksprdata.getdata.moby.Transformer()
-        out = t.to_html(open(xslt), self.intext)
+        out = t.to_html(self.intext)
         assert len(out) > 0
         assert 'PROSPERO' in out, out
 

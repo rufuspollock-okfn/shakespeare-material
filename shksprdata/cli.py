@@ -1,3 +1,4 @@
+import os
 from ConfigParser import SafeConfigParser
 
 import pkg_resources
@@ -72,7 +73,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
                 )
         model.Session.flush()
 
-class GetMobyTexts(shakespeare.cli.BaseCommand):
+class MobyDownload(shakespeare.cli.BaseCommand):
     '''Download Moby texts.
     '''
     summary = __doc__.split('\n')[0]
@@ -92,6 +93,23 @@ class GetMobyTexts(shakespeare.cli.BaseCommand):
         if not os.path.exists(savepath):
             os.makedirs(savepath)
         import shksprdata.getdata.moby as moby
-        h = moby.Helper(index, savepath, verbose=True)
+        # TODO: use verbose level
+        h = moby.Helper(moby.index, savepath, verbose=True)
         h.all()
+
+class MobyHtml(shakespeare.cli.BaseCommand):
+    '''Convert Moby texts to HTML.
+    '''
+    summary = __doc__.split('\n')[0]
+    usage = __doc__
+    max_args = None
+    min_args = 1
+
+    def command(self):
+        self._load_config()
+        path = self.args[0]
+        import shksprdata.getdata.moby as moby
+        t = moby.Transformer()
+        out = t.to_html(open(path))
+        print out
 
