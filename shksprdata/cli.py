@@ -113,3 +113,19 @@ class MobyHtml(shakespeare.cli.BaseCommand):
         out = t.to_html(open(path))
         print out
 
+class MobyLatex(shakespeare.cli.BaseCommand):
+    '''Convert Moby texts to LaTeX.
+    '''
+    summary = __doc__.split('\n')[0]
+    usage = __doc__
+    max_args = None
+    min_args = 1
+
+    def command(self):
+        self._load_config()
+        path = self.args[0]
+        import shksprdata.getdata.moby as moby
+        t = moby.Transformer()
+        out = t.to_latex(open(path))
+        print out
+

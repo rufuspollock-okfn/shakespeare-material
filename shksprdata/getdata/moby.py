@@ -150,16 +150,44 @@ import pkg_resources
 from lxml import etree
 class Transformer(object):
 
+    def norm_name(self, dummy, name):
+        out = name
+        out = out.split(',')[0]
+        out = out.split(',')[0]
+        out = out.replace(' ', '')
+        return out.lower()
+               
     def transform(self, xsltfo, itemfo):
+        # ns = etree.FunctionNamespace('http://openshakespeare.org/functions')
+        # ns.prefix = 'es'
+        # ns['norm_name'] = self.norm_name
+        extensions = {('http://openshakespeare.org/functions', 'norm_name'):
+                self.norm_name}
+        # namespaces = {'es' : 'http://openshakespeare.org/functions'}
+
         xslt_doc = etree.parse(xsltfo)
-        transform = etree.XSLT(xslt_doc)
         doc = etree.parse(itemfo)
+        # print doc.xpath("es:norm_name('bbb')")
+        # e = etree.XPathEvaluator(doc)
+
+        transform = etree.XSLT(xslt_doc,
+                # namespaces=namespaces,
+                extensions=extensions
+                )
         out = transform(doc)
         return str(out)
 
     def to_html(self, itemfo):
         xsltfo = pkg_resources.resource_stream('shksprdata', '/moby_html.xsl')
         return self.transform(xsltfo, itemfo)
+
+    def to_latex(self, itemfo):
+        xsltfo = pkg_resources.resource_stream('shksprdata', '/moby_latex.xsl')
+        out = self.transform(xsltfo, itemfo)
+        # escape all latex entities
+        for ch in [ '&', '$' ]:
+            out = out.replace(ch, '\\%s' % ch)
+        return out
 
 if __name__ == '__main__':
     savepath = os.path.abspath('shksprdata/moby')
