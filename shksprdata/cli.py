@@ -83,7 +83,7 @@ class MobyDownload(shakespeare.cli.BaseCommand):
 
     def command(self):
         self._load_config()
-        # TODO: allo specifying a path?
+        # TODO: allow specifying a path?
         self.download()
 
     @classmethod
@@ -93,39 +93,59 @@ class MobyDownload(shakespeare.cli.BaseCommand):
         if not os.path.exists(savepath):
             os.makedirs(savepath)
         import shksprdata.getdata.moby as moby
-        # TODO: use verbose level
-        h = moby.Helper(moby.index, savepath, verbose=True)
+        h = moby.Helper(moby.index, savepath, verbose=self.verbose)
         h.all()
 
-class MobyHtml(shakespeare.cli.BaseCommand):
-    '''Convert Moby texts to HTML.
+class Moby(shakespeare.cli.BaseCommand):
+    '''Convert Moby texts to various output formats.
     '''
     summary = __doc__.split('\n')[0]
-    usage = __doc__
+    usage = '''%prog {action} {path}
+
+action = html | latex | pdf
+    '''
     max_args = None
-    min_args = 1
+    min_args = 2
 
     def command(self):
         self._load_config()
-        path = self.args[0]
+        action = self.args[0]
+        path = self.args[1]
+        if action == 'html':
+            print self.html(path)
+        elif action == 'latex':
+            print self.latex(path)
+        elif action == 'pdf':
+            self.pdf(path)
+
+    def html(self, path):
         import shksprdata.getdata.moby as moby
         t = moby.Transformer()
         out = t.to_html(open(path))
-        print out
+        return out
 
-class MobyLatex(shakespeare.cli.BaseCommand):
-    '''Convert Moby texts to LaTeX.
-    '''
-    summary = __doc__.split('\n')[0]
-    usage = __doc__
-    max_args = None
-    min_args = 1
-
-    def command(self):
-        self._load_config()
-        path = self.args[0]
+    def latex(self, path):
         import shksprdata.getdata.moby as moby
         t = moby.Transformer()
         out = t.to_latex(open(path))
-        print out
+        return out
+
+    def pdf(self, path):
+        # import tempfile
+        # builddir = os.path.join(tempfile.tempdir, 'shksprdata')
+        import shakespeare 
+        conf = shakespeare.get_config()
+        builddir = os.path.join(conf['cachedir'], 'latex')
+        if not os.path.exists(builddir):
+            os.makedirs(builddir)
+        if path.endswith('.xml'): # assume we have not converted yet
+            out = self.latex(path)
+            latex_fp = os.path.join(builddir, os.path.basename(path) + '.tex')
+            fo = open(latex_fp, 'w')
+            fo.write(out)
+            fo.close()
+        else:
+            latex_fp = path
+        cmd = 'pdflatex --output-dir=%s %s' % (builddir, latex_fp) 
+        os.system(cmd)
 
