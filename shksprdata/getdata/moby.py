@@ -148,6 +148,7 @@ class Helper(shakespeare.gutenberg.HelperBase):
 
 import pkg_resources
 from lxml import etree
+from StringIO import StringIO
 class Transformer(object):
 
     def norm_name(self, dummy, name):
@@ -182,11 +183,28 @@ class Transformer(object):
         return self.transform(xsltfo, itemfo)
 
     def to_latex(self, itemfo):
+        '''Convert to latex.
+        '''
+        # something weird with pkg_resource streams so that cannot use same
+        # fileobj twice even when doing seek(0) ...
+        text = itemfo.read()
+        itemfo = StringIO(text)
+        itemfo2 = StringIO(text)
+
         xsltfo = pkg_resources.resource_stream('shksprdata', '/moby_latex.xsl')
-        out = self.transform(xsltfo, itemfo)
+        body = self.transform(xsltfo, itemfo)
         # escape all latex entities
         for ch in [ '&', '$' ]:
-            out = out.replace(ch, '\\%s' % ch)
+            body = body.replace(ch, '\\%s' % ch)
+        header = pkg_resources.resource_stream('shksprdata',
+                '/latex/header.tex').read()
+        doc = etree.parse(itemfo2)
+        # TODO: use supplied title
+        title = doc.xpath('/PLAY/TITLE/text()')[0]
+        # tidy it up (e.g. 'Twelfth Night, or What You Will')
+        title = title.split(',')[0]
+        header = header.replace('INSERT TITLE HERE', title)
+        out = header + body + '\n\\end{document}'
         return out
 
 if __name__ == '__main__':

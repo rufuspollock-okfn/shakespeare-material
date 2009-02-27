@@ -1,0 +1,89 @@
+\documentclass[a5paper]{memoir}
+\usepackage{verse}
+\usepackage{dramatist}
+\usepackage{setspace}
+
+\title{INSERT TITLE HERE}
+\author{William Shakespeare}
+
+% title for Open Shakespeare
+\newcommand{\titleOS}{
+  \begingroup
+  \begin{center}
+  \vspace*{\baselineskip}
+
+  {\Huge
+    The Open Shakespeare Edition
+  }
+  \\[0.5\baselineskip]
+  {\LARGE
+    \emph{of}
+  }
+  \\[\baselineskip]
+
+  \rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt}
+  \rule{\textwidth}{0.4pt}\\[\baselineskip]
+  {\HUGE
+    % Does not work
+    % See http://www.tex.ac.uk/cgi-bin/texfaq2html?label=atsigns
+    % \@title
+    INSERT TITLE HERE
+  }
+  \\[\baselineskip]
+  {\LARGE
+    \emph{by}
+    \\[0.8\baselineskip]
+    William Shakespeare
+  }
+  \\[0.2\baselineskip]
+  \rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt}
+  \rule{\textwidth}{1.6pt}\\[\baselineskip]
+  \vspace*{2\baselineskip}
+    Edited and Designed\\
+    by
+  \\[\baselineskip]
+  {\Large The Open Shakespeare Project\\
+  of the\\
+  The Open Knowledge Foundation
+  \\[0.3\baselineskip]
+  }
+  {\large
+  http://www.openshakespeare.org/\\
+  http://www.okfn.org/
+  }
+  \end{center}
+\endgroup}
+
+\newcommand*{\copyrightOS}{
+  \begingroup
+  \footnotesize
+
+  \noindent `{\copyright}' 2009 The Open Knowledge Foundation\\
+  Licensed under a Creative Commons Attribution License v3.0
+  \\[1em]
+
+  \noindent This material is `open' and may be freely copied, performed and modified without \emph{any} permission from us. Of course we'd appreciate acknowledgement of our efforts -- and we'd also love to hear about what uses our work has been put to! You can get in contact with us by email on: \emph{info@okfn.org}.
+
+
+  % But the basic point is:\\[1em]
+  % 
+  % \textbf{You're completely free to do whatever you like with this text without asking our permission so please go ahead download, print and redistribute to your hearts content.}\\[1em]
+  % 
+  % If you're looking to modify this you probably won't want to work with a PDF so we suggest your grab the source (also openly licensed) from our repository at: ...
+  % Note that the text itself if public domain and for that you should be acknowledge Mr Shakespreare not us!\\
+  \endgroup
+}
+
+\begin{document}
+\frontmatter
+\pagestyle{empty}
+\titleOS
+\clearpage
+\copyrightOS
+\clearpage
+
+\pagestyle{plain}
+\tableofcontents
+\mainmatter
+
+

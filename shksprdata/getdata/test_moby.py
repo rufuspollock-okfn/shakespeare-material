@@ -94,6 +94,7 @@ class TestTransform:
         # assert r'\Character[GONZALO, an honest old Counsellor.]{Gonzalo}' in out, out
         assert r'\GCharacter{ADRIAN}{ADRIAN}{adrian}' in out, out
         assert r'\act' in out
-        assert r"\Scene{SCENE II.  The island. Before PROSPERO'S cell.}" in out, out
+        # assert r"\Scene{SCENE II.  The island. Before PROSPERO'S cell.}" in out, out
+        assert "\\scene\n\nSCENE II.  The island. Before PROSPERO'S cell." in out, out
         assert r'\&c' in out, out
 
