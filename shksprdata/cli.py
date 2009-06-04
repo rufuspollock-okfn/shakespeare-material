@@ -12,6 +12,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
     usage = __doc__
     max_args = None
     min_args = 0
+    group_name = 'shkspr'
 
     def command(self):
         self._load_config()
@@ -80,6 +81,7 @@ class MobyDownload(shakespeare.cli.BaseCommand):
     usage = __doc__
     max_args = None
     min_args = 0
+    group_name = 'shkspr'
 
     def command(self):
         self._load_config()
@@ -98,14 +100,21 @@ class MobyDownload(shakespeare.cli.BaseCommand):
 
 class Moby(shakespeare.cli.BaseCommand):
     '''Convert Moby texts to various output formats.
+
+    moby {action} {path}
+
+    actions:
+        html: convert to html
+        latex: convert to latex
+        pdf: convert to pdf (via latex)
+
+    Source input files are at shksprdata/moby/
     '''
     summary = __doc__.split('\n')[0]
-    usage = '''%prog {action} {path}
-
-action = html | latex | pdf
-    '''
+    usage = __doc__
     max_args = None
     min_args = 2
+    group_name = 'shkspr'
 
     def command(self):
         self._load_config()
