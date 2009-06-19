@@ -19,15 +19,38 @@
   <style type="text/css">
     /* remove login info at top-right */
     #top-bar { display: none; }
+    #top { margin-top: 0.4em; }
     /* mess with standard ckan theme to remove second submenu for time being */
     #subnav { background: transparent; height: 1px; }
     #subnav * { display: none; }
-    #main { margin-top: 5px; }
+    /* in ckan css these were 1.4 and 2em respectively */
+    #main { margin-top: 0.5em; }
+    #primary { margin-top: 1.2em; }
 
-    #title-image {
+    #page-title {
+      background: transparent url('/img/shkspr_droeshout-60px.jpg') no-repeat top left;
+      /* clear image */
+      padding-left: 60px;
+      padding-top: 5px;
       height: 60px;
-      margin-bottom: -15px;
-      padding-right: 10px;
+      margin-bottom: 0;
+      line-height: 0.7;
+    }
+
+    #page-title .subtitle {
+      font-size: 0.4em;
+    }
+
+    div#word-of-the-day {
+      background: transparent url(/img/word_of_the_day.png) no-repeat top center;
+      height: 150px;
+    }
+
+    div#word-of-the-day p {
+      position:absolute;
+      left:40px;
+      top:114px;
+      font-size: 1.3em;
     }
   </style>
 
@@ -62,9 +85,12 @@
         </py:choose>
         <!--</topbar>-->
       </div><!-- /top-bar -->
-    <h1>
-      <img src="/img/shkspr_droeshout-60px.jpg" alt="" id="title-image" />
-      <a href="${h.url_for(controller='site', action='home')}" title="${c.site_title} Home">${c.site_title}</a>
+    <h1 id="page-title">
+      <a href="${h.url_for(controller='site')}" title="${c.site_title} Home">
+        ${c.site_title}
+      </a>
+      <br />
+      <span class="subtitle">The Marriage of Text and Technology</span>
     </h1>
     
     </div><!-- /top-inner -->
@@ -106,6 +132,15 @@
   <p class="hidden"><a href="#main" title="Skip to page content">[ Skip to main content ]</a></p> 
   
   <div id="primary" class="sidebar">
+
+    <!--
+    <div class="box">
+      <div id="word-of-the-day">
+        <p><a href="">Love</a></p>
+      </div>
+    </div>
+    -->
+
     <div class="box">
       <h2>Assistance</h2>
       <p>For information on using ${c.site_title} check out the
