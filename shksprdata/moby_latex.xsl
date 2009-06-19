@@ -60,12 +60,16 @@
 \direct{<xsl:value-of select="current" />}
 </xsl:template>
 
+<xsl:template match="LINE/STAGEDIR">
+[<xsl:value-of select="." />]
+</xsl:template>
+
 <xsl:template match="SPEECH">
 \begin{drama*}
 <!-- \<xsl:value-of select="es:norm_name(string(SPEAKER))" />speaks -->
 \speaker{<xsl:value-of select="SPEAKER" />}
 <xsl:for-each select="LINE">
-  <xsl:value-of select="." />\\
+  <xsl:apply-templates />\\
 </xsl:for-each>
 \end{drama*}
 </xsl:template>

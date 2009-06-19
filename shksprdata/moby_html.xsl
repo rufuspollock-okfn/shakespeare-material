@@ -5,15 +5,14 @@
 <xsl:template match="/">
 
 <html>
-<head>
-
-
-<title>Open Shakespeare - <xsl:value-of select="PLAY/TITLE" /></title>
-</head>
-<body>
+  <head>
+    <title>Open Shakespeare - <xsl:value-of select="PLAY/TITLE" /></title>
+    <link rel="stylesheet" href="http://m.okfn.org/okftext/css/okftext/text_basic.css" type="text/css" media="screen" charset="utf-8" />
+  </head>
+  <body>
    <xsl:call-template name="play" />
 <!-- We'll need to add in other templates for other forms of TEI and add in the templates -->
-</body>
+  </body>
 </html>
 </xsl:template>
 
@@ -21,26 +20,45 @@
 <xsl:template name="play">
 
 <xsl:for-each select="PLAY">
-   <h2><xsl:value-of select="TITLE" /></h2> 
-   <!-- Could be used to make a character list  
-    <xsl:for-each select="PERSONAE/PERSONA">
-        <p><xsl:value-of select="current()" /></p>
-      </xsl:for-each>  -->
-   <xsl:for-each select="ACT" >
-      <h4><xsl:value-of select="TITLE" /></h4>
-      <xsl:for-each select="SCENE" >
-          <h5><xsl:value-of select="TITLE" /></h5>
-              <xsl:for-each select="SPEECH" >
-                <p><xsl:value-of select="SPEAKER" /></p>
-                <p>
-                <xsl:for-each select="LINE" >
-                  <xsl:value-of select="current()" /><br />
-                </xsl:for-each>
-                </p>
-              </xsl:for-each>
-      </xsl:for-each>
-   </xsl:for-each>
+  <h2><xsl:value-of select="TITLE" /></h2> 
+  <!-- Could be used to make a character list  
+   <xsl:for-each select="PERSONAE/PERSONA">
+       <p><xsl:value-of select="current()" /></p>
+     </xsl:for-each>  -->
+  <xsl:for-each select="ACT" >
+    <h3><xsl:value-of select="TITLE" /></h3>
+    <xsl:for-each select="SCENE" >
+      <xsl:apply-templates />
+    </xsl:for-each>
+  </xsl:for-each>
 </xsl:for-each>
-
 </xsl:template>
+
+
+<xsl:template match="SCENE/TITLE">
+      <h4><xsl:value-of select="." /></h4>
+</xsl:template>
+
+<xsl:template match="SPEECH">
+  <p><xsl:value-of select="SPEAKER" /></p>
+  <p>
+  <xsl:for-each select="LINE" >
+    <xsl:apply-templates />
+    <br />
+  </xsl:for-each>
+  </p>
+</xsl:template>
+
+<xsl:template match="STAGEDIR">
+\StageDir{<xsl:value-of select="." />}
+</xsl:template>
+
+<xsl:template match="STAGEDIR">
+  <em><xsl:value-of select="." /></em>
+</xsl:template>
+
+<xsl:template match="LINE/STAGEDIR">
+  [<xsl:value-of select="." />]
+</xsl:template>
+
 </xsl:stylesheet>
