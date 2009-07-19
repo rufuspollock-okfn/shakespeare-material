@@ -39,22 +39,23 @@ class LoadTexts(shakespeare.cli.BaseCommand):
         cfgp = SafeConfigParser()
         cfgp.readfp(fileobj)
         for section in cfgp.sections():
-            work_name = self.norm_work_name(section)
+            work_name = unicode(self.norm_work_name(section))
             work = model.Work.by_name(work_name)
             if work is None:
                 work = model.Work(name=work_name)
 
-            item = model.Material.by_name(section)
+            item = model.Material.by_name(unicode(section))
             if item is None:
-                item = model.Material(name=section)
+                item = model.Material(name=unicode(section))
             assert item is not None
             for key, val in cfgp.items(section):
+                val = unicode(val, 'utf8')
                 if key in ['title', 'creator']:
                     setattr(work, key, val)
                 setattr(item, key, val)
             item.work = work
             item.src_pkg = pkg
-            item.src_locator = '/gutenberg/%s.txt' % section
+            item.src_locator = u'/gutenberg/%s.txt' % section
             model.Session.flush()
 
         # doing markdown conversion of EB text live takes too long ...
