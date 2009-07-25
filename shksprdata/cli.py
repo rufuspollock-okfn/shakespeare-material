@@ -54,8 +54,14 @@ class LoadTexts(shakespeare.cli.BaseCommand):
                     setattr(work, key, val)
                 setattr(item, key, val)
             item.work = work
-            item.src_pkg = pkg
-            item.src_locator = u'/gutenberg/%s.txt' % section
+            if not item.resources:
+                res = model.Resource(
+                    locator_type=u'package',
+                    locator=u'%s::/gutenberg/%s.txt' % (pkg, section),
+                    # TODO: use format correctly
+                    format=u'txt',
+                    material=item,
+                    )
             model.Session.flush()
 
         # doing markdown conversion of EB text live takes too long ...
