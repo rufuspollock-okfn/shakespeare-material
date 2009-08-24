@@ -20,49 +20,24 @@ class LoadTexts(shakespeare.cli.BaseCommand):
         print 'Loaded successfully'
 
     @classmethod
-    def norm_work_name(self, name):
-        out = name.replace('_f', '')
-        out = out.replace('_gut', '')
-        out = out.replace('anthonie', 'antony')
-        out = out.replace('errours', 'errors')
-        out = out.replace('alls', "all_is")
-        out = out.replace('loves_labour_', 'loves_labours_')
-        out = out.replace('dreame', 'dream')
-        out = out.replace('twelfe-', 'twelfth_')
-        return out
-
-    @classmethod
     def load_texts(self):
         import shakespeare.model as model
         pkg = 'shksprdata'
         fileobj = pkg_resources.resource_stream(pkg, '/gutenberg/metadata.txt')
-        cfgp = SafeConfigParser()
-        cfgp.readfp(fileobj)
-        for section in cfgp.sections():
-            work_name = unicode(self.norm_work_name(section))
-            work = model.Work.by_name(work_name)
-            if work is None:
-                work = model.Work(name=work_name)
+        def locator(section):
+            return u'%s::/gutenberg/%s.txt' % (pkg, section)
+        def norm_work_name(name):
+            out = name.replace('_f', '')
+            out = out.replace('_gut', '')
+            out = out.replace('anthonie', 'antony')
+            out = out.replace('errours', 'errors')
+            out = out.replace('alls', "all_is")
+            out = out.replace('loves_labour_', 'loves_labours_')
+            out = out.replace('dreame', 'dream')
+            out = out.replace('twelfe-', 'twelfth_')
+            return out
 
-            item = model.Material.by_name(unicode(section))
-            if item is None:
-                item = model.Material(name=unicode(section))
-            assert item is not None
-            for key, val in cfgp.items(section):
-                val = unicode(val, 'utf8')
-                if key in ['title', 'creator']:
-                    setattr(work, key, val)
-                setattr(item, key, val)
-            item.work = work
-            if not item.resources:
-                res = model.Resource(
-                    locator_type=u'package',
-                    locator=u'%s::/gutenberg/%s.txt' % (pkg, section),
-                    # TODO: use format correctly
-                    format=u'txt',
-                    material=item,
-                    )
-            model.Session.flush()
+        model.load_texts(fileobj, locator)
 
         # doing markdown conversion of EB text live takes too long ...
         # so exclude for time being
