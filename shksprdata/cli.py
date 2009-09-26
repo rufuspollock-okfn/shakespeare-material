@@ -5,6 +5,64 @@ import pkg_resources
 
 import shakespeare.cli
 
+class BaseCommand(shakespeare.cli.BaseCommand):
+    max_args = None
+    min_args = 0
+    group_name = 'shkspr'
+
+class TestSite(shakespeare.cli.BaseCommand):
+    '''Perform simple consistency tests on wui.
+
+    Usage: test-data <wui url>
+    '''
+    summary = __doc__.split('\n')[0]
+    usage = __doc__
+
+    def command(self):
+        print 'WUI check'
+        print   '========='
+        import paste.fixture
+        import paste.proxy
+        self.wui_address = self.args[0]
+        if not self.wui_address.startswith('http://'):
+            self.wui_address = 'http://' + self.wui_address
+        if self.wui_address.endswith('/'):
+            self.wui_address = self.wui_address[:-1]
+
+        wsgiapp = paste.proxy.make_proxy({}, self.wui_address)
+        self.app = paste.fixture.TestApp(wsgiapp)
+
+        def check_page(path, required_contents, status=200):
+            print "* Checking page '%s%s'" % (self.wui_address, path)
+            res = self.app.get(path, status=status)
+            for required in required_contents:
+                print '    ...checking for %r' % required
+                assert required in res, res
+            return res
+
+        res = check_page('/', ['Work', 'Material'])
+        res = res.click('Read texts')
+        print '* Checking work index'
+        worktitle = 'Antony and Cleopatra'
+        assert worktitle in res
+
+        print '* Checking work info'
+        res = res.click(worktitle)
+        assert worktitle in res
+        assert 'Associated Material' in res
+        mattitle = worktitle + ' [Gutenberg]' 
+        assert mattitle in res
+
+        print '* Checking material info'
+        assert mattitle + '</a>' in res, res.showbrowser()
+        # res.showbrowser()
+        # res = res.click(mattitle)
+        # does not work ....
+
+
+
+
+
 class LoadTexts(shakespeare.cli.BaseCommand):
     '''Load shakespeare texts.
     '''
@@ -23,6 +81,9 @@ class LoadTexts(shakespeare.cli.BaseCommand):
     def load_texts(self):
         import shakespeare.model as model
         pkg = 'shksprdata'
+        work_fileobj = pkg_resources.resource_stream(pkg, '/works_metadata.txt')
+        model.load_works(work_fileobj)
+
         fileobj = pkg_resources.resource_stream(pkg, '/gutenberg/metadata.txt')
         def locator(section):
             return u'%s::/gutenberg/%s.txt' % (pkg, section)
@@ -31,7 +92,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
             out = out.replace('_gut', '')
             out = out.replace('anthonie', 'antony')
             out = out.replace('errours', 'errors')
-            out = out.replace('alls', "all_is")
+            out = out.replace('all_is', "alls")
             out = out.replace('loves_labour_', 'loves_labours_')
             out = out.replace('dreame', 'dream')
             out = out.replace('twelfe-', 'twelfth_')
