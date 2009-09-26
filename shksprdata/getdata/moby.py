@@ -105,6 +105,12 @@ class Helper(shakespeare.gutenberg.HelperBase):
         self.cache = cache
         self.verbose = verbose
 
+    def title_to_name(self, title):
+        out = super(Helper, self).title_to_name(title)
+        tmap = { 'life_and_death_of_king_john': 'john' }
+        out = tmap.get(out, out)
+        return out
+
     def download(self):
         for item in self._index:
             title, url = item

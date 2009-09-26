@@ -1,0 +1,148 @@
+[tempest_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/tempest.xml
+title = The Tempest [Moby]
+
+[julius_caesar_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/j_caesar.xml
+title = Julius Caesar [Moby]
+
+[two_gentlemen_of_verona_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/two_gent.xml
+title = Two Gentlemen of Verona [Moby]
+
+[comedy_of_errors_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/com_err.xml
+title = A Comedy of Errors [Moby]
+
+[cymbeline_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/cymbelin.xml
+title = Cymbeline [Moby]
+
+[loves_labors_lost_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/lll.xml
+title = Love's Labor's Lost [Moby]
+
+[henry_v_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_v.xml
+title = Henry V [Moby]
+
+[twelfth_night_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/t_night.xml
+title = Twelfth Night [Moby]
+
+[merchant_of_venice_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/merchant.xml
+title = The Merchant of Venice [Moby]
+
+[hamlet_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hamlet.xml
+title = Hamlet [Moby]
+
+[alls_well_that_ends_well_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/all_well.xml
+title = All's Well That Ends Well [Moby]
+
+[winters_tale_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/win_tale.xml
+title = A Winter's Tale [Moby]
+
+[john_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/john.xml
+title = The Life and Death of King John [Moby]
+
+[pericles_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/pericles.xml
+title = Pericles [Moby]
+
+[othello_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/othello.xml
+title = Othello [Moby]
+
+[henry_viii_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_viii.xml
+title = Henry VIII [Moby]
+
+[timon_of_athens_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/timon.xml
+title = Timon of Athens [Moby]
+
+[henry_iv_part_i_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_iv_1.xml
+title = Henry IV, Part I [Moby]
+
+[henry_vi_part_2_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_vi_2.xml
+title = Henry VI, Part 2 [Moby]
+
+[richard_ii_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/rich_ii.xml
+title = Richard II [Moby]
+
+[henry_vi_part_1_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_vi_1.xml
+title = Henry VI, Part 1 [Moby]
+
+[romeo_and_juliet_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/r_and_j.xml
+title = Romeo and Juliet [Moby]
+
+[taming_of_the_shrew_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/taming.xml
+title = The Taming of the Shrew [Moby]
+
+[as_you_like_it_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/as_you.xml
+title = As You Like It [Moby]
+
+[macbeth_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/macbeth.xml
+title = Macbeth [Moby]
+
+[merry_wives_of_windsor_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/m_wives.xml
+title = The Merry Wives of Windsor [Moby]
+
+[henry_iv_part_ii_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_iv_2.xml
+title = Henry IV, Part II [Moby]
+
+[measure_for_measure_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/m_for_m.xml
+title = Measure for Measure [Moby]
+
+[midsummer_nights_dream_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/dream.xml
+title = A Midsummer Night's Dream [Moby]
+
+[antony_and_cleopatra_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/a_and_c.xml
+title = Antony and Cleopatra [Moby]
+
+[lear_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/lear.xml
+title = King Lear [Moby]
+
+[richard_iii_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/rich_iii.xml
+title = Richard III [Moby]
+
+[much_ado_about_nothing_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/much_ado.xml
+title = Much Ado About Nothing [Moby]
+
+[coriolanus_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/coriolan.xml
+title = Coriolanus [Moby]
+
+[titus_andronicus_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/titus.xml
+title = Titus Andronicus [Moby]
+
+[henry_vi_part_3_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/hen_vi_3.xml
+title = Henry VI, Part 3 [Moby]
+
+[troilus_and_cressida_moby]
+notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/troilus.xml
+title = Troilus and Cressida [Moby]
+

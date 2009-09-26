@@ -28,11 +28,11 @@ title = Hamlet
 
 [henry_iv_part_1]
 creator = Shakespeare, William
-title = King Henry IV, Part 1
+title = Henry IV, Part 1
 
 [henry_iv_part_2]
 creator = Shakespeare, William
-title = King Henry IV, Part 2
+title = Henry IV, Part 2
 
 [henry_v]
 creator = Shakespeare, William
@@ -44,7 +44,7 @@ title = Henry VI Part 1
 
 [henry_vi_part_2]
 creator = Shakespeare, William
-title = King Henry VI, Part 2
+title = Henry VI, Part 2
 
 [henry_vi_part_3]
 creator = Shakespeare, William
@@ -82,9 +82,9 @@ title = Macbeth
 creator = Shakespeare, William
 title = The Merry Wives of Windsor
 
-[midsummer_nights_dreame]
+[midsummer_nights_dream]
 creator = Shakespeare, William
-title = Midsummer Nights Dreame
+title = A Midsummer Nights Dream
 
 [measure_for_measure]
 creator = Shakespeare, William
@@ -120,7 +120,7 @@ title = The Rape of Lucrece
 
 [richard_ii]
 creator = Shakespeare, William
-title = King Richard II
+title = Richard II
 
 [richard_iii]
 creator = Shakespeare, William

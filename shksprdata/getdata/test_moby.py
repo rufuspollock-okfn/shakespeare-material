@@ -14,6 +14,7 @@ class TestHelper(object):
         meta = self.helper.make_metadata()
         assert len(meta) == 37
         assert 'twelfth_night_moby' in meta, meta.keys()
+        assert 'john_moby' in meta, meta.keys()
 
 
 from StringIO import StringIO
