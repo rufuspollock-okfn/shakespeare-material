@@ -37,7 +37,7 @@ class LoadTexts(shakespeare.cli.BaseCommand):
             out = out.replace('twelfe-', 'twelfth_')
             return out
 
-        model.load_texts(fileobj, locator)
+        model.load_texts(fileobj, locator, norm_work_name=norm_work_name)
 
         # doing markdown conversion of EB text live takes too long ...
         # so exclude for time being
