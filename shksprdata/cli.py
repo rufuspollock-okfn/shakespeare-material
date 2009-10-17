@@ -144,6 +144,7 @@ class LoadTexts(BaseCommand):
         fileobj = pkg_resources.resource_stream(pkg, '/moby/metadata.txt')
         def norm_work_name(out):
             out = out.replace('_moby', '')
+            out = out.replace('life_and_death_of_king_john', 'john')
             out = out.replace('labor', 'labour')
             out = out.replace('part_iii', 'part_3')
             out = out.replace('part_ii', 'part_2')
