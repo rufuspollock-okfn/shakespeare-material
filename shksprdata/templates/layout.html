@@ -23,11 +23,23 @@
     #page-title {
       background: transparent url('/img/shkspr_droeshout-60px.jpg') no-repeat top left;
       /* clear image */
-      padding-left: 60px;
+      padding-left: 65px;
       padding-top: 5px;
       height: 60px;
       margin-bottom: 0;
       line-height: 0.7;
+    }
+
+    #page-title img.logo {
+      height: 60px;
+      border: none;
+      margin: 0;
+      padding: 0;
+      margin-top: -5px;
+    }
+
+    #page-title a {
+      background-color: transparent;
     }
 
     div#word-of-the-day {
@@ -76,10 +88,8 @@
       </div><!-- /top-bar -->
     <h1 id="page-title">
       <a href="${h.url_for(controller='site')}" title="${c.site_title} Home">
-        ${c.site_title}
+        <img src="/img/open_shakespeare_logo.png" alt="Open Shakespeare - The Marriage of Text and Technology" class="logo" />
       </a>
-      <br />
-      <p class="subtitle">The Marriage of Text and Technology</p>
     </h1>
     
     </div><!-- /top-inner -->
