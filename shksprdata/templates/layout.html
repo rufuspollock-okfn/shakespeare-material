@@ -12,20 +12,19 @@
   <style type="text/css">
     #page-title {
       background: transparent url(/img/shkspr_droeshout-60px.jpg) no-repeat top left;
-      /* clear image */
-      padding-left: 65px;
-      padding-top: 5px;
+      /* clear background image */
+      padding: 0 0 0 50px;
+      margin: 10px 0;
       height: 60px;
-      margin-bottom: 0;
       line-height: 0.7;
     }
 
     #page-title img.logo {
-      height: 60px;
+      height: 80px;
       border: none;
       margin: 0;
       padding: 0;
-      margin-top: -5px;
+      margin-top: -13px;
     }
 
     #page-title a {
@@ -50,7 +49,7 @@
   <py:match path="h1">
     <h1 id="page-title">
       <a href="${h.url_for(controller='site')}" title="${c.site_title} Home">
-        <img src="/img/open_shakespeare_logo.png" alt="Open Shakespeare - The Marriage of Text and Technology" class="logo" />
+        <img src="/img/shkspr/open_shakespeare_logo.png" alt="Open Shakespeare - The Marriage of Text and Technology" class="logo" />
       </a>
     </h1>
   </py:match>
