@@ -188,7 +188,11 @@ class LoadTexts(BaseCommand):
 
 
 class MobyDownload(BaseCommand):
-    '''Download Moby texts.
+    '''Download Moby xml texts.
+
+        moby-download {path-to-download-to}
+
+        If path not specified download to %(cachedir)s/moby/xml
     '''
     summary = __doc__.split('\n')[0]
     usage = __doc__
@@ -198,15 +202,17 @@ class MobyDownload(BaseCommand):
 
     def command(self):
         self._load_config()
-        # TODO: allow specifying a path?
-        self.download()
+        savepath = self.args[0] if self.args else None
+        self.download(savepath)
 
-    @classmethod
     def download(self, savepath=None):
         if not savepath:
-            savepath = os.path.abspath('shksprdata/moby')
+            conf = shakespeare.get_config()
+            cachedir = os.path.abspath(conf['cachedir'])
+            savepath = os.path.join(cachedir, 'moby')
         if not os.path.exists(savepath):
             os.makedirs(savepath)
+        print 'Saving texts to: %s' % savepath
         import shksprdata.getdata.moby as moby
         h = moby.Helper(moby.index, savepath, verbose=self.verbose)
         h.all()
