@@ -41,7 +41,7 @@ class TestSite(BaseCommand):
                 assert required in res, res
             return res
 
-        res = check_page('/', ['Work', 'Material'])
+        res = check_page('/', ['Work', 'About'])
         res = res.click('Read texts')
         print '* Checking work index'
         worktitle = 'Antony and Cleopatra'
@@ -50,12 +50,12 @@ class TestSite(BaseCommand):
         print '* Checking work info'
         res = res.click(worktitle)
         assert worktitle in res
-        assert 'Associated Material' in res
+        assert 'Editions' in res
         mattitle = worktitle + ' [Gutenberg]' 
         assert mattitle in res
 
         print '* Checking material info'
-        assert mattitle + '</a>' in res, res.showbrowser()
+        assert mattitle in res, res.showbrowser()
         # res.showbrowser()
         # res = res.click(mattitle)
         # does not work ....
