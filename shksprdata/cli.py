@@ -131,11 +131,10 @@ class LoadTexts(BaseCommand):
                 res = model.Resource(
                     locator_type=u'package',
                     locator=locator,
-                    # TODO: use format correctly
                     format=u'txt',
                     material=item,
                     )
-        model.Session.flush()
+        model.Session.commit()
 
     @classmethod
     def load_moby(self):
@@ -154,21 +153,19 @@ class LoadTexts(BaseCommand):
         material = model.load_material(fileobj, norm_work_name=norm_work_name)
         for item in material:
             if not item.resources:
-                res = model.Resource(
+                model.Resource(
                     locator_type=u'cache',
                     locator='moby/html/%s.html' % item.name,
-                    # TODO: use format correctly
                     format=u'html',
                     material=item,
                     )
-                res = model.Resource(
+                model.Resource(
                     locator_type=u'cache',
-                    locator='moby/pdf/%s.pdf' % item.name,
-                    # TODO: use format correctly
+                    locator=u'moby/pdf/%s.pdf' % item.name,
                     format=u'pdf',
                     material=item,
                     )
-        model.Session.flush()
+        model.Session.commit()
     
     # doing markdown conversion of EB text live takes too long ...
     # so exclude for time being
