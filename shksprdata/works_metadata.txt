@@ -84,7 +84,7 @@ title = The Merry Wives of Windsor
 
 [midsummer_nights_dream]
 creator = Shakespeare, William
-title = A Midsummer Nights Dream
+title = A Midsummer Night's Dream
 
 [measure_for_measure]
 creator = Shakespeare, William
@@ -164,6 +164,6 @@ title = Two Gentlemen of Verona
 
 [winters_tale]
 creator = Shakespeare, William
-title = The Winters Tale
+title = The Winter's Tale
 
 

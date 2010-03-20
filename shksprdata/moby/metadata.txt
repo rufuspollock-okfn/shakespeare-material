@@ -44,7 +44,7 @@ title = All's Well That Ends Well [Moby]
 
 [winters_tale_moby]
 notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/win_tale.xml
-title = A Winter's Tale [Moby]
+title = The Winter's Tale [Moby]
 
 [life_and_death_of_king_john_moby]
 notes = Moby/Bosak Shakespeare, sourced from http://www.ibiblio.org/xml/examples/shakespeare/john.xml

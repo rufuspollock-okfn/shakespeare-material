@@ -87,7 +87,7 @@ url = http://www.gutenberg.org/dirs/etext00/0ws1710.txt
 notes = Sourced from Project Gutenberg (<http://www.gutenberg.org/dirs/etext00/0ws1710.txt>). folio
 format = txt
 creator = Shakespeare, William
-title = Midsummer Nights Dreame [Gutenberg folio]
+title = A Midsummer Night's Dreame [Gutenberg folio]
 
 [julius_caesar_gut]
 url = http://www.gutenberg.org/dirs/etext98/2ws2410.txt
