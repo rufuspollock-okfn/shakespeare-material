@@ -1,2 +1,3 @@
 syntax: glob
 shksprdata/moby/*.xml
+*.egg-info
