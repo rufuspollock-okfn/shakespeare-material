@@ -537,3 +537,9 @@ format = txt
 creator = Shakespeare, William
 title = Henry VI, Part II [Gutenberg folio]
 
+[venus_and_adonis_gut]
+url = http://www.gutenberg.org/files/1045/1045.txt
+format = txt
+creator = Shakespeare, William
+title = Venus and Adonis
+

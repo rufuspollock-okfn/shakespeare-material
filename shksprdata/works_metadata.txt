@@ -162,6 +162,10 @@ title = Twelfth Night
 creator = Shakespeare, William
 title = Two Gentlemen of Verona
 
+[venus_and_adonis]
+creator = Shakespeare, William
+title = Venus and Adonis
+
 [winters_tale]
 creator = Shakespeare, William
 title = The Winter's Tale
