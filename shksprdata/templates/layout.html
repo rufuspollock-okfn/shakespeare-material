@@ -36,9 +36,16 @@
 
   <py:match path="h1">
     <h1 id="page-title">
-      <a href="${h.url_for(controller='site')}" title="${c.site_title} Home">
+      <a href="${h.url_for('home')}" title="${c.site_title} Home">
         <img src="/img/shkspr/open_shakespeare_logo.png" alt="Open Shakespeare - The Marriage of Text and Technology" class="logo" />
       </a>
+      <div style="float: right;">
+        <a href="http://www.okfn.org">
+          <img
+          src="http://assets.okfn.org/images/logo/logo_fullname_medium.png"
+          style="height: 55px;" alt="Open Knowledge Foundation" />
+        </a>
+      </div>
     </h1>
   </py:match>
 
