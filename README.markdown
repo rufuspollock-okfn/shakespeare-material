@@ -1,5 +1,4 @@
-This is a set of **[Open][]** Shakespeare material provided in consolidate form
-to enabled automated use. Material includes:
+This is a set of **[Open][]** Shakespeare material including:
 
 [Open]: http://opendefinition.org/
 
@@ -9,6 +8,6 @@ to enabled automated use. Material includes:
     entry
   * Useful scripts e.g. XSL to produce high quality PDFs via Latex
 
-All of this provided in It is provided as a data package for easy 
-for runnning http://openshakespeare.org/.
+The material is provided in consolidated form as a git repository and data
+package to support automated use and reuse. 
 
