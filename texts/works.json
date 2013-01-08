@@ -1,0 +1,174 @@
+[
+  {
+    "id": "alls_well_that_ends_well", 
+    "title": "All's Well That Ends Well"
+  }, 
+  {
+    "id": "antony_and_cleopatra", 
+    "title": "Antony and Cleopatra"
+  }, 
+  {
+    "id": "as_you_like_it", 
+    "title": "As you Like it"
+  }, 
+  {
+    "id": "comedy_of_errors", 
+    "title": "The Comedy of Errors"
+  }, 
+  {
+    "id": "coriolanus", 
+    "title": "Coriolanus"
+  }, 
+  {
+    "id": "cymbeline", 
+    "title": "Cymbeline"
+  }, 
+  {
+    "id": "hamlet", 
+    "title": "Hamlet"
+  }, 
+  {
+    "id": "henry_iv_part_1", 
+    "title": "Henry IV, Part 1"
+  }, 
+  {
+    "id": "henry_iv_part_2", 
+    "title": "Henry IV, Part 2"
+  }, 
+  {
+    "id": "henry_v", 
+    "title": "Henry V"
+  }, 
+  {
+    "id": "henry_vi_part_1", 
+    "title": "Henry VI Part 1"
+  }, 
+  {
+    "id": "henry_vi_part_2", 
+    "title": "Henry VI, Part 2"
+  }, 
+  {
+    "id": "henry_vi_part_3", 
+    "title": "Henry VI Part 3"
+  }, 
+  {
+    "id": "henry_viii", 
+    "title": "Henry VIII"
+  }, 
+  {
+    "id": "john", 
+    "title": "King John"
+  }, 
+  {
+    "id": "julius_caesar", 
+    "title": "Julius Caesar"
+  }, 
+  {
+    "id": "lear", 
+    "title": "King Lear"
+  }, 
+  {
+    "id": "lovers_complaint", 
+    "title": "A Lover's Complaint"
+  }, 
+  {
+    "id": "loves_labours_lost", 
+    "title": "Love's Labour's Lost"
+  }, 
+  {
+    "id": "macbeth", 
+    "title": "Macbeth"
+  }, 
+  {
+    "id": "merry_wives_of_windsor", 
+    "title": "The Merry Wives of Windsor"
+  }, 
+  {
+    "id": "midsummer_nights_dream", 
+    "title": "A Midsummer Night's Dream"
+  }, 
+  {
+    "id": "measure_for_measure", 
+    "title": "Measure for Measure"
+  }, 
+  {
+    "id": "merchant_of_venice", 
+    "title": "The Merchant of Venice"
+  }, 
+  {
+    "id": "much_ado_about_nothing", 
+    "title": "Much ado about Nothing"
+  }, 
+  {
+    "id": "othello", 
+    "title": "Othello"
+  }, 
+  {
+    "id": "passionate_pilgrim", 
+    "title": "The Passionate Pilgrim"
+  }, 
+  {
+    "id": "pericles", 
+    "title": "Pericles"
+  }, 
+  {
+    "id": "phoenix_and_the_turtle", 
+    "title": "The Phoenix and the Turtle"
+  }, 
+  {
+    "id": "rape_of_lucrece", 
+    "title": "The Rape of Lucrece"
+  }, 
+  {
+    "id": "richard_ii", 
+    "title": "Richard II"
+  }, 
+  {
+    "id": "richard_iii", 
+    "title": "Richard III"
+  }, 
+  {
+    "id": "romeo_and_juliet", 
+    "title": "Romeo and Juliet"
+  }, 
+  {
+    "id": "sonnets", 
+    "title": "Sonnets"
+  }, 
+  {
+    "id": "taming_of_the_shrew", 
+    "title": "The Taming of the Shrew"
+  }, 
+  {
+    "id": "tempest", 
+    "title": "The Tempest"
+  }, 
+  {
+    "id": "timon_of_athens", 
+    "title": "Timon of Athens"
+  }, 
+  {
+    "id": "titus_andronicus", 
+    "title": "Titus Andronicus"
+  }, 
+  {
+    "id": "troilus_and_cressida", 
+    "title": "Troilus and Cressida"
+  }, 
+  {
+    "id": "twelfth_night", 
+    "title": "Twelfth Night"
+  }, 
+  {
+    "id": "two_gentlemen_of_verona", 
+    "title": "Two Gentlemen of Verona"
+  }, 
+  {
+    "id": "venus_and_adonis", 
+    "title": "Venus and Adonis"
+  }, 
+  {
+    "id": "winters_tale", 
+    "title": "The Winter's Tale"
+  }
+]
